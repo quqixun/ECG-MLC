@@ -1,0 +1,29 @@
+{
+    "baseline-tcn": {
+        "lr": 3e-3,
+        "model": "tcn",
+        "n_epochs": 200,
+        "batch_size": 256,
+        "weight_decay": 0.0,
+        "dropout": 0.0,
+        "kernel_size": 7,
+        "num_channels": [32, 32, 64, 64, 128, 128]
+    },
+    "baseline-mstcn": {
+        "lr": 3e-3,
+        "model": "mstcn",
+        "n_epochs": 200,
+        "batch_size": 256,
+        "weight_decay": 0.0,
+        "dropout": 0.0,
+        "kernel_size": 7,
+        "num_channels": [32, 32, 64, 64, 128, 128]
+    },
+    "baseline-resnet": {
+        "lr": 1e-3,
+        "model": "resnet",
+        "n_epochs": 100,
+        "batch_size": 256,
+        "weight_decay": 0.0
+    }
+}
