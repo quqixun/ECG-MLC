@@ -5,6 +5,7 @@ import numpy as np
 from tqdm import *
 from pathlib import Path
 from resnet import ResNeXt
+from tcn import TCN, MSTCN
 from torch.autograd import Variable
 from scipy.signal import resample_poly
 
@@ -23,8 +24,16 @@ ECG_STD = np.array(
 
 class ECGPredictor(object):
 
-    def __init__(self, model_path, labels):
-        self.model = ResNeXt()
+    def __init__(self, model_name, model_path, labels):
+        if model_name == 'resnet':
+            self.model = ResNeXt()
+        elif model_name == 'tcn':
+            self.model = TCN(8, 55, [32, 32, 64, 64, 128, 128], 7)
+        elif model_name == 'mstcn':
+            self.model = MSTCN(8, 55, [32, 32, 64, 64, 128, 128], 7)
+        else:
+            raise ValueError('Invalid model_name')
+
         self.model.load_state_dict(
             torch.load(model_path, map_location='cpu')
         )
@@ -106,11 +115,11 @@ def main(args):
         os.makedirs(args.output_dir)
 
     labels_file = '../../data/hf_round1_arrythmia.txt'
-    with open(labels_file, 'r') as f:
+    with open(labels_file, 'r', encoding='utf-8') as f:
         labels = f.readlines()
     labels = [a.strip() for a in labels]
 
-    with open(args.submit_txt, 'r') as f:
+    with open(args.submit_txt, 'r', encoding='utf-8') as f:
         submit_samples = f.readlines()
 
     model_paths, single_model = [], True
@@ -123,7 +132,7 @@ def main(args):
     multiple_results = []
     for i, model_path in enumerate(model_paths):
         print('Model:', model_path)
-        predictor = ECGPredictor(model_path, labels)
+        predictor = ECGPredictor(args.model_name, model_path, labels)
         model_results = []
         for sample in tqdm(submit_samples, ncols=75):
             sample_strip = sample.strip('\n')
@@ -164,6 +173,9 @@ if __name__ == '__main__':
     parser.add_argument('--submit-id', '-id', type=str,
                         action='store', dest='submit_id',
                         help='ID of submission')
+    parser.add_argument('--model-name', '-n', type=str,
+                        action='store', dest='model_name',
+                        help='Model type used to predict')
     parser.add_argument('--signal-dir', '-s', type=str,
                         action='store', dest='signal_dir',
                         help='Directory of training data')

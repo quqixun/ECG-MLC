@@ -89,7 +89,7 @@ class TemporalConvNet(nn.Module):
 
 class TCN(nn.Module):
     def __init__(self, in_channels, out_channels,
-                 num_channels, kernel_size, dropout):
+                 num_channels, kernel_size, dropout=0.2):
         super(TCN, self).__init__()
 
         self.tcn = TemporalConvNet(
@@ -107,7 +107,7 @@ class TCN(nn.Module):
 
 class MSTCN(nn.Module):
     def __init__(self, in_channels, out_channels,
-                 num_channels, kernel_size, dropout):
+                 num_channels, kernel_size, dropout=0.2):
         super(MSTCN, self).__init__()
 
         self.tcn = TemporalConvNet(
