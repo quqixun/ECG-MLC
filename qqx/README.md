@@ -1,11 +1,14 @@
 # HFECG
 
-文件夹结构
+["合肥高新杯"心电人机智能大赛](https://tianchi.aliyun.com/competition/entrance/231754/introduction)
+
+## 文件夹结构
+
 - data
-	- train_txt: 文件夹，训练集txt (这里没有，自己加)
+	- train_txt: 文件夹，训练集txt
 	- train_npy: 文件夹，txt转成npy (这里没有，自己加)
 	- textA_txt: 文件夹，测试集A的txt (这里没有，自己加)
-	- textA_npy: 文件夹，测试集A的txt转成npy (这里没有，自己加)
+	- textA_npy: 文件夹，测试集A的txt转成npy
 	- hf_round1_arrythmia.txt: 标签列表
 	- hf_round1_label.txt: 训练集标签
 	- hf_round1_subA.txt: 测试集A列表
@@ -21,3 +24,13 @@
 		- gen_labels.py: 训练集标签txt转成one hot的csv
 		- prep_ecg.py: 预处理，降采样到100Hz，并计算mean和std
 		- plot_ecg.py: 画图
+- outputs: 预测结果，提交文件
+
+## 提交结果
+|NO.|Model|Submission|TestA|TestB|
+|:-:|:---:|:--------:|:---:|:---:|
+|1|[ResNet](https://github.com/quqixun/HFECG/blob/master/qqx/src/baseline/resnet.py#L65)|[File](./outputs/baseline-resnet/baseline-resnet.txt)|0.734|-|
+|2|[ResNet](https://github.com/quqixun/HFECG/blob/master/qqx/src/baseline/resnet.py#L65) Ensemble|[File](./outputs/baseline-resnet/baseline-resnet-ensemble.txt)|0.752|-|
+|3||||-|
+|4||||-|
+|5||||-|
