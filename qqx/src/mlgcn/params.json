@@ -1,0 +1,16 @@
+{
+    "graph-100-12-resnet": {
+        "lr": 1e-3,
+        "model": "resnet",
+        "n_epochs": 100,
+        "batch_size": 256,
+        "weight_decay": 1e-5
+    },
+    "graph-200-12-resnet": {
+        "lr": 1e-3,
+        "model": "resnet",
+        "n_epochs": 100,
+        "batch_size": 256,
+        "weight_decay": 1e-5
+    }
+}
