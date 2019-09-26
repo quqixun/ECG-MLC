@@ -31,6 +31,7 @@
 |:-:|:---:|:--------:|:---:|:---:|
 |1|[ResNet](https://github.com/quqixun/HFECG/blob/master/qqx/src/baseline/resnet.py#L65)|[File](./outputs/baseline-resnet/baseline-resnet.txt)|0.734|-|
 |2|[ResNet](https://github.com/quqixun/HFECG/blob/master/qqx/src/baseline/resnet.py#L65) Ensemble|[File](./outputs/baseline-resnet/baseline-resnet-ensemble.txt)|0.752|-|
-|3||||-|
-|4||||-|
-|5||||-|
+|3|12 Leads Input + F1 Loss|[File](./outputs/12-12-resnet-mbw/i2-12-resnet-ensemble.txt)|0.8119|-|
+|4|Search Threshold|[File](./outputs/st-12-resnet/st-12-resnet-ensemble.txt)|0.8131|-|
+|5|HRV Features + 100Hz Input|[File](./outputs/hrv-100-12-resnet/hrv-100-12-resnet-ensemble.txt)|0.8136|-|
+|6|HRV Features + 200Hz Input|[File](./outputs/hrv-200-12-resnet/hrv-200-12-resnet-ensemble.txt)|0.8193|-|
