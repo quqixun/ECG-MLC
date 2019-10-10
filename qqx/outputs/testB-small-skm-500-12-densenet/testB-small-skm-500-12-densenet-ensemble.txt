@@ -1,0 +1,5435 @@
+100001.txt	32	FEMALE	窦性心动过缓
+100002.txt	61	MALE	窦性心动过缓	临界ECG	QRS低电压
+100003.txt	36	FEMALE	窦性心动过缓
+100004.txt	21	MALE	窦性心律	临界ECG	电轴右偏	窦性心律不齐
+100005.txt	76	FEMALE	QRS低电压	心房颤动
+100006.txt	7	MALE	窦性心动过缓	临界ECG	窦性心律不齐
+100007.txt	20	MALE	窦性心动过缓	左心室高电压	窦性心律
+100008.txt	71	MALE	窦性心律	房性早搏	T波改变
+100009.txt	67	MALE	窦性心动过缓	临界ECG
+100010.txt			窦性心律	T波改变
+100011.txt	50	FEMALE	窦性心律	T波改变
+100012.txt	74	FEMALE	窦性心律	T波改变	房性早搏
+100013.txt	55	MALE	窦性心律	T波改变
+100014.txt	21	MALE	窦性心动过缓
+100015.txt	28	FEMALE	窦性心律	T波改变
+100016.txt	38	MALE	窦性心律	完全性右束支传导阻滞
+100017.txt	72	FEMALE	窦性心律	T波改变
+100018.txt	20	MALE	窦性心律	正常ECG
+100019.txt	18	FEMALE	窦性心律	电轴右偏
+100020.txt	66	MALE	T波改变	窦性心动过速
+100021.txt	25	MALE	窦性心动过缓	左心室高电压
+100022.txt	74	FEMALE	窦性心动过缓
+100023.txt	51	FEMALE	窦性心律	ST-T改变
+100024.txt	36	MALE	窦性心动过缓
+100025.txt	50	MALE	窦性心动过缓	ST-T改变	左心室肥大
+100026.txt	23	FEMALE	窦性心律	电轴右偏
+100027.txt	71	FEMALE	窦性心律	ST-T改变
+100028.txt	30	FEMALE	窦性心动过缓	临界ECG
+100029.txt	52	FEMALE	窦性心律	T波改变	ST-T改变	窦性心动过速
+100030.txt	83	MALE	窦性心律	窦性心动过缓	ST-T改变	左心室肥大
+100031.txt	66	MALE	心房颤动
+100032.txt	39	FEMALE	窦性心律	QRS低电压	临界ECG
+100033.txt	21	MALE	窦性心动过缓
+100034.txt	30	FEMALE	窦性心律	临界ECG	QRS低电压
+100035.txt	21	MALE	窦性心律	电轴右偏	临界ECG
+100036.txt	58	MALE	窦性心律	T波改变	左心室高电压
+100037.txt	58	FEMALE	窦性心律	ST-T改变
+100038.txt	56	MALE	窦性心律	正常ECG
+100039.txt	36	FEMALE	窦性心律	QRS低电压
+100040.txt	79	MALE	窦性心律	电轴左偏	异常ECG
+100041.txt	25	FEMALE	窦性心动过缓	电轴右偏
+100042.txt	61	MALE	窦性心律	电轴左偏
+100043.txt	56	MALE	窦性心律	正常ECG
+100044.txt	49	FEMALE	窦性心动过缓
+100045.txt	28	MALE	窦性心律	T波改变
+100046.txt	85	MALE	窦性心律	完全性右束支传导阻滞
+100047.txt			窦性心动过缓
+100048.txt	23	MALE	窦性心律	房性早搏	电轴左偏
+100049.txt			窦性心律	T波改变	ST-T改变
+100050.txt	40	MALE	窦性心律	电轴左偏
+100051.txt	80	MALE	心房颤动
+100052.txt	26	FEMALE	窦性心律	正常ECG
+100053.txt	63	FEMALE	窦性心律	T波改变
+100054.txt	38	MALE	窦性心律	ST-T改变	左心室肥大
+100055.txt			窦性心动过缓	临界ECG
+100056.txt	74	MALE	窦性心律	正常ECG
+100057.txt	56	MALE	窦性心律	电轴左偏
+100058.txt	27	MALE	窦性心律	T波改变
+100059.txt	57	FEMALE	窦性心律	QRS低电压	临界ECG
+100060.txt			窦性心律	QRS低电压
+100061.txt	22	FEMALE	窦性心动过速
+100062.txt	26	FEMALE	窦性心动过速
+100063.txt			窦性心律	电轴右偏
+100064.txt			窦性心动过速	临界ECG
+100065.txt	60	MALE	窦性心律	正常ECG
+100066.txt	40	FEMALE	窦性心律	窦性心动过速	ST段改变
+100067.txt	24	MALE	窦性心律	房性早搏
+100068.txt			窦性心律	电轴右偏
+100069.txt	69	FEMALE	窦性心律	T波改变
+100070.txt	20	MALE	窦性心律	正常ECG
+100071.txt	37	FEMALE	窦性心律	ST段改变	室性早搏
+100072.txt	63	FEMALE	窦性心律	ST段改变
+100073.txt	57	MALE	左心室高电压	心房颤动	快心室率
+100074.txt	63	MALE	窦性心律	电轴左偏	异常ECG	室性早搏
+100075.txt	55	MALE	窦性心律	正常ECG
+100076.txt			窦性心动过缓	临界ECG
+100077.txt	73	MALE	窦性心律	房性早搏
+100078.txt	16	FEMALE	窦性心动过速	临界ECG	电轴右偏
+100079.txt	33	FEMALE	窦性心律	ST-T改变
+100080.txt	40	MALE	窦性心律	正常ECG
+100081.txt			窦性心律	T波改变
+100082.txt			窦性心律	T波改变	正常ECG
+100083.txt	38	MALE	窦性心律	T波改变
+100084.txt	59	MALE	窦性心律	T波改变
+100085.txt	60	MALE	窦性心律	正常ECG
+100086.txt	68	MALE	T波改变	心房颤动	快心室率
+100087.txt	22	MALE	窦性心律	T波改变
+100088.txt	34	FEMALE	窦性心律	QRS低电压
+100089.txt			窦性心动过速	临界ECG
+100090.txt	72	MALE	心房颤动	快心室率
+100091.txt	60	MALE	窦性心动过缓	临界ECG	QRS低电压
+100092.txt	78	MALE	电轴左偏	心房颤动
+100093.txt	72	MALE	窦性心律	ST-T改变
+100094.txt	77	FEMALE	窦性心律	室性早搏
+100095.txt	28	FEMALE	窦性心动过速	电轴左偏
+100096.txt	25	FEMALE	窦性心动过速	临界ECG	电轴右偏
+100097.txt	85	FEMALE	窦性心律	房性早搏	ST段改变
+100098.txt	70	FEMALE	窦性心律	正常ECG
+100099.txt	19	MALE	窦性心律	正常ECG
+100100.txt	34	FEMALE	窦性心律	QRS低电压	临界ECG
+100101.txt	77	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+100102.txt	70	FEMALE	窦性心律	T波改变
+100103.txt	47	FEMALE	窦性心律	T波改变
+100104.txt	54	MALE	窦性心动过缓
+100105.txt	37	FEMALE	ST段改变	窦性心动过速	室性早搏
+100106.txt			窦性心律	临界ECG	QRS低电压
+100107.txt	27	FEMALE	窦性心律	临界ECG	QRS低电压
+100108.txt	61	MALE	窦性心律	T波改变
+100109.txt	31	MALE	窦性心律	T波改变
+100110.txt	35	FEMALE	窦性心动过缓
+100111.txt	21	FEMALE	窦性心动过缓	临界ECG
+100112.txt	23	FEMALE	窦性心律	ST-T改变
+100113.txt	64	MALE	窦性心律	房性早搏
+100114.txt	64	MALE	窦性心动过速	电轴左偏
+100115.txt	25	MALE	窦性心律	正常ECG
+100116.txt	49	MALE	窦性心律	电轴右偏
+100117.txt			T波改变	窦性心动过缓
+100118.txt	47	FEMALE	窦性心动过缓
+100119.txt	22	MALE	窦性心律	电轴右偏
+100120.txt	53	MALE	窦性心动过缓	左心室高电压
+100121.txt	76	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+100122.txt	36	MALE	窦性心律	电轴右偏
+100123.txt	80	MALE	窦性心动过缓
+100124.txt	46	FEMALE	窦性心律	窦性心动过缓	临界ECG	QRS低电压
+100125.txt	40	FEMALE	窦性心动过缓
+100126.txt			窦性心律	T波改变
+100127.txt	19	MALE	窦性心动过缓
+100128.txt	78	FEMALE	窦性心律	QRS低电压
+100129.txt			窦性心动过缓
+100130.txt			窦性心律	电轴左偏
+100131.txt	78	MALE	窦性心律	T波改变	QRS低电压
+100132.txt	44	MALE	窦性心律	完全性右束支传导阻滞
+100133.txt	43	FEMALE	QRS低电压	窦性心律	临界ECG
+100134.txt	45	FEMALE	窦性心律	T波改变	室性早搏
+100135.txt	25	MALE	窦性心动过速
+100136.txt	62	MALE	窦性心律	T波改变	电轴右偏
+100137.txt			窦性心律	正常ECG	房性早搏
+100138.txt	49	FEMALE	窦性心律	T波改变
+100139.txt			窦性心律	电轴右偏
+100140.txt	68	FEMALE	窦性心律	QRS低电压
+100141.txt	75	FEMALE	窦性心律	T波改变
+100142.txt			ST段改变	窦性心动过速
+100143.txt	38	FEMALE	窦性心律	T波改变
+100144.txt			窦性心动过速
+100145.txt	70	MALE	ST-T改变	窦性心动过速
+100146.txt	27	FEMALE	窦性心动过速
+100147.txt			窦性心动过速	临界ECG
+100148.txt	74	MALE	窦性心律	电轴左偏	完全性右束支传导阻滞
+100149.txt	43	FEMALE	窦性心律	T波改变
+100150.txt	29	FEMALE	窦性心动过速
+100151.txt	78	MALE	窦性心律	电轴左偏	ST-T改变
+100152.txt	21	MALE	窦性心动过缓
+100153.txt	65	MALE	心房颤动
+100154.txt	30	FEMALE	T波改变	窦性心动过速
+100155.txt	60	MALE	左心室高电压	窦性心动过速
+100156.txt	56	FEMALE	窦性心律	T波改变
+100157.txt	44	MALE	窦性心律	电轴左偏
+100158.txt	72	MALE	窦性心律	ST-T改变
+100159.txt	36	FEMALE	窦性心律	QRS低电压	正常ECG
+100160.txt			T波改变	窦性心动过速
+100161.txt	82	FEMALE	窦性心律	ST-T改变
+100162.txt	61	MALE	窦性心动过速	QRS低电压	电轴左偏
+100163.txt	23	FEMALE	窦性心动过速
+100164.txt	44	FEMALE	窦性心律	临界ECG	电轴右偏
+100165.txt	52	MALE	窦性心律	左心室高电压	ST-T改变	左心室肥大
+100166.txt	67	MALE	窦性心律	QRS低电压
+100167.txt			窦性心律	窦性心动过速
+100168.txt	61	MALE	窦性心动过缓	临界ECG
+100169.txt	25	MALE	窦性心动过缓	电轴右偏
+100170.txt	51	FEMALE	窦性心律	ST-T改变
+100171.txt			窦性心律	电轴右偏	临界ECG
+100172.txt	87	MALE	ST-T改变	心房颤动	快心室率
+100173.txt	23	FEMALE	窦性心律	T波改变
+100174.txt	48	MALE	窦性心动过速
+100175.txt	38	FEMALE	窦性心律	T波改变
+100176.txt	79	MALE	窦性心律	电轴左偏
+100177.txt	24	FEMALE	窦性心动过速
+100178.txt	48	MALE	窦性心律	左心室高电压
+100179.txt	40	MALE	窦性心律	正常ECG
+100180.txt	94	MALE	窦性心律	一度房室传导阻滞
+100181.txt	45	FEMALE	窦性心律	电轴左偏
+100182.txt	45	FEMALE	窦性心动过缓	临界ECG
+100183.txt	59	FEMALE	窦性心动过缓
+100184.txt	51	MALE	窦性心律	T波改变	左心室高电压
+100185.txt	52	FEMALE	窦性心律	T波改变
+100186.txt	62	FEMALE	窦性心动过缓
+100187.txt	30	FEMALE	窦性心动过缓
+100188.txt	30	FEMALE	窦性心律	QRS低电压
+100189.txt	51	FEMALE	窦性心动过缓
+100190.txt	56	MALE	窦性心律	ST-T改变
+100191.txt	20	MALE	窦性心动过速
+100192.txt	85	MALE	ST-T改变	心房颤动	室性早搏
+100193.txt	26	MALE	窦性心律	电轴右偏
+100194.txt			窦性心律	T波改变	QRS低电压
+100195.txt	70	MALE	窦性心动过速	房性早搏
+100196.txt	25	MALE	窦性心律	电轴右偏
+100197.txt	51	MALE	窦性心律	T波改变
+100198.txt	62	MALE	窦性心动过缓	左心室高电压
+100199.txt	69	FEMALE	窦性心律	ST-T改变
+100200.txt	78	FEMALE	窦性心律
+100201.txt	33	MALE	窦性心律	ST-T改变	左心室肥大
+100202.txt	26	FEMALE	窦性心动过速
+100203.txt	68	FEMALE	ST-T改变	窦性心律
+100204.txt	25	FEMALE	ST段改变	窦性心动过速
+100205.txt	80	FEMALE	窦性心律	ST-T改变
+100206.txt	55	MALE	窦性心律	T波改变
+100207.txt	23	FEMALE	窦性心动过缓	临界ECG
+100208.txt			窦性心动过缓
+100209.txt	27	FEMALE	窦性心律	ST段改变
+100210.txt	72	MALE	窦性心律	ST-T改变
+100211.txt	49	FEMALE	窦性心律	ST-T改变
+100212.txt	72	FEMALE	窦性心律	T波改变	房性早搏
+100213.txt	49	FEMALE	T波改变	窦性心动过速	电轴右偏
+100214.txt	48	MALE	窦性心律	T波改变
+100215.txt	57	MALE	窦性心律	正常ECG
+100216.txt	35	MALE	窦性心律	T波改变	左心室高电压
+100217.txt	32	FEMALE	窦性心律	ST-T改变
+100218.txt	45	MALE	窦性心律	正常ECG
+100219.txt	48	FEMALE	窦性心律	ST-T改变
+100220.txt	23	FEMALE	窦性心律	正常ECG
+100221.txt	29	FEMALE	窦性心律	T波改变
+100222.txt			窦性心律	T波改变
+100223.txt	57	MALE	窦性心律	电轴左偏
+100224.txt	59	MALE	窦性心动过速
+100225.txt	40	FEMALE	窦性心律	T波改变
+100226.txt	59	MALE	窦性心律	左心室高电压	完全性右束支传导阻滞
+100227.txt	28	FEMALE	T波改变	窦性心动过速
+100228.txt	20	FEMALE	窦性心动过缓	临界ECG	窦性心律
+100229.txt	39	MALE	窦性心律	正常ECG
+100230.txt	18	MALE	窦性心律	正常ECG
+100231.txt			窦性心律	T波改变
+100232.txt	31	FEMALE	窦性心律	T波改变
+100233.txt	59	MALE	窦性心律	T波改变	窦性心动过缓	电轴左偏	异常ECG	非特异性T波异常
+100234.txt	81	MALE	窦性心律	T波改变	房性早搏
+100235.txt	61	FEMALE	窦性心动过缓	临界ECG
+100236.txt	30	FEMALE	窦性心律	电轴右偏
+100237.txt	39	FEMALE	窦性心动过缓
+100238.txt	25	FEMALE	窦性心律	临界ECG	电轴右偏
+100239.txt			窦性心律	T波改变
+100240.txt			窦性心律	T波改变
+100241.txt	53	FEMALE	窦性心律	T波改变
+100242.txt			窦性心动过速	电轴右偏
+100243.txt	79	FEMALE	窦性心律	T波改变	左心室高电压
+100244.txt	39	FEMALE	窦性心动过缓	临界ECG	电轴右偏
+100245.txt	23	MALE	窦性心动过缓
+100246.txt			窦性心动过缓	左心室高电压
+100247.txt	23	FEMALE	窦性心动过缓	临界ECG
+100248.txt	52	MALE	窦性心律	电轴左偏
+100249.txt	25	FEMALE	ST-T改变	窦性心动过速
+100250.txt	71	FEMALE	窦性心律	ST段改变
+100251.txt	31	MALE	窦性心律	正常ECG
+100252.txt	23	FEMALE	窦性心动过速
+100253.txt	69	FEMALE	窦性心律	ST-T改变
+100254.txt	56	FEMALE	窦性心律	ST段改变
+100255.txt	53	MALE	窦性心律	正常ECG
+100256.txt	28	MALE	窦性心律	正常ECG
+100257.txt	78	FEMALE	窦性心律	ST-T改变
+100258.txt	58	MALE	窦性心动过缓	电轴左偏
+100259.txt	25	FEMALE	ST-T改变	窦性心动过速
+100260.txt	79	FEMALE	窦性心律	ST段改变
+100261.txt	59	MALE	窦性心动过缓	临界ECG
+100262.txt	51	MALE	窦性心动过缓	窦性心律
+100263.txt	72	FEMALE	窦性心律	ST-T改变
+100264.txt	33	MALE	窦性心律	正常ECG	左心室高电压
+100265.txt	51	MALE	窦性心律	正常ECG
+100266.txt	76	FEMALE	窦性心动过缓	左心室高电压
+100267.txt	55	MALE	窦性心动过缓
+100268.txt			窦性心动过速
+100269.txt	36	FEMALE	窦性心律	临界ECG	电轴右偏
+100270.txt	28	FEMALE	窦性心律	电轴右偏
+100271.txt	45	FEMALE	窦性心律	ST-T改变
+100272.txt	71	FEMALE	窦性心律	ST-T改变
+100273.txt	19	FEMALE	窦性心律	临界ECG	电轴右偏	QRS低电压
+100274.txt	33	FEMALE	窦性心律	电轴左偏
+100275.txt	40	MALE	窦性心动过缓
+100276.txt	43	MALE	窦性心动过缓
+100277.txt	62	MALE	窦性心动过缓	临界ECG
+100278.txt	54	MALE	窦性心动过缓
+100279.txt	12	MALE	窦性心律	ST-T改变	完全性右束支传导阻滞
+100280.txt			窦性心律	电轴左偏
+100281.txt	20	FEMALE	窦性心律	QRS低电压	临界ECG
+100282.txt	72	FEMALE	窦性心律	T波改变
+100283.txt	75	MALE	异常ECG	完全性右束支传导阻滞
+100284.txt	57	FEMALE	T波改变	窦性心动过缓	电轴左偏	异常ECG	非特异性T波异常
+100285.txt	69	MALE	窦性心动过缓	左心室高电压
+100286.txt	58	MALE	窦性心动过缓	临界ECG
+100287.txt	67	MALE	窦性心律	左心室高电压	室性早搏	房性早搏
+100288.txt	69	MALE	窦性心律	QRS低电压
+100289.txt	73	FEMALE	窦性心律
+100290.txt	23	FEMALE	窦性心律	ST段改变
+100291.txt	67	MALE	窦性心律	左心室高电压	房性早搏
+100292.txt	64	FEMALE	窦性心律	ST-T改变
+100293.txt			窦性心动过缓	临界ECG
+100294.txt	23	FEMALE	窦性心律	临界ECG	电轴右偏	室性早搏
+100295.txt	44	FEMALE	窦性心动过速
+100296.txt	59	FEMALE	窦性心律	T波改变
+100297.txt	41	MALE	窦性心律	正常ECG
+100298.txt	59	FEMALE	窦性心律	T波改变
+100299.txt	83	MALE	窦性心律	T波改变	房性早搏
+100300.txt	40	MALE	窦性心动过缓
+100301.txt	55	MALE	窦性心动过缓
+100302.txt	36	FEMALE	窦性心律	T波改变
+100303.txt	35	MALE	窦性心律	T波改变
+100304.txt	47	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+100305.txt	53	MALE	窦性心律	QRS低电压	电轴左偏
+100306.txt	79	MALE	窦性心律	完全性右束支传导阻滞
+100307.txt	68	FEMALE	窦性心动过缓	临界ECG
+100308.txt			窦性心律	电轴左偏
+100309.txt	63	FEMALE	窦性心律	T波改变
+100310.txt	68	MALE	窦性心律	ST-T改变	左心室肥大
+100311.txt	27	FEMALE	窦性心律	ST-T改变
+100312.txt	29	FEMALE	窦性心动过速	临界ECG
+100313.txt	51	MALE	窦性心律	ST-T改变
+100314.txt	63	FEMALE	ST-T改变	一度房室传导阻滞	心房颤动	窦性心律
+100315.txt	63	FEMALE	窦性心律	ST-T改变
+100316.txt	72	FEMALE	窦性心律	T波改变	ST-T改变
+100317.txt	75	FEMALE	窦性心律	ST-T改变
+100318.txt	36	FEMALE	窦性心律	临界ECG	QRS低电压	电轴右偏
+100319.txt	61	MALE	窦性心动过缓	临界ECG
+100320.txt	56	MALE	窦性心律	T波改变
+100321.txt	84	FEMALE	窦性心律	T波改变	ST-T改变
+100322.txt	25	MALE	窦性心律	正常ECG
+100323.txt	55	MALE	窦性心动过缓	临界ECG
+100324.txt	72	MALE	窦性心律	T波改变
+100325.txt	36	MALE	窦性心动过缓
+100326.txt	30	FEMALE	窦性心律	T波改变	QRS低电压
+100327.txt	34	FEMALE	窦性心动过速
+100328.txt	55	MALE	窦性心律	正常ECG
+100329.txt	43	MALE	窦性心动过缓
+100330.txt	72	FEMALE	窦性心律	ST-T改变
+100331.txt			窦性心律	T波改变
+100332.txt	36	MALE	窦性心律	完全性右束支传导阻滞
+100333.txt	54	MALE	窦性心动过缓	临界ECG
+100334.txt	83	FEMALE	窦性心律	ST-T改变	房性早搏
+100335.txt	28	FEMALE	窦性心律	QRS低电压
+100336.txt	58	FEMALE	窦性心律	QRS低电压
+100337.txt	20	MALE	窦性心律	T波改变	电轴右偏
+100338.txt			窦性心律	ST段改变
+100339.txt	32	FEMALE	窦性心动过速
+100340.txt	60	FEMALE	窦性心律	电轴左偏
+100341.txt	27	FEMALE	窦性心律	临界ECG	QRS低电压	房性早搏
+100342.txt			窦性心律	T波改变
+100343.txt	30	FEMALE	窦性心动过速
+100344.txt	30	FEMALE	窦性心动过速	ST段改变
+100345.txt	72	MALE	窦性心律	QRS低电压
+100346.txt	50	FEMALE	窦性心动过缓	临界ECG
+100347.txt	45	FEMALE	窦性心律	T波改变
+100348.txt	25	FEMALE	窦性心律	ST段改变
+100349.txt	67	MALE	窦性心律	临界ECG	室性早搏
+100350.txt	76	MALE	窦性心律	完全性右束支传导阻滞
+100351.txt	20	FEMALE	窦性心律	QRS低电压
+100352.txt	43	MALE	窦性心律	T波改变
+100353.txt	28	FEMALE	窦性心律	正常ECG
+100354.txt	51	MALE	窦性心动过速	完全性右束支传导阻滞
+100355.txt	47	FEMALE	窦性心律	QRS低电压
+100356.txt	49	FEMALE	窦性心律	临界ECG	室性早搏
+100357.txt	26	FEMALE	窦性心动过缓
+100358.txt	16	FEMALE	窦性心律	ST段改变
+100359.txt	59	MALE	心房颤动
+100360.txt	29	FEMALE	窦性心动过缓
+100361.txt	45	MALE	窦性心动过缓	电轴左偏
+100362.txt	59	FEMALE	电轴左偏	窦性心动过缓
+100363.txt	40	MALE	窦性心律	完全性右束支传导阻滞
+100364.txt	39	MALE	窦性心律	T波改变
+100365.txt	40	MALE	窦性心律	T波改变
+100366.txt	58	FEMALE	窦性心动过缓
+100367.txt	51	FEMALE	窦性心律	临界ECG	QRS低电压
+100368.txt	58	FEMALE	窦性心律	T波改变	ST-T改变
+100369.txt	60	FEMALE	窦性心律	ST段改变
+100370.txt	86	FEMALE	窦性心律	心房颤动	室性早搏
+100371.txt			窦性心律	T波改变
+100372.txt	18	MALE	窦性心动过缓	临界ECG
+100373.txt	33	FEMALE	窦性心律	T波改变	正常ECG
+100374.txt	51	MALE	T波改变	窦性心动过缓	左心室高电压
+100375.txt	49	MALE	窦性心律	ST-T改变	ST段改变
+100376.txt	33	FEMALE	窦性心律	QRS低电压	临界ECG
+100377.txt	32	FEMALE	窦性心律	ST段改变
+100378.txt	24	FEMALE	窦性心律	电轴右偏
+100379.txt	34	MALE	窦性心律	完全性右束支传导阻滞
+100380.txt			窦性心律	T波改变
+100381.txt	44	FEMALE	窦性心律	ST段改变
+100382.txt	18	FEMALE	窦性心律	临界ECG	QRS低电压
+100383.txt	66	MALE	窦性心律	电轴右偏	顺钟向转位	肺心病型	电轴左偏
+100384.txt	33	MALE	窦性心律	正常ECG
+100385.txt	56	MALE	窦性心律	窦性心动过缓	一度房室传导阻滞
+100386.txt			窦性心律	电轴左偏
+100387.txt	52	MALE	窦性心律	电轴左偏
+100388.txt	68	MALE	窦性心律	右束支传导阻滞	完全性右束支传导阻滞
+100389.txt	76	MALE	窦性心律	T波改变	完全性右束支传导阻滞
+100390.txt	38		窦性心律	T波改变
+100391.txt	25	FEMALE	窦性心律	QRS低电压
+100392.txt	54	MALE	ST-T改变	窦性心动过速
+100393.txt	28	MALE	窦性心动过缓
+100394.txt			窦性心律	T波改变	ST-T改变
+100395.txt	63	MALE	窦性心动过速	QRS低电压
+100396.txt	54	FEMALE	窦性心动过缓	ST-T改变
+100397.txt	61	MALE	窦性心动过缓	临界ECG
+100398.txt	25	FEMALE	ST段改变	窦性心动过速
+100399.txt	17	MALE	窦性心动过速	临界ECG
+100400.txt	65	FEMALE	窦性心律	T波改变	ST-T改变
+100401.txt	19	FEMALE	窦性心律	临界ECG	QRS低电压
+100402.txt	46	MALE	窦性心动过缓
+100403.txt			窦性心动过速	临界ECG	房性早搏
+100404.txt	88	MALE	窦性心律	T波改变	电轴左偏
+100405.txt	87	MALE	窦性心律	完全性右束支传导阻滞
+100406.txt	33	FEMALE	窦性心动过速	临界ECG
+100407.txt	46	MALE	窦性心动过缓	临界ECG
+100408.txt	38	FEMALE	窦性心律	T波改变
+100409.txt	58	FEMALE	窦性心律	ST-T改变
+100410.txt	50	MALE	窦性心动过缓
+100411.txt	35	MALE	窦性心动过缓	窦性心律
+100412.txt			窦性心律	电轴左偏
+100413.txt	26	FEMALE	窦性心动过速	临界ECG
+100414.txt	25	FEMALE	窦性心动过缓	临界ECG
+100415.txt	37	MALE	窦性心律	电轴右偏
+100416.txt	42	MALE	窦性心律	正常ECG
+100417.txt	50	FEMALE	窦性心动过缓
+100418.txt	62	MALE	窦性心律	ST-T改变
+100419.txt	46	FEMALE	窦性心律	ST-T改变
+100420.txt	35	MALE	窦性心动过缓	临界ECG
+100421.txt	35	FEMALE	窦性心律	T波改变
+100422.txt	82	MALE	T波改变	心房颤动
+100423.txt	40	MALE	窦性心律	QRS低电压
+100424.txt	36	MALE	窦性心律	正常ECG
+100425.txt	23	FEMALE	窦性心动过缓	临界ECG
+100426.txt	38	FEMALE	窦性心律	ST-T改变
+100427.txt	35	FEMALE	窦性心动过缓
+100428.txt	22	FEMALE	窦性心动过缓
+100429.txt	31	FEMALE	窦性心律	T波改变
+100430.txt	42	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+100431.txt	54	MALE	窦性心律	正常ECG
+100432.txt	26	FEMALE	窦性心律	T波改变
+100433.txt	74	MALE	窦性心律	完全性右束支传导阻滞
+100434.txt	56	MALE	窦性心律	正常ECG
+100435.txt	43	MALE	窦性心律	电轴左偏
+100436.txt	43	MALE	窦性心律	T波改变
+100437.txt	80	MALE	窦性心律	T波改变
+100438.txt	72	MALE	窦性心动过缓	ST段改变
+100439.txt	55	FEMALE	窦性心动过缓	临界ECG
+100440.txt	39	MALE	窦性心律	电轴左偏
+100441.txt	57	MALE	窦性心律	正常ECG
+100442.txt	60	FEMALE	窦性心律	ST-T改变
+100443.txt	56	MALE	窦性心动过缓
+100444.txt	32	FEMALE	窦性心动过缓
+100445.txt	23	MALE	窦性心律	正常ECG
+100446.txt	81	MALE	T波改变	心房颤动
+100447.txt	56	MALE	窦性心律	ST-T改变
+100448.txt	33	MALE	窦性心动过缓
+100449.txt	34	FEMALE	窦性心律	QRS低电压	临界ECG
+100450.txt	92	FEMALE	窦性心律	房性早搏
+100451.txt	65	MALE	窦性心动过缓
+100452.txt			窦性心动过缓	临界ECG
+100453.txt	46	MALE	窦性心律	正常ECG
+100454.txt			心房颤动	快心室率
+100455.txt	50	MALE	窦性心律	电轴左偏
+100456.txt	20	MALE	窦性心律	左心室高电压
+100457.txt	62	MALE	窦性心律	T波改变	电轴左偏	左前分支传导阻滞
+100458.txt	29	FEMALE	窦性心律	QRS低电压	临界ECG
+100459.txt	33	MALE	窦性心律	正常ECG
+100460.txt	29	MALE	窦性心动过缓	左心室高电压
+100461.txt	81	MALE	窦性心律	ST-T改变	室性早搏	左心室肥大
+100462.txt	76	MALE	窦性心律	T波改变
+100463.txt			窦性心动过缓	临界ECG
+100464.txt	63	FEMALE	窦性心律	T波改变	ST-T改变
+100465.txt	26	MALE	窦性心律	完全性右束支传导阻滞
+100466.txt	35	FEMALE	窦性心律	T波改变	QRS低电压
+100467.txt			窦性心律	T波改变
+100468.txt			窦性心律	T波改变
+100469.txt	54	FEMALE	窦性心律	T波改变
+100470.txt	46	MALE	窦性心律	房性早搏
+100471.txt	57	FEMALE	窦性心律	T波改变
+100472.txt		FEMALE	电轴右偏	右心室肥大	窦性心律
+100473.txt	58	FEMALE	窦性心律	T波改变
+100474.txt	20	FEMALE	窦性心动过速
+100475.txt	64	FEMALE	窦性心律	ST-T改变	左心室肥大
+100476.txt	27	MALE	窦性心动过缓
+100477.txt	57	MALE	窦性心律	正常ECG
+100478.txt	23	FEMALE	窦性心律	T波改变
+100479.txt	59	MALE	窦性心律	ST-T改变
+100480.txt	32	FEMALE	窦性心律	T波改变
+100481.txt	31	MALE	窦性心律	ST-T改变	左心室肥大
+100482.txt	68	FEMALE	窦性心律	QRS低电压
+100483.txt	60	MALE	窦性心动过缓
+100484.txt			窦性心动过缓
+100485.txt	32	FEMALE	窦性心律	ST段改变
+100486.txt	86	FEMALE	T波改变	窦性心动过速
+100487.txt	35	MALE	窦性心律	ST段改变
+100488.txt	29	FEMALE	窦性心律	QRS低电压
+100489.txt	51	MALE	窦性心动过缓	临界ECG
+100490.txt	58	FEMALE	窦性心动过缓	临界ECG
+100491.txt	44	MALE	窦性心律	QRS低电压
+100492.txt	76	MALE	窦性心动过缓	QRS低电压
+100493.txt	23	FEMALE	房性早搏
+100494.txt			窦性心律
+100495.txt			窦性心动过缓
+100496.txt	34	MALE	窦性心律	正常ECG
+100497.txt	28	FEMALE	窦性心律	T波改变
+100498.txt	80	MALE	窦性心律	ST-T改变	左心室肥大
+100499.txt	35	MALE	窦性心律	电轴左偏
+100500.txt	69	FEMALE	窦性心律	T波改变
+100501.txt	82	MALE	窦性心律	T波改变	左心室高电压	房性早搏
+100502.txt	79	MALE	窦性心律	完全性右束支传导阻滞
+100503.txt	97	MALE	T波改变	窦性心动过缓	临界ECG
+100504.txt	50	MALE	窦性心动过速	临界ECG
+100505.txt	39	MALE	窦性心动过缓	电轴左偏
+100506.txt	24	FEMALE	窦性心律	临界ECG	QRS低电压	窦性心动过速
+100507.txt	43	MALE	窦性心律	T波改变
+100508.txt	48	FEMALE	窦性心动过缓	QRS低电压	临界ECG
+100509.txt	60	MALE	窦性心律	正常ECG
+100510.txt	30	MALE	窦性心律	电轴左偏
+100511.txt	69	FEMALE	窦性心律	QRS低电压
+100512.txt	20	MALE	窦性心律	正常ECG
+100513.txt	21	FEMALE	窦性心律	T波改变
+100514.txt	78	MALE	窦性心律	电轴左偏
+100515.txt	52	MALE	窦性心动过缓	临界ECG
+100516.txt	56	MALE	窦性心律	正常ECG
+100517.txt	32	MALE	窦性心律	电轴右偏
+100518.txt	85	MALE	心房颤动
+100519.txt	61	MALE	窦性心律	QRS低电压	房性早搏
+100520.txt	15	MALE	窦性心律	电轴右偏
+100521.txt	83	MALE	窦性心律	完全性右束支传导阻滞
+100522.txt	24	MALE	窦性心律	T波改变	电轴左偏
+100523.txt	23	FEMALE	窦性心律	正常ECG
+100524.txt	62	FEMALE	窦性心律	ST-T改变
+100525.txt	23	MALE	窦性心动过速	电轴右偏
+100526.txt			窦性心律	T波改变
+100527.txt	50	MALE	窦性心律	正常ECG
+100528.txt			窦性心律	T波改变
+100529.txt	52	FEMALE	窦性心律	房性早搏
+100530.txt	28	FEMALE	窦性心律	QRS低电压
+100531.txt	38	MALE	窦性心动过缓
+100532.txt	21	FEMALE	窦性心律	电轴右偏
+100533.txt	42	MALE	窦性心律	ST-T改变	左心室肥大
+100534.txt	58	FEMALE	窦性心律	ST-T改变
+100535.txt	52	MALE	窦性心律	正常ECG
+100536.txt	92	MALE	窦性心律	完全性右束支传导阻滞
+100537.txt			窦性心律	T波改变
+100538.txt	67	MALE	窦性心律	正常ECG
+100539.txt			窦性心律	电轴左偏
+100540.txt	31	FEMALE	ST段改变	窦性心动过速
+100541.txt	55	FEMALE	窦性心律	ST段改变
+100542.txt	46	MALE	窦性心动过缓	临界ECG
+100543.txt	36	FEMALE	窦性心律	T波改变
+100544.txt	62	MALE	窦性心律	ST-T改变
+100545.txt	47	MALE	窦性心律	T波改变	ST-T改变
+100546.txt	58	FEMALE	窦性心动过缓
+100547.txt	67	MALE	窦性心律	T波改变	左心室高电压
+100548.txt	49	MALE	左心室高电压	心房颤动
+100549.txt	30	FEMALE	窦性心律	电轴左偏
+100550.txt	49	FEMALE	窦性心律	电轴右偏
+100551.txt	24	MALE	窦性心动过缓
+100552.txt	30	MALE	窦性心动过缓
+100553.txt	35	FEMALE	窦性心律	T波改变	房性早搏
+100554.txt	58	MALE	窦性心律	T波改变
+100555.txt	64	MALE	窦性心律	ST-T改变
+100556.txt	41	MALE	窦性心律	完全性右束支传导阻滞
+100557.txt	13	FEMALE	窦性心律	临界ECG	电轴右偏
+100558.txt	76	MALE	窦性心律	QRS低电压	房性早搏
+100559.txt	49	MALE	窦性心动过缓
+100560.txt	61	FEMALE	窦性心律	ST-T改变
+100561.txt	26	FEMALE	窦性心律	QRS低电压
+100562.txt			窦性心律	临界ECG	QRS低电压
+100563.txt	71	MALE	窦性心律	电轴左偏
+100564.txt	39	MALE	窦性心律	ST-T改变
+100565.txt	72	MALE	窦性心律	ST-T改变	左心室肥大
+100566.txt	39	MALE	窦性心律	T波改变
+100567.txt	24	MALE	窦性心动过缓	左心室高电压
+100568.txt	57	FEMALE	窦性心律	T波改变	ST-T改变
+100569.txt	50	MALE	窦性心律	室性早搏
+100570.txt	51	MALE	窦性心律	ST-T改变
+100571.txt	28	FEMALE	窦性心律	电轴右偏
+100572.txt	43	MALE	窦性心律
+100573.txt	54	FEMALE	窦性心动过缓
+100574.txt	51	FEMALE	窦性心动过速
+100575.txt	42	MALE	窦性心律	正常ECG
+100576.txt			窦性心动过缓	临界ECG
+100577.txt	80	FEMALE	窦性心律	QRS低电压
+100578.txt	60	MALE	窦性心律	电轴左偏
+100579.txt	26	MALE	窦性心律	正常ECG
+100580.txt	89	MALE	窦性心律	起搏心律	右心室肥大	非特异性室内传导阻滞	电轴左偏
+100581.txt	48	FEMALE	窦性心律	QRS低电压	临界ECG
+100582.txt	50	FEMALE	窦性心律	房性早搏
+100583.txt	41	FEMALE	窦性心动过速
+100584.txt	55	MALE	窦性心律	房性早搏
+100585.txt	81	MALE	心房颤动	室性早搏
+100586.txt	58	FEMALE	窦性心律	T波改变
+100587.txt	29	MALE	窦性心律	完全性右束支传导阻滞
+100588.txt			窦性心动过缓
+100589.txt	50	MALE	窦性心律	正常ECG
+100590.txt	63	FEMALE	窦性心律	ST-T改变
+100591.txt	25	FEMALE	窦性心动过缓
+100592.txt	59	MALE	窦性心律	完全性右束支传导阻滞
+100593.txt	24	FEMALE	窦性心律	临界ECG	电轴右偏
+100594.txt	50	MALE	心房颤动
+100595.txt	21	FEMALE	窦性心律	ST段改变
+100596.txt	44	MALE	窦性心律	正常ECG
+100597.txt	64	FEMALE	窦性心律	T波改变
+100598.txt	69	FEMALE	窦性心律	T波改变
+100599.txt	64	MALE	窦性心动过速	QRS低电压
+100600.txt	24	FEMALE	T波改变	窦性心动过速
+100601.txt	67	MALE	窦性心律	T波改变
+100602.txt	48	FEMALE	窦性心律	电轴左偏
+100603.txt	34	MALE	窦性心律	ST-T改变
+100604.txt	56	MALE	窦性心律	房性早搏
+100605.txt	55	MALE	窦性心律	电轴左偏
+100606.txt	69	MALE	窦性心律	电轴左偏
+100607.txt	51	MALE	窦性心律	正常ECG
+100608.txt			窦性心律	T波改变
+100609.txt	31	MALE	窦性心律	正常ECG
+100610.txt	57	FEMALE	窦性心律	QRS低电压
+100611.txt	23	MALE	窦性心律	电轴右偏
+100612.txt	26	MALE	窦性心律	正常ECG
+100613.txt	22	MALE	窦性心律	T波改变
+100614.txt	58	FEMALE	窦性心律	ST-T改变
+100615.txt	65	FEMALE	窦性心律	ST-T改变	ST段改变
+100616.txt	65	FEMALE	窦性心律	ST-T改变
+100617.txt	28	FEMALE	窦性心动过缓
+100618.txt	42	MALE	窦性心律	ST-T改变
+100619.txt	44	FEMALE	窦性心动过缓	临界ECG
+100620.txt	75	FEMALE	窦性心律	ST-T改变	左心室肥大
+100621.txt	59	MALE	窦性心律	正常ECG
+100622.txt	46	FEMALE	窦性心律	T波改变	QRS低电压
+100623.txt	31	MALE	窦性心律	正常ECG
+100624.txt	60	FEMALE	窦性心律	电轴左偏
+100625.txt	90	FEMALE	窦性心律	T波改变	QRS低电压
+100626.txt	29	MALE	窦性心动过缓
+100627.txt	75	FEMALE	窦性心律	ST-T改变
+100628.txt	32	MALE	窦性心律	T波改变
+100629.txt			窦性心律	T波改变	左心室高电压
+100630.txt			心房颤动	异常ECG	完全性左束支传导阻滞	左束支传导阻滞
+100631.txt	63	MALE	窦性心律
+100632.txt	32	FEMALE	窦性心律	QRS低电压
+100633.txt	56	FEMALE	窦性心律	ST-T改变
+100634.txt	21	FEMALE	T波改变	窦性心动过速
+100635.txt	46	MALE	窦性心动过缓	左心室高电压
+100636.txt	17	MALE	窦性心动过缓	临界ECG
+100637.txt	55	MALE	窦性心律	正常ECG
+100638.txt	56	MALE	窦性心动过缓
+100639.txt	20	MALE	窦性心律	正常ECG	电轴右偏
+100640.txt	71	FEMALE	窦性心律	T波改变	房性早搏
+100641.txt	45	FEMALE	窦性心律	窦性心动过缓
+100642.txt	37	MALE	窦性心动过缓	完全性右束支传导阻滞
+100643.txt	43	MALE	窦性心动过缓	临界ECG
+100644.txt	41	FEMALE	窦性心律	T波改变
+100645.txt	45	FEMALE	窦性心律	T波改变
+100646.txt	58	MALE	窦性心律	电轴左偏	异常ECG
+100647.txt	79	FEMALE	窦性心律	ST-T改变	电轴左偏
+100648.txt	66	MALE	心房颤动
+100649.txt	27	MALE	窦性心律	临界ECG	电轴右偏
+100650.txt	35	FEMALE	窦性心律	电轴左偏
+100651.txt	81	MALE	心房颤动
+100652.txt	29	MALE	窦性心律	ST-T改变
+100653.txt			窦性心律	T波改变
+100654.txt	68	MALE	窦性心律	完全性右束支传导阻滞
+100655.txt	84	MALE	窦性心律	ST-T改变	房性早搏	左心室肥大
+100656.txt	46	MALE	窦性心律	电轴右偏
+100657.txt	27	MALE	窦性心律	电轴右偏
+100658.txt	29	FEMALE	窦性心律	房性早搏
+100659.txt	56	FEMALE	窦性心律	T波改变
+100660.txt	87	MALE	窦性心律	房性早搏
+100661.txt	63	MALE	ST段改变	左心室高电压	窦性心动过速
+100662.txt	80	FEMALE	窦性心动过速	窦性心律	ST段改变
+100663.txt	55	FEMALE	窦性心律	ST-T改变	电轴左偏
+100664.txt	31	MALE	窦性心动过缓	临界ECG
+100665.txt	65	FEMALE	窦性心律	QRS低电压
+100666.txt	69	FEMALE	窦性心动过缓	ST-T改变
+100667.txt	57	FEMALE	窦性心律	ST-T改变
+100668.txt	60	MALE	窦性心律	完全性右束支传导阻滞
+100669.txt	41	MALE	窦性心律	正常ECG	QRS低电压
+100670.txt	38	MALE	窦性心动过缓
+100671.txt	70	FEMALE	窦性心律	T波改变
+100672.txt	56	MALE	窦性心律	室性早搏	临界ECG
+100673.txt	58	FEMALE	窦性心律	临界ECG	电轴右偏
+100674.txt	78	FEMALE	窦性心律	临界ECG	QRS低电压	房性早搏
+100675.txt	72	MALE	QRS低电压	心房颤动
+100676.txt	28	FEMALE	窦性心律	电轴右偏	临界ECG
+100677.txt			窦性心律	QRS低电压
+100678.txt	22	FEMALE	窦性心动过速
+100679.txt	46	MALE	窦性心律	T波改变
+100680.txt	53	MALE	窦性心律	T波改变
+100681.txt	21	MALE	窦性心律	临界ECG	电轴右偏
+100682.txt	66	MALE	窦性心律	正常ECG
+100683.txt	22	FEMALE	T波改变	窦性心动过速
+100684.txt	39	FEMALE	ST-T改变	窦性心动过速
+100685.txt	50	MALE	窦性心律	ST-T改变
+100686.txt	21	FEMALE	窦性心动过速
+100687.txt	73	FEMALE	窦性心律	ST-T改变
+100688.txt	50	FEMALE	窦性心动过缓	临界ECG
+100689.txt	59	FEMALE	窦性心律	ST-T改变
+100690.txt	49	MALE	窦性心律	T波改变
+100691.txt	63	MALE	窦性心律	完全性右束支传导阻滞	房性早搏
+100692.txt	46	FEMALE	窦性心律	T波改变
+100693.txt	63	MALE	窦性心律	正常ECG
+100694.txt	38	FEMALE	ST-T改变	窦性心动过速
+100695.txt	28	MALE	窦性心动过缓
+100696.txt	28	FEMALE	窦性心律	QRS低电压
+100697.txt	67	FEMALE	窦性心律	ST-T改变
+100698.txt	53	MALE	窦性心动过缓
+100699.txt	32	MALE	窦性心动过缓
+100700.txt	66	MALE	窦性心律	临界ECG	QRS低电压	室性早搏
+100701.txt	76	MALE	窦性心律	T波改变	ST-T改变
+100702.txt	62	FEMALE	T波改变	窦性心动过缓
+100703.txt	57	MALE	窦性心律	室性早搏
+100704.txt	42	MALE	窦性心律
+100705.txt	32	FEMALE	T波改变	窦性心动过速
+100706.txt	52	FEMALE	窦性心律	T波改变
+100707.txt	29	MALE	窦性心律	T波改变
+100708.txt			窦性心律	T波改变
+100709.txt	83	MALE	窦性心动过缓
+100710.txt	24	FEMALE	窦性心律
+100711.txt	35	FEMALE	窦性心动过速
+100712.txt	12	MALE	窦性心动过速	完全性右束支传导阻滞	右束支传导阻滞
+100713.txt	31	MALE	窦性心律	电轴右偏	临界ECG
+100714.txt			窦性心动过缓
+100715.txt	18	FEMALE	ST-T改变	窦性心动过速	ST段改变
+100716.txt	50	MALE	窦性心律	ST-T改变
+100717.txt	22	MALE	窦性心律	电轴右偏	临界ECG
+100718.txt	41	FEMALE	窦性心律	临界ECG	室性早搏
+100719.txt	83	MALE	窦性心律	房性早搏
+100720.txt	45	MALE	窦性心动过缓	临界ECG	QRS低电压
+100721.txt	58	FEMALE	窦性心律	ST-T改变	T波改变
+100722.txt	57	MALE	T波改变	左心室高电压	窦性心动过速
+100723.txt	34	MALE	窦性心动过缓
+100724.txt	71	MALE	心房颤动	室性早搏
+100725.txt	68	MALE	窦性心律	电轴左偏
+100726.txt	50	MALE	窦性心律	临界ECG	房性早搏	室性早搏	差异性传导
+100727.txt	49	FEMALE	窦性心动过速
+100728.txt	46	MALE	窦性心律	T波改变
+100729.txt	38	MALE	窦性心动过速	电轴右偏
+100730.txt			窦性心律	电轴右偏
+100731.txt	31	MALE	窦性心动过缓	完全性右束支传导阻滞
+100732.txt	55	MALE	窦性心律	正常ECG
+100733.txt	58	MALE	窦性心律	ST-T改变
+100734.txt	55	MALE	窦性心律	异常ECG	右束支传导阻滞	完全性右束支传导阻滞
+100735.txt	65	FEMALE	窦性心律	电轴左偏
+100736.txt	20	FEMALE	窦性心律	ST-T改变
+100737.txt	59	FEMALE	ST段改变	窦性心动过速
+100738.txt	37	MALE	窦性心律	临界ECG	室性早搏
+100739.txt			窦性心动过缓	临界ECG
+100740.txt		MALE	窦性心动过缓	临界ECG
+100741.txt	49	MALE	窦性心动过缓	ST-T改变	左心室肥大
+100742.txt			窦性心动过缓	电轴右偏
+100743.txt			窦性心动过缓
+100744.txt	74	MALE	窦性心律	完全性右束支传导阻滞	左前分支传导阻滞
+100745.txt	84	FEMALE	心房颤动	室性早搏
+100746.txt	32	MALE	窦性心律	房性早搏
+100747.txt	49	MALE	窦性心律	正常ECG
+100748.txt	45	FEMALE	窦性心律	T波改变
+100749.txt			窦性心律	电轴左偏	室性早搏
+100750.txt	33	FEMALE	QRS低电压	窦性心律
+100751.txt	23	MALE	窦性心律
+100752.txt	86	MALE	窦性心律	T波改变	房性早搏
+100753.txt	71	MALE	心房颤动
+100754.txt	33	FEMALE	窦性心律	ST-T改变
+100755.txt	41	FEMALE	窦性心律	ST-T改变
+100756.txt	28	FEMALE	窦性心动过速	临界ECG
+100757.txt	22	FEMALE	窦性心律	ST段改变
+100758.txt	42	FEMALE	窦性心律	T波改变
+100759.txt			窦性心动过缓	左心室高电压
+100760.txt	34	MALE	窦性心律	电轴左偏
+100761.txt	32	FEMALE	窦性心律	T波改变
+100762.txt			窦性心律	T波改变
+100763.txt	47	MALE	窦性心律	临界ECG	室性早搏
+100764.txt	61	MALE	窦性心动过缓	左心室高电压
+100765.txt	32	FEMALE	窦性心动过速	窦性心律
+100766.txt	27	FEMALE	窦性心动过速	临界ECG
+100767.txt	57	MALE	窦性心律	正常ECG
+100768.txt	88	MALE	窦性心律	ST-T改变	房性早搏
+100769.txt	41	MALE	窦性心动过缓
+100770.txt	16	FEMALE	窦性心动过速	临界ECG
+100771.txt	49	FEMALE	窦性心动过速
+100772.txt	46	MALE	窦性心律	完全性右束支传导阻滞
+100773.txt	59	FEMALE	窦性心律	T波改变
+100774.txt	78	FEMALE	窦性心律	ST-T改变
+100775.txt	31	FEMALE	窦性心律	电轴右偏
+100776.txt			窦性心动过缓
+100777.txt	47	FEMALE	ST段改变	窦性心动过速
+100778.txt	33	FEMALE	窦性心动过缓	临界ECG
+100779.txt	21	MALE	窦性心律	电轴左偏
+100780.txt	52	MALE	窦性心律	左心室高电压
+100781.txt	35	MALE	窦性心律	正常ECG
+100782.txt	55	FEMALE	窦性心动过缓
+100783.txt	21	FEMALE	T波改变	窦性心动过速
+100784.txt			心房颤动	快心室率
+100785.txt	78	FEMALE	窦性心动过速	QRS低电压
+100786.txt	69	FEMALE	窦性心律	ST-T改变	一度房室传导阻滞
+100787.txt	68	FEMALE	ST-T改变	心房颤动	快心室率
+100788.txt	34	FEMALE	窦性心律	电轴左偏
+100789.txt	57	MALE	窦性心动过缓	左心室高电压
+100790.txt	60	FEMALE	窦性心动过缓	临界ECG
+100791.txt	43	MALE	窦性心律	室性早搏	临界ECG
+100792.txt	56	FEMALE	窦性心动过缓	临界ECG
+100793.txt	51	MALE	窦性心律	电轴左偏
+100794.txt	49	MALE	窦性心动过缓
+100795.txt	28	MALE	T波改变	窦性心动过缓
+100796.txt			窦性心律	ST-T改变
+100797.txt	67	FEMALE	心房颤动
+100798.txt			窦性心律	QRS低电压
+100799.txt	59	FEMALE	窦性心律	T波改变
+100800.txt	72	FEMALE	窦性心律	ST-T改变
+100801.txt	66	FEMALE	窦性心律	房性早搏
+100802.txt	45	MALE	窦性心律	完全性右束支传导阻滞
+100803.txt			窦性心动过速
+100804.txt	54	FEMALE	窦性心律	QRS低电压
+100805.txt	66	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+100806.txt			窦性心律	电轴左偏
+100807.txt			窦性心律	电轴左偏
+100808.txt	26	FEMALE	窦性心律	ST-T改变
+100809.txt	77	MALE	心房颤动
+100810.txt	86	FEMALE	心房颤动	完全性右束支传导阻滞	快心室率	不完全性右束支传导阻滞
+100811.txt	67	MALE	电轴左偏	心房颤动	快心室率
+100812.txt	19	FEMALE	窦性心律	QRS低电压
+100813.txt	66	MALE	心房颤动
+100814.txt	65	MALE	窦性心律	正常ECG
+100815.txt			窦性心动过缓
+100816.txt	58	FEMALE	窦性心律	ST-T改变
+100817.txt			窦性心动过缓
+100818.txt			窦性心动过速
+100819.txt			窦性心律	T波改变
+100820.txt			窦性心律
+100821.txt	44	FEMALE	窦性心律	T波改变
+100822.txt			左心室高电压	心房颤动
+100823.txt	28	FEMALE	窦性心律	临界ECG	电轴右偏
+100824.txt	63	FEMALE	窦性心律	T波改变
+100825.txt	73	FEMALE	窦性心律	T波改变
+100826.txt	69	FEMALE	窦性心律	ST-T改变
+100827.txt	24	FEMALE	窦性心动过缓
+100828.txt	17	MALE	窦性心律	T波改变	正常ECG
+100829.txt	53	MALE	窦性心动过缓
+100830.txt	49	FEMALE	心房颤动
+100831.txt			窦性心律	T波改变	室性早搏
+100832.txt	45	FEMALE	窦性心律	T波改变
+100833.txt	30	MALE	窦性心律	T波改变
+100834.txt	60	MALE	窦性心律	电轴左偏
+100835.txt	60	MALE	窦性心律	左心室高电压
+100836.txt	28	FEMALE	窦性心律	T波改变
+100837.txt	61	MALE	窦性心动过速
+100838.txt	92	MALE	窦性心律	T波改变	室性早搏
+100839.txt			窦性心动过速	临界ECG
+100840.txt	29	FEMALE	窦性心动过速	临界ECG
+100841.txt	55	MALE	窦性心动过缓	临界ECG
+100842.txt	24	MALE	窦性心动过缓
+100843.txt			窦性心律	T波改变
+100844.txt	30	FEMALE	窦性心律	ST-T改变
+100845.txt	20	FEMALE	窦性心律	ST段改变
+100846.txt	24	MALE	窦性心动过缓	左心室高电压
+100847.txt	55	MALE	窦性心律	完全性右束支传导阻滞
+100848.txt	27	FEMALE	窦性心律	T波改变
+100849.txt	36	MALE	窦性心律	正常ECG
+100850.txt	65	MALE	T波改变	窦性心动过缓	临界ECG
+100851.txt	38	MALE	窦性心律	正常ECG
+100852.txt	72	MALE	窦性心律	T波改变	左心室高电压
+100853.txt	23	FEMALE	窦性心动过速	临界ECG	QRS低电压
+100854.txt	31	MALE	窦性心律	电轴右偏
+100855.txt	50	MALE	窦性心动过缓	临界ECG
+100856.txt	27	FEMALE	窦性心动过速
+100857.txt	68	FEMALE	窦性心律	T波改变	左心室高电压
+100858.txt	83	FEMALE	窦性心律	房性早搏
+100859.txt	47	FEMALE	窦性心律	QRS低电压
+100860.txt	27	FEMALE	窦性心律	电轴右偏
+100861.txt	31	FEMALE	窦性心动过速	ST-T改变
+100862.txt	49	MALE	窦性心动过缓	临界ECG	QRS低电压
+100863.txt	16	MALE	窦性心律	临界ECG	电轴右偏
+100864.txt	56	MALE	窦性心律	正常ECG
+100865.txt	54	MALE	窦性心动过缓	左心室高电压
+100866.txt	51	MALE	窦性心动过缓	完全性右束支传导阻滞
+100867.txt	38	MALE	ST-T改变	窦性心动过速
+100868.txt	33	FEMALE	窦性心律	ST-T改变
+100869.txt	35	FEMALE	窦性心律	QRS低电压
+100870.txt	69	FEMALE	窦性心律	房性早搏	临界ECG
+100871.txt			窦性心动过缓	临界ECG
+100872.txt	57	FEMALE	窦性心动过速	电轴左偏
+100873.txt	19	MALE	窦性心律	电轴右偏
+100874.txt			窦性心律	QRS低电压	临界ECG
+100875.txt	75	MALE	窦性心动过速	QRS低电压	电轴左偏	异常ECG
+100876.txt			窦性心动过缓	临界ECG
+100877.txt			窦性心律	完全性右束支传导阻滞
+100878.txt	49	FEMALE	窦性心律	QRS低电压
+100879.txt	57	FEMALE	窦性心动过速
+100880.txt	64	MALE	窦性心律	电轴右偏
+100881.txt			窦性心动过缓
+100882.txt	51	MALE	窦性心律	T波改变	左心室高电压
+100883.txt	37	FEMALE	窦性心律	QRS低电压
+100884.txt	53	MALE	窦性心律	电轴左偏
+100885.txt	72	MALE	窦性心律	T波改变	电轴左偏
+100886.txt	68	FEMALE	窦性心律	T波改变	ST-T改变
+100887.txt	47	FEMALE	窦性心律	ST段改变
+100888.txt	47	FEMALE	窦性心动过缓	左心室高电压
+100889.txt	33	FEMALE	窦性心动过缓	临界ECG
+100890.txt			窦性心律	ST-T改变	左心室肥大
+100891.txt	2	MALE	窦性心动过速	临界ECG
+100892.txt	55	FEMALE	窦性心律	ST-T改变
+100893.txt	32	MALE	窦性心律	临界ECG	电轴右偏
+100894.txt	32	MALE	窦性心律	T波改变
+100895.txt	61	FEMALE	窦性心律	ST-T改变
+100896.txt	57	FEMALE	ST-T改变	窦性心动过速
+100897.txt			窦性心动过缓
+100898.txt	42	MALE	窦性心动过缓
+100899.txt	36	MALE	窦性心动过缓
+100900.txt	78	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞	一度房室传导阻滞
+100901.txt	33	FEMALE	窦性心律	电轴左偏
+100902.txt	80	MALE	心房颤动
+100903.txt			窦性心律	QRS低电压
+100904.txt	32	FEMALE	窦性心律	临界ECG	QRS低电压
+100905.txt	93	MALE	窦性心律	房性早搏
+100906.txt	65	MALE	窦性心动过缓	临界ECG
+100907.txt	40	MALE	窦性心动过缓
+100908.txt	48	FEMALE	窦性心动过速
+100909.txt	62	FEMALE	窦性心律	ST-T改变
+100910.txt			窦性心律	电轴左偏
+100911.txt	71	MALE	窦性心律	QRS低电压
+100912.txt	40	FEMALE	窦性心律	T波改变
+100913.txt			窦性心动过速	房性早搏	ST段改变
+100914.txt	25	FEMALE	T波改变	窦性心动过速
+100915.txt	25	MALE	窦性心律	电轴右偏	临界ECG
+100916.txt	30	MALE	窦性心律	完全性右束支传导阻滞
+100917.txt	44	MALE	窦性心律	T波改变
+100918.txt	76	MALE	窦性心律	完全性右束支传导阻滞	左前分支传导阻滞
+100919.txt	57	FEMALE	窦性心律	T波改变
+100920.txt	43	MALE	窦性心动过缓	临界ECG
+100921.txt			窦性心动过速	电轴左偏
+100922.txt	37	MALE	窦性心动过速	临界ECG
+100923.txt	55	FEMALE	窦性心律	T波改变
+100924.txt	55	FEMALE	窦性心律	T波改变	ST-T改变
+100925.txt	59	FEMALE	窦性心动过缓	临界ECG
+100926.txt	59	FEMALE	窦性心律	T波改变	ST-T改变
+100927.txt	26	MALE	窦性心律	电轴右偏	完全性右束支传导阻滞
+100928.txt	59	MALE	窦性心律	左心室高电压	ST-T改变
+100929.txt	60	MALE	窦性心动过缓	临界ECG
+100930.txt	34	FEMALE	窦性心律	ST-T改变
+100931.txt	50	MALE	窦性心动过缓
+100932.txt	72	MALE	窦性心律	完全性右束支传导阻滞
+100933.txt			窦性心律	临界ECG	电轴右偏
+100934.txt	86	FEMALE	窦性心律	ST-T改变	左心室肥大	左心室高电压
+100935.txt	71	FEMALE	窦性心律	T波改变	不完全性右束支传导阻滞
+100936.txt	36	FEMALE	窦性心动过缓	临界ECG	QRS低电压	窦性心律
+100937.txt	56	FEMALE	窦性心律	正常ECG
+100938.txt	52	MALE	窦性心律	ST-T改变
+100939.txt	53	FEMALE	窦性心动过缓	临界ECG
+100940.txt	52	MALE	窦性心律	QRS低电压
+100941.txt	69	MALE	窦性心律	房性早搏	室性早搏
+100942.txt	50	MALE	T波改变	窦性心动过缓	非特异性T波异常
+100943.txt	49	FEMALE	窦性心律	临界ECG	QRS低电压
+100944.txt	58	MALE	窦性心律	电轴左偏
+100945.txt	92	MALE	窦性心动过缓	心房颤动
+100946.txt	39	MALE	窦性心律	T波改变
+100947.txt	25	FEMALE	窦性心动过缓	临界ECG
+100948.txt	61	FEMALE	窦性心律	窦性心动过缓	ST-T改变	一度房室传导阻滞
+100949.txt	62	MALE	窦性心律	临界ECG	房性早搏	电轴右偏
+100950.txt	67	FEMALE	ST-T改变	窦性心动过速
+100951.txt	35	FEMALE	窦性心律	QRS低电压
+100952.txt	43	MALE	窦性心律	正常ECG
+100953.txt	19	MALE	窦性心动过缓	左心室高电压
+100954.txt	51	MALE	窦性心律	正常ECG
+100955.txt			窦性心动过缓
+100956.txt	66	MALE	窦性心律	正常ECG
+100957.txt	58	MALE	窦性心律	正常ECG
+100958.txt	25	FEMALE	窦性心动过速
+100959.txt	62	MALE	窦性心律	ST-T改变
+100960.txt	53	MALE	窦性心动过缓
+100961.txt	61	MALE	ST-T改变	窦性心动过速	左前分支传导阻滞	电轴左偏
+100962.txt	42	MALE	窦性心律	T波改变
+100963.txt	55	MALE	窦性心动过缓	临界ECG	房性早搏
+100964.txt	58	MALE	窦性心律	正常ECG
+100965.txt			窦性心律	电轴右偏	临界ECG
+100966.txt	53	MALE	窦性心动过缓	临界ECG
+100967.txt	39	FEMALE	窦性心律	T波改变
+100968.txt	57	MALE	窦性心律	T波改变	左心室高电压
+100969.txt	70	MALE	窦性心律	正常ECG
+100970.txt			窦性心动过缓	临界ECG
+100971.txt	35	FEMALE	窦性心律	QRS低电压
+100972.txt	82	MALE	窦性心律	T波改变	房性早搏	电轴右偏
+100973.txt	70	MALE	窦性心律	正常ECG
+100974.txt	62	MALE	窦性心律	电轴右偏
+100975.txt	47	FEMALE	窦性心律	QRS低电压
+100976.txt	27	FEMALE	窦性心动过速
+100977.txt	46	MALE	窦性心律	临界ECG	房性早搏
+100978.txt	43	FEMALE	窦性心律	QRS低电压
+100979.txt			窦性心律	T波改变	左心室高电压
+100980.txt	55	MALE	窦性心律	电轴左偏
+100981.txt	44	FEMALE	窦性心律	QRS低电压	电轴左偏	异常ECG	室性早搏
+100982.txt			窦性心动过速
+100983.txt	14	FEMALE	窦性心动过速	电轴右偏
+100984.txt	68	FEMALE	窦性心律	T波改变
+100985.txt	66	MALE	窦性心律	QRS低电压	室性早搏
+100986.txt	62	MALE	窦性心律	ST-T改变	左心室高电压
+100987.txt	94	FEMALE	ST-T改变	心房颤动	起搏心律	窦性心律
+100988.txt	26	FEMALE	窦性心律	电轴右偏
+100989.txt	42	MALE	窦性心动过速	临界ECG
+100990.txt	48	FEMALE	窦性心律	ST段改变
+100991.txt	43	MALE	窦性心动过缓	临界ECG
+100992.txt	63	FEMALE	窦性心律	T波改变
+100993.txt	58	MALE	窦性心动过缓	临界ECG
+100994.txt	87	MALE	窦性心律	室性早搏	完全性右束支传导阻滞
+100995.txt	63	FEMALE	窦性心律	ST-T改变
+100996.txt	38	MALE	窦性心动过缓
+100997.txt	58	MALE	心房颤动
+100998.txt	70	FEMALE	窦性心律	ST-T改变
+100999.txt	25	MALE	窦性心动过速
+101000.txt	24	FEMALE	窦性心律	T波改变
+101001.txt	46	FEMALE	窦性心律	T波改变
+101002.txt	83	MALE	窦性心律	T波改变
+101003.txt	33	MALE	窦性心律	ST-T改变
+101004.txt	61	MALE	窦性心律	正常ECG
+101005.txt	57	FEMALE	窦性心律	ST-T改变
+101006.txt			窦性心律
+101007.txt			窦性心动过缓	ST-T改变	左心室肥大
+101008.txt	35	FEMALE	窦性心律	QRS低电压
+101009.txt			窦性心律	正常ECG	电轴右偏
+101010.txt	50	FEMALE	窦性心律	T波改变	ST-T改变
+101011.txt	30	FEMALE	窦性心动过速	临界ECG
+101012.txt			窦性心律	电轴右偏
+101013.txt	25	FEMALE	窦性心动过速
+101014.txt	27	MALE	窦性心动过缓
+101015.txt	62	FEMALE	窦性心律	房性早搏	ST段改变
+101016.txt	36	FEMALE	窦性心律	T波改变
+101017.txt	62	MALE	心房颤动
+101018.txt			窦性心动过缓	临界ECG
+101019.txt		MALE	窦性心律	正常ECG
+101020.txt	59	FEMALE	窦性心律	室性早搏	临界ECG
+101021.txt	58	FEMALE	ST-T改变	心房颤动	快心室率
+101022.txt	14	FEMALE	窦性心律
+101023.txt	31	MALE	窦性心动过缓
+101024.txt	24	FEMALE	窦性心律	T波改变	ST-T改变
+101025.txt	40	MALE	窦性心律	电轴左偏
+101026.txt	55	MALE	窦性心律	ST-T改变
+101027.txt	30	FEMALE	窦性心律	QRS低电压
+101028.txt	30	FEMALE	窦性心动过缓	临界ECG
+101029.txt			窦性心动过速
+101030.txt	50	FEMALE	窦性心动过缓
+101031.txt	54	FEMALE	窦性心律	T波改变
+101032.txt	79	MALE	窦性心律	T波改变	QRS低电压
+101033.txt	43	MALE	窦性心律	QRS低电压
+101034.txt	27	FEMALE	窦性心律	T波改变
+101035.txt	52	MALE	窦性心动过缓	临界ECG
+101036.txt	43	MALE	窦性心律	正常ECG
+101037.txt	26	FEMALE	ST段改变	窦性心动过速
+101038.txt	21	FEMALE	窦性心动过速	窦性心律
+101039.txt	67	MALE	窦性心律	房性早搏
+101040.txt	63	MALE	窦性心律	T波改变	左心室高电压
+101041.txt	33	FEMALE	窦性心律	T波改变	ST-T改变
+101042.txt	50	MALE	窦性心律	T波改变
+101043.txt	48	MALE	窦性心律	正常ECG
+101044.txt	65	MALE	窦性心律	ST段改变
+101045.txt	27	FEMALE	窦性心律	QRS低电压
+101046.txt			窦性心动过速	临界ECG
+101047.txt	27	FEMALE	窦性心动过速
+101048.txt	50	MALE	窦性心动过缓	完全性右束支传导阻滞	窦性心律
+101049.txt	27	FEMALE	窦性心动过缓	临界ECG
+101050.txt	22	MALE	窦性心动过缓
+101051.txt	61	MALE	窦性心律	临界ECG	QRS低电压	房性早搏
+101052.txt	38	FEMALE	窦性心律	T波改变	QRS低电压
+101053.txt	59	MALE	心房颤动	室性早搏
+101054.txt	57	MALE	T波改变	窦性心动过缓	非特异性T波异常
+101055.txt	56	MALE	窦性心动过缓	电轴右偏
+101056.txt	57	FEMALE	窦性心律	电轴左偏
+101057.txt	54	FEMALE	窦性心动过缓
+101058.txt	57	MALE	窦性心律	电轴左偏	异常ECG
+101059.txt	77	MALE	T波改变	窦性心动过缓
+101060.txt	52	MALE	窦性心律	ST-T改变
+101061.txt	25	FEMALE	窦性心动过缓	临界ECG
+101062.txt	44	MALE	窦性心动过缓	临界ECG
+101063.txt	5	MALE	T波改变	左心室高电压	窦性心动过速
+101064.txt			窦性心律	电轴左偏
+101065.txt	53	FEMALE	窦性心律	ST-T改变
+101066.txt	64	MALE	窦性心律	T波改变	完全性右束支传导阻滞
+101067.txt	76	FEMALE	窦性心律	ST-T改变
+101068.txt	66	MALE	T波改变	窦性心动过缓	ST-T改变	窦性心律
+101069.txt	43	MALE	窦性心律	电轴左偏
+101070.txt	31	FEMALE	窦性心律	T波改变
+101071.txt	79	FEMALE	窦性心动过速	室性早搏	窦性心律
+101072.txt	40	FEMALE	窦性心律	QRS低电压
+101073.txt	39	MALE	窦性心律	QRS低电压
+101074.txt	22	FEMALE	窦性心动过速
+101075.txt	46	MALE	窦性心律	完全性右束支传导阻滞
+101076.txt	70	FEMALE	心房颤动	快心室率
+101077.txt	17	MALE	窦性心动过缓
+101078.txt	23	FEMALE	窦性心动过缓	临界ECG
+101079.txt	31	FEMALE	窦性心律	T波改变	QRS低电压
+101080.txt	27	FEMALE	窦性心动过速	临界ECG
+101081.txt	61	MALE	窦性心律	窦性心动过缓	电轴左偏	异常ECG
+101082.txt	46	MALE	窦性心动过缓	临界ECG
+101083.txt	61	MALE	窦性心律	正常ECG
+101084.txt			窦性心动过缓	临界ECG
+101085.txt	54	FEMALE	窦性心动过速	QRS低电压
+101086.txt			窦性心律	ST-T改变	左心室肥大
+101087.txt	29	FEMALE	窦性心律	ST-T改变	电轴右偏
+101088.txt	66	MALE	窦性心律	T波改变	房性早搏
+101089.txt	64	MALE	窦性心动过缓
+101090.txt	24	FEMALE	窦性心动过缓	临界ECG
+101091.txt	29	FEMALE	窦性心律	电轴右偏
+101092.txt	48	FEMALE	窦性心律	T波改变
+101093.txt			窦性心律	电轴左偏
+101094.txt	71	FEMALE	心房颤动	室性早搏	完全性右束支传导阻滞	窦性心律
+101095.txt	51	MALE	窦性心律	正常ECG
+101096.txt	52	MALE	窦性心动过缓
+101097.txt	36	MALE	窦性心律	ST-T改变
+101098.txt	30	FEMALE	窦性心律	QRS低电压
+101099.txt	21	MALE	窦性心动过缓
+101100.txt	55	MALE	窦性心律	ST-T改变
+101101.txt	56	FEMALE	窦性心律	ST-T改变	窦性心动过速
+101102.txt	54	MALE	窦性心律	ST段改变
+101103.txt	60	MALE	窦性心动过缓
+101104.txt			ST段改变	心房颤动	快心室率
+101105.txt	35	MALE	窦性心律	正常ECG
+101106.txt	40	MALE	窦性心动过缓	临界ECG
+101107.txt	40	FEMALE	ST-T改变	窦性心动过速
+101108.txt	84	MALE	窦性心律	T波改变
+101109.txt	47	MALE	窦性心动过缓
+101110.txt	38	FEMALE	窦性心动过速	临界ECG
+101111.txt			窦性心律	电轴左偏
+101112.txt	64	MALE	窦性心律	正常ECG
+101113.txt	25	FEMALE	窦性心动过缓	临界ECG
+101114.txt	28	MALE	窦性心动过缓
+101115.txt	31	FEMALE	窦性心律	T波改变
+101116.txt	26	MALE	窦性心律
+101117.txt	25	MALE	窦性心律	临界ECG	电轴右偏
+101118.txt	38	MALE	窦性心律	T波改变	左心室高电压
+101119.txt	34	FEMALE	窦性心律	T波改变
+101120.txt			窦性心动过缓	临界ECG
+101121.txt	64	FEMALE	窦性心律	T波改变
+101122.txt	38	FEMALE	窦性心律	电轴右偏
+101123.txt	25	FEMALE	窦性心律	临界ECG	QRS低电压
+101124.txt	74	MALE	窦性心动过速
+101125.txt	37	FEMALE	窦性心律	QRS低电压	临界ECG
+101126.txt	74	FEMALE	窦性心律	电轴左偏
+101127.txt	46	FEMALE	窦性心律	T波改变
+101128.txt	61	MALE	窦性心律	T波改变
+101129.txt	84	MALE	窦性心律	T波改变	电轴右偏
+101130.txt			窦性心律	临界ECG	QRS低电压
+101131.txt	66	MALE	窦性心动过缓
+101132.txt	33	FEMALE	窦性心律	正常ECG
+101133.txt	75	FEMALE	窦性心律	ST-T改变
+101134.txt	20	FEMALE	窦性心律	电轴右偏	肺心病型
+101135.txt	54	FEMALE	窦性心律	房性早搏
+101136.txt	63	FEMALE	ST-T改变	窦性心动过速
+101137.txt	20	MALE	窦性心律	电轴右偏
+101138.txt	53	MALE	窦性心律	T波改变
+101139.txt	50	MALE	窦性心律	T波改变	电轴左偏
+101140.txt	47	MALE	窦性心律	电轴左偏
+101141.txt	38	FEMALE	窦性心律	电轴左偏	异常ECG
+101142.txt	83	MALE	心房颤动
+101143.txt	49	MALE	窦性心动过缓	完全性右束支传导阻滞
+101144.txt	23	FEMALE	窦性心律	T波改变
+101145.txt	39	MALE	窦性心律	正常ECG
+101146.txt	53	MALE	左心室高电压	窦性心律
+101147.txt	28	FEMALE	窦性心律	临界ECG	室性早搏
+101148.txt	26	MALE	窦性心律	T波改变
+101149.txt	27	FEMALE	窦性心律	QRS低电压
+101150.txt	25	FEMALE	窦性心律	房性早搏
+101151.txt	31	FEMALE	窦性心动过速
+101152.txt	74	FEMALE	窦性心律	T波改变
+101153.txt	33	FEMALE	窦性心律	QRS低电压	临界ECG
+101154.txt	28	FEMALE	窦性心律	T波改变	QRS低电压
+101155.txt	82	MALE	窦性心律	T波改变
+101156.txt	60	FEMALE	窦性心律	ST-T改变
+101157.txt	36	MALE	窦性心律	T波改变
+101158.txt	56	FEMALE	窦性心律	房性早搏
+101159.txt	44	MALE	窦性心动过速	电轴右偏
+101160.txt	28	FEMALE	窦性心律	ST-T改变
+101161.txt	83	MALE	窦性心律	QRS低电压
+101162.txt	48	FEMALE	窦性心律	T波改变	电轴左偏
+101163.txt	47	FEMALE	窦性心律	室性早搏	ST段改变
+101164.txt			窦性心动过缓	临界ECG
+101165.txt	74	FEMALE	ST-T改变	窦性心动过速	左心室肥大
+101166.txt	40	MALE	窦性心律	正常ECG
+101167.txt	27	MALE	窦性心律	电轴右偏
+101168.txt			窦性心动过速	QRS低电压	临界ECG
+101169.txt			T波改变	窦性心动过缓	非特异性T波异常
+101170.txt	70	MALE	窦性心律	ST-T改变	左心室肥大
+101171.txt	34	MALE	窦性心动过速
+101172.txt			窦性心律	T波改变
+101173.txt			窦性心律	QRS低电压
+101174.txt	29	FEMALE	窦性心律	窦性心动过缓
+101175.txt	43	MALE	窦性心动过缓
+101176.txt	39	FEMALE	窦性心动过缓	临界ECG
+101177.txt	84	FEMALE	窦性心律	ST-T改变	房性早搏	左心室肥大
+101178.txt	55	FEMALE	窦性心动过速	QRS低电压
+101179.txt	79	MALE	心房颤动	快心室率	ST-T改变
+101180.txt	28	FEMALE	窦性心动过速
+101181.txt	58	MALE	窦性心律	正常ECG
+101182.txt	19	FEMALE	窦性心动过速
+101183.txt	44	FEMALE	ST-T改变	窦性心动过速
+101184.txt	29	FEMALE	窦性心律	临界ECG	电轴右偏
+101185.txt	50	FEMALE	窦性心动过缓	临界ECG
+101186.txt	56	MALE	窦性心律	T波改变
+101187.txt	75	MALE	窦性心律	T波改变	QRS低电压
+101188.txt	23	MALE	窦性心动过缓
+101189.txt	34	MALE	窦性心律	T波改变
+101190.txt	72	MALE	心房颤动
+101191.txt	32	FEMALE	窦性心律	T波改变
+101192.txt			窦性心律	T波改变
+101193.txt	85	FEMALE	窦性心律	完全性右束支传导阻滞	室性早搏
+101194.txt	72	FEMALE	ST-T改变	窦性心动过速	室性早搏
+101195.txt	51	MALE	心房颤动
+101196.txt	54	FEMALE	窦性心律	ST-T改变
+101197.txt	62	MALE	窦性心律	电轴左偏
+101198.txt	53	FEMALE	窦性心动过缓	临界ECG
+101199.txt	53	FEMALE	窦性心律	ST-T改变
+101200.txt	29	FEMALE	窦性心律	正常ECG
+101201.txt	23	FEMALE	窦性心律	房性早搏
+101202.txt			窦性心动过缓
+101203.txt	51	FEMALE	窦性心律	ST-T改变
+101204.txt	34	FEMALE	窦性心律	T波改变	ST段改变
+101205.txt	65	MALE	窦性心律	ST-T改变	左心室肥大	窦性心动过缓
+101206.txt	43	MALE	窦性心律	完全性右束支传导阻滞
+101207.txt	55	MALE	窦性心律	T波改变
+101208.txt	68	FEMALE	窦性心动过缓
+101209.txt	82	FEMALE	窦性心律	ST-T改变	左心室肥大
+101210.txt	21	FEMALE	窦性心律	QRS低电压
+101211.txt	40	MALE	窦性心律	ST-T改变
+101212.txt	77	FEMALE	ST-T改变	心房颤动	室性早搏	左心室肥大
+101213.txt	49	FEMALE	窦性心律	QRS低电压
+101214.txt		MALE	窦性心动过速
+101215.txt			窦性心律	T波改变
+101216.txt	32	MALE	窦性心律	电轴右偏	临界ECG
+101217.txt	22	FEMALE	窦性心律	T波改变
+101218.txt	41	FEMALE	窦性心动过缓	临界ECG
+101219.txt			窦性心律	T波改变
+101220.txt	49	MALE	窦性心律	正常ECG
+101221.txt			窦性心律	电轴右偏
+101222.txt	61	MALE	窦性心律	左心室高电压	完全性右束支传导阻滞
+101223.txt	78	FEMALE	窦性心律	ST段改变
+101224.txt	59	FEMALE	窦性心动过缓	临界ECG
+101225.txt	7	MALE	窦性心动过速
+101226.txt	61	MALE	窦性心律	T波改变	窦性心动过缓	ST-T改变
+101227.txt	75	MALE	窦性心律	电轴左偏
+101228.txt			窦性心律	T波改变
+101229.txt	37	FEMALE	窦性心律	T波改变	室性早搏
+101230.txt	21	FEMALE	窦性心律	电轴右偏
+101231.txt	79	MALE	窦性心动过缓	一度房室传导阻滞
+101232.txt	71	FEMALE	窦性心律	T波改变
+101233.txt			窦性心律	电轴左偏
+101234.txt	30	MALE	窦性心律	T波改变
+101235.txt	51	MALE	窦性心律	正常ECG
+101236.txt	58	MALE	窦性心律	左心室高电压	完全性右束支传导阻滞
+101237.txt	62	MALE	窦性心律	房性早搏
+101238.txt	62	MALE	窦性心律	ST-T改变
+101239.txt	21	MALE	窦性心律	T波改变	左心室高电压
+101240.txt	50	FEMALE	窦性心动过速
+101241.txt	57	MALE	窦性心律	完全性右束支传导阻滞
+101242.txt	58	FEMALE	窦性心律	电轴左偏	异常ECG
+101243.txt	22	MALE	窦性心律	完全性右束支传导阻滞
+101244.txt	30	FEMALE	窦性心动过速	临界ECG
+101245.txt	82	MALE	窦性心动过速	临界ECG
+101246.txt	23	FEMALE	窦性心律	T波改变
+101247.txt	40	FEMALE	窦性心律	T波改变
+101248.txt	44	FEMALE	窦性心动过缓
+101249.txt	35	FEMALE	窦性心律	ST-T改变
+101250.txt	44	MALE	T波改变	窦性心动过速
+101251.txt	33	FEMALE	窦性心律	T波改变
+101252.txt	27	FEMALE	窦性心律	QRS低电压
+101253.txt	45	FEMALE	窦性心律	临界ECG	QRS低电压
+101254.txt	33	FEMALE	ST-T改变	窦性心动过速
+101255.txt	85	MALE	窦性心律	完全性右束支传导阻滞
+101256.txt	37	FEMALE	窦性心律	T波改变
+101257.txt	66	MALE	窦性心律	T波改变	ST-T改变
+101258.txt	68	MALE	窦性心律	QRS低电压
+101259.txt			窦性心律	T波改变	左心室高电压
+101260.txt	52	MALE	心房颤动
+101261.txt	25	MALE	窦性心动过缓	临界ECG
+101262.txt	58	MALE	窦性心律	正常ECG
+101263.txt	75	MALE	窦性心律	ST-T改变
+101264.txt	88	MALE	窦性心律	QRS低电压
+101265.txt	58	MALE	窦性心动过缓
+101266.txt	26	FEMALE	窦性心动过速	临界ECG	QRS低电压
+101267.txt			窦性心律	T波改变
+101268.txt	79	MALE	窦性心律	完全性右束支传导阻滞
+101269.txt	61	FEMALE	窦性心律	T波改变	ST-T改变
+101270.txt	17	MALE	T波改变	电轴右偏
+101271.txt	37	MALE	窦性心律	完全性右束支传导阻滞
+101272.txt	31	FEMALE	窦性心律	正常ECG
+101273.txt	67	MALE	窦性心律	房性早搏
+101274.txt	57	FEMALE	窦性心律	T波改变	QRS低电压
+101275.txt	82	MALE	心房颤动	完全性右束支传导阻滞	ST-T改变
+101276.txt	59	MALE	窦性心律	T波改变	ST-T改变
+101277.txt			窦性心动过缓	临界ECG
+101278.txt	65	MALE	窦性心动过缓
+101279.txt	50	FEMALE	窦性心律	房性早搏
+101280.txt	26	FEMALE	T波改变	窦性心动过缓	QRS低电压	非特异性T波异常
+101281.txt	69	MALE	窦性心动过缓	室性早搏	一度房室传导阻滞
+101282.txt	68	FEMALE	窦性心律	ST-T改变
+101283.txt	81	MALE	QRS低电压	心房颤动
+101284.txt	65	MALE	窦性心动过缓
+101285.txt	38	MALE	窦性心律	T波改变	室性早搏
+101286.txt	54	MALE	窦性心动过缓	临界ECG
+101287.txt	60	MALE	窦性心动过速	完全性右束支传导阻滞
+101288.txt	57	FEMALE	ST-T改变	窦性心动过速
+101289.txt	61	FEMALE	窦性心律	电轴左偏
+101290.txt	48	FEMALE	窦性心律	临界ECG	室性早搏
+101291.txt	65	FEMALE	T波改变	窦性心动过缓	ST-T改变
+101292.txt	78	MALE	窦性心动过缓	ST-T改变	一度房室传导阻滞
+101293.txt	67	MALE	窦性心律	完全性右束支传导阻滞
+101294.txt	45	FEMALE	窦性心律	T波改变
+101295.txt	32	FEMALE	窦性心律	临界ECG	室性早搏
+101296.txt			窦性心动过缓
+101297.txt	63	MALE	窦性心动过缓
+101298.txt	51	FEMALE	窦性心律	QRS低电压
+101299.txt	39	MALE	窦性心律	正常ECG
+101300.txt	71	MALE	ST-T改变	心房颤动
+101301.txt	41	MALE	窦性心动过缓
+101302.txt	22	FEMALE	窦性心律	电轴右偏
+101303.txt	30	MALE	窦性心律	临界ECG	房性早搏
+101304.txt	40	FEMALE	窦性心律	ST段改变
+101305.txt	20	FEMALE	窦性心动过速	临界ECG	QRS低电压
+101306.txt	37	MALE	窦性心动过缓
+101307.txt	55	FEMALE	窦性心律	T波改变
+101308.txt	32	FEMALE	窦性心律	正常ECG	ST段改变
+101309.txt	48	MALE	窦性心律	正常ECG
+101310.txt	41	FEMALE	T波改变	窦性心动过速
+101311.txt	47	MALE	窦性心动过缓
+101312.txt	33	FEMALE	窦性心律	QRS低电压
+101313.txt	78	FEMALE	T波改变	ST-T改变	心房颤动	窦性心律	一度房室传导阻滞
+101314.txt	22	MALE	窦性心动过缓
+101315.txt	26	FEMALE	窦性心律	临界ECG	房性早搏
+101316.txt	84	MALE	窦性心律	正常ECG
+101317.txt	30	FEMALE	窦性心律	电轴右偏
+101318.txt	51	FEMALE	窦性心动过缓
+101319.txt	56	FEMALE	窦性心动过缓	ST-T改变	左心室肥大
+101320.txt	43	MALE	窦性心律	T波改变
+101321.txt	30	FEMALE	窦性心律	电轴右偏
+101322.txt	74	MALE	QRS低电压	心房颤动
+101323.txt	76	MALE	心房颤动
+101324.txt	56	FEMALE	窦性心律	T波改变	ST-T改变
+101325.txt			窦性心律	电轴左偏
+101326.txt	54	MALE	窦性心律	T波改变
+101327.txt	41	MALE	窦性心律	正常ECG
+101328.txt	40	MALE	窦性心动过缓
+101329.txt	42	MALE	窦性心律	完全性右束支传导阻滞
+101330.txt	27	FEMALE	窦性心律	T波改变
+101331.txt	47	FEMALE	心房颤动	快心室率
+101332.txt	18	FEMALE	窦性心律	临界ECG	室性早搏
+101333.txt	26	FEMALE	窦性心动过速
+101334.txt	30	FEMALE	窦性心动过速	临界ECG
+101335.txt	77	MALE	窦性心律	房性早搏	电轴左偏	异常ECG	右束支传导阻滞	完全性右束支传导阻滞	左前分支传导阻滞
+101336.txt	60	MALE	心房颤动
+101337.txt	52	MALE	窦性心律	电轴左偏
+101338.txt	63	MALE	窦性心律	电轴左偏
+101339.txt			窦性心律	室性早搏
+101340.txt			窦性心律	T波改变
+101341.txt	64	MALE	窦性心律	电轴左偏	异常ECG
+101342.txt	43	MALE	窦性心动过速	QRS低电压
+101343.txt	63	FEMALE	窦性心律	正常ECG
+101344.txt	17	MALE	窦性心律	右心室肥大
+101345.txt	24	FEMALE	窦性心动过速
+101346.txt	85	FEMALE	窦性心动过速
+101347.txt	54	MALE	窦性心律	完全性右束支传导阻滞
+101348.txt	57	FEMALE	窦性心律	T波改变
+101349.txt	62	MALE	ST-T改变	心房颤动	室性早搏
+101350.txt	23	MALE	窦性心动过速
+101351.txt	53	MALE	窦性心律	T波改变	QRS低电压	电轴右偏
+101352.txt	46	MALE	窦性心律	完全性右束支传导阻滞
+101353.txt	22	FEMALE	窦性心律	临界ECG	QRS低电压
+101354.txt	34	FEMALE	窦性心律	T波改变
+101355.txt	31	FEMALE	窦性心律	T波改变
+101356.txt	24	FEMALE	窦性心律	QRS低电压
+101357.txt	30	FEMALE	窦性心律
+101358.txt	39	MALE	窦性心律	完全性右束支传导阻滞	电轴左偏
+101359.txt			窦性心律	电轴右偏	临界ECG
+101360.txt	24	FEMALE	窦性心动过速
+101361.txt	42	MALE	窦性心律	电轴右偏
+101362.txt	41	FEMALE	窦性心律	ST-T改变
+101363.txt	52	FEMALE	窦性心动过缓
+101364.txt	76	MALE	窦性心律	正常ECG
+101365.txt	44	MALE	窦性心动过缓	左心室高电压
+101366.txt	60	MALE	窦性心律	房性早搏	临界ECG
+101367.txt	24	FEMALE	窦性心律	T波改变
+101368.txt	67	MALE	窦性心律	ST段改变	左心室高电压
+101369.txt	53	FEMALE	窦性心动过缓	临界ECG
+101370.txt	30	FEMALE	窦性心律	QRS低电压	ST段改变
+101371.txt	38	FEMALE	窦性心动过速	临界ECG
+101372.txt	76	MALE	心房颤动	快心室率
+101373.txt	43	MALE	窦性心动过缓	ST-T改变
+101374.txt	73	MALE	窦性心动过速	QRS低电压
+101375.txt			窦性心律	电轴左偏
+101376.txt	24	FEMALE	窦性心律	ST-T改变	电轴右偏
+101377.txt	28	MALE	窦性心律	正常ECG
+101378.txt	51	MALE	窦性心律	正常ECG
+101379.txt	37	MALE	窦性心律	电轴左偏
+101380.txt	86	MALE	窦性心律	室性早搏	完全性右束支传导阻滞
+101381.txt	36	MALE	窦性心动过缓
+101382.txt	51	MALE	窦性心律	正常ECG
+101383.txt	77	FEMALE	窦性心律	电轴左偏	完全性右束支传导阻滞	ST-T改变
+101384.txt	37	MALE	窦性心动过缓	临界ECG
+101385.txt	52	MALE	窦性心律	完全性右束支传导阻滞
+101386.txt	55	MALE	窦性心律	完全性右束支传导阻滞
+101387.txt			窦性心动过缓
+101388.txt	82	FEMALE	窦性心律	电轴左偏	完全性右束支传导阻滞
+101389.txt	32	MALE	窦性心律	正常ECG
+101390.txt			窦性心律	T波改变
+101391.txt	51	FEMALE	窦性心律	室性早搏
+101392.txt	24	FEMALE	窦性心律	电轴左偏
+101393.txt	47	MALE	窦性心律	T波改变	QRS低电压
+101394.txt	64	MALE	窦性心动过缓	临界ECG
+101395.txt	32	FEMALE	窦性心律	ST-T改变
+101396.txt	40	FEMALE	窦性心动过缓	QRS低电压
+101397.txt	23	FEMALE	窦性心律	ST-T改变
+101398.txt	46	MALE	窦性心律	ST-T改变	左心室肥大
+101399.txt	88	MALE	窦性心律	电轴左偏
+101400.txt	36	FEMALE	窦性心律	T波改变
+101401.txt	50	FEMALE	ST-T改变	窦性心动过速
+101402.txt	50	MALE	窦性心律	正常ECG
+101403.txt	20	FEMALE	窦性心动过速
+101404.txt			T波改变	窦性心动过缓
+101405.txt	48	FEMALE	窦性心律	ST-T改变
+101406.txt	24	FEMALE	窦性心律	临界ECG	电轴右偏
+101407.txt	54	FEMALE	窦性心动过速	QRS低电压
+101408.txt	44	FEMALE	窦性心律	电轴右偏
+101409.txt	61	MALE	窦性心动过缓	临界ECG
+101410.txt	64	FEMALE	窦性心律	ST-T改变
+101411.txt	59	MALE	窦性心律	T波改变
+101412.txt	49	MALE	窦性心律	正常ECG
+101413.txt	19	MALE	窦性心律	临界ECG	电轴右偏
+101414.txt	39	MALE	心房颤动
+101415.txt	32	FEMALE	窦性心律	T波改变	电轴右偏
+101416.txt	61	MALE	窦性心律	T波改变
+101417.txt	52	MALE	窦性心律	临界ECG	房性早搏
+101418.txt	67	FEMALE	窦性心动过缓	临界ECG
+101419.txt			窦性心律	电轴左偏	一度房室传导阻滞
+101420.txt	23	MALE	窦性心律	完全性右束支传导阻滞	左心室高电压
+101421.txt	35	FEMALE	窦性心律	QRS低电压
+101422.txt	51	MALE	窦性心动过缓	临界ECG
+101423.txt	49	MALE	窦性心律	正常ECG
+101424.txt	18	MALE	窦性心律	电轴右偏
+101425.txt			窦性心律	临界ECG	QRS低电压
+101426.txt	30	FEMALE	窦性心动过缓
+101427.txt	51	MALE	窦性心律	ST-T改变	左心室肥大
+101428.txt	80	FEMALE	窦性心律	左心室高电压	房性早搏
+101429.txt	76	FEMALE	窦性心律	T波改变
+101430.txt	50	FEMALE	窦性心律	QRS低电压
+101431.txt	23	MALE	窦性心动过缓
+101432.txt	79	MALE	窦性心律	QRS低电压
+101433.txt	78	FEMALE	ST-T改变	心房颤动
+101434.txt	48	MALE	窦性心律	T波改变
+101435.txt		FEMALE	窦性心律	电轴左偏	异常ECG
+101436.txt	67	MALE	窦性心律	完全性右束支传导阻滞
+101437.txt	56	MALE	窦性心律	电轴左偏
+101438.txt	46	MALE	窦性心律	正常ECG
+101439.txt	55	FEMALE	窦性心律	电轴左偏
+101440.txt	76	FEMALE	窦性心律	T波改变
+101441.txt	26	FEMALE	窦性心律	QRS低电压
+101442.txt	68	FEMALE	窦性心律	ST段改变	室性早搏
+101443.txt	76	FEMALE	窦性心律	房性早搏
+101444.txt	46	MALE	窦性心律	ST-T改变
+101445.txt	39	FEMALE	窦性心律	QRS低电压
+101446.txt	58	MALE	窦性心律	完全性右束支传导阻滞
+101447.txt	68	MALE	窦性心律	电轴右偏
+101448.txt	36	FEMALE	窦性心律	电轴左偏	异常ECG
+101449.txt	84	MALE	心房颤动	快心室率
+101450.txt	52	MALE	窦性心律	正常ECG
+101451.txt	33	FEMALE	窦性心律	T波改变
+101452.txt	58	MALE	窦性心律	正常ECG
+101453.txt	79	MALE	ST-T改变	心房颤动	左心室肥大
+101454.txt	24	FEMALE	窦性心律	正常ECG
+101455.txt			窦性心律	房性早搏
+101456.txt	18	FEMALE	窦性心律
+101457.txt	27	FEMALE	窦性心动过速	临界ECG	电轴右偏
+101458.txt	69	FEMALE	窦性心律	房性早搏
+101459.txt	23	FEMALE	窦性心动过缓
+101460.txt	71	FEMALE	窦性心律	T波改变
+101461.txt	30	FEMALE	窦性心动过缓
+101462.txt	49	MALE	窦性心律	完全性右束支传导阻滞	左前分支传导阻滞	一度房室传导阻滞
+101463.txt	26	FEMALE	窦性心律	QRS低电压	临界ECG
+101464.txt	43	MALE	窦性心动过缓	左心室高电压
+101465.txt	81	MALE	窦性心律	T波改变	电轴左偏
+101466.txt	41	MALE	窦性心律	ST-T改变
+101467.txt	51	MALE	窦性心律	T波改变
+101468.txt	57	FEMALE	窦性心动过速
+101469.txt	49	MALE	窦性心律	T波改变
+101470.txt	42	MALE	ST-T改变	窦性心动过速	左心室肥大	快心室率	心房颤动	快室率心房颤动
+101471.txt	28	FEMALE	窦性心律	T波改变
+101472.txt	43	MALE	窦性心律	正常ECG
+101473.txt	77	MALE	窦性心律	左心室高电压	房性早搏
+101474.txt	41	MALE	窦性心动过缓	临界ECG
+101475.txt	23	FEMALE	窦性心动过速
+101476.txt	52	MALE	窦性心律	QRS低电压
+101477.txt			窦性心律	T波改变
+101478.txt	54	MALE	窦性心律	完全性右束支传导阻滞	一度房室传导阻滞
+101479.txt	46	MALE	窦性心动过缓	临界ECG
+101480.txt			窦性心律	电轴左偏
+101481.txt	33	FEMALE	窦性心律	T波改变	QRS低电压
+101482.txt	66	MALE	窦性心律	房性早搏
+101483.txt	25	MALE	窦性心动过缓	临界ECG
+101484.txt			窦性心动过缓
+101485.txt	28	MALE	窦性心动过缓
+101486.txt	58	MALE	窦性心律
+101487.txt			窦性心律	电轴右偏
+101488.txt	35	MALE	窦性心动过缓	临界ECG
+101489.txt			窦性心律	T波改变
+101490.txt	54	MALE	窦性心动过缓	临界ECG
+101491.txt	54	FEMALE	窦性心律	T波改变
+101492.txt		FEMALE	窦性心律	QRS低电压
+101493.txt	25	FEMALE	窦性心动过速
+101494.txt	65	FEMALE	窦性心律	ST-T改变
+101495.txt			窦性心动过速
+101496.txt	53	MALE	窦性心律	电轴左偏
+101497.txt	51	FEMALE	窦性心律	ST-T改变
+101498.txt	20	FEMALE	窦性心动过缓
+101499.txt	46	MALE	窦性心律	电轴右偏	临界ECG
+101500.txt	39	FEMALE	窦性心律	ST-T改变
+101501.txt	57	FEMALE	窦性心动过缓	临界ECG
+101502.txt	65	MALE	心房颤动
+101503.txt	54	MALE	窦性心动过缓	电轴右偏
+101504.txt			窦性心律	T波改变
+101505.txt	70	MALE	窦性心律	房性早搏	ST段改变
+101506.txt	31	MALE	窦性心动过缓	临界ECG	电轴右偏
+101507.txt	27	FEMALE	窦性心律	临界ECG	室性早搏
+101508.txt	55	FEMALE	窦性心律	ST-T改变	T波改变
+101509.txt	76	MALE	窦性心律	电轴左偏
+101510.txt			窦性心律	T波改变
+101511.txt	52	MALE	窦性心动过速	QRS低电压
+101512.txt	60	MALE	T波改变	窦性心动过速
+101513.txt	21	FEMALE	窦性心动过速
+101514.txt			窦性心律	电轴右偏
+101515.txt	20	FEMALE	窦性心动过缓	电轴右偏
+101516.txt	53	MALE	心房颤动
+101517.txt	61	FEMALE	窦性心动过缓	临界ECG	房性早搏
+101518.txt	25	MALE	T波改变	窦性心动过缓
+101519.txt			窦性心律	电轴右偏	临界ECG
+101520.txt	50	MALE	窦性心律	T波改变
+101521.txt	29	MALE	窦性心律	电轴左偏
+101522.txt	68	FEMALE	窦性心律	T波改变
+101523.txt	62	MALE	窦性心律	电轴左偏
+101524.txt	71	FEMALE	窦性心律	ST段改变
+101525.txt	40	FEMALE	窦性心律	ST段改变
+101526.txt	35	MALE	窦性心律	T波改变
+101527.txt	51	FEMALE	窦性心律	QRS低电压
+101528.txt	28	FEMALE	T波改变	窦性心动过速	QRS低电压
+101529.txt	60	MALE	窦性心律	正常ECG
+101530.txt	28	MALE	窦性心动过缓	临界ECG
+101531.txt	82	MALE	窦性心律	QRS低电压
+101532.txt	31	FEMALE	窦性心律
+101533.txt	55	FEMALE	窦性心动过缓
+101534.txt	43	MALE	窦性心律	正常ECG
+101535.txt			窦性心律	ST-T改变
+101536.txt	75	FEMALE	窦性心律	ST-T改变	左心室肥大
+101537.txt			窦性心动过缓
+101538.txt	33	FEMALE	窦性心动过速	临界ECG	QRS低电压
+101539.txt	46	FEMALE	窦性心律	QRS低电压
+101540.txt			窦性心律	T波改变	房性早搏
+101541.txt	80	FEMALE	窦性心动过速	QRS低电压
+101542.txt	68	FEMALE	窦性心律	T波改变
+101543.txt	24	FEMALE	窦性心律	ST-T改变	ST段改变
+101544.txt	57	FEMALE	窦性心律	ST-T改变
+101545.txt	21	MALE	窦性心动过缓
+101546.txt	80	MALE	窦性心动过缓	电轴左偏	异常ECG
+101547.txt	26	MALE	窦性心律	正常ECG
+101548.txt	52	MALE	窦性心律	完全性右束支传导阻滞
+101549.txt	28	FEMALE	窦性心律	T波改变
+101550.txt	62	FEMALE	窦性心动过缓
+101551.txt			窦性心动过缓	临界ECG
+101552.txt	71	FEMALE	窦性心律	ST-T改变
+101553.txt	54	MALE	窦性心动过缓
+101554.txt	50	FEMALE	窦性心律	QRS低电压
+101555.txt	27	FEMALE	窦性心动过速
+101556.txt	49	MALE	窦性心律	T波改变
+101557.txt	66	FEMALE	窦性心律	ST-T改变
+101558.txt	59	MALE	窦性心律	正常ECG
+101559.txt	52	MALE	T波改变	窦性心动过缓
+101560.txt	81	FEMALE	窦性心律	QRS低电压
+101561.txt			窦性心律	电轴左偏
+101562.txt	62	MALE	窦性心律	QRS低电压
+101563.txt	30	FEMALE	窦性心动过缓	临界ECG
+101564.txt	38	MALE	窦性心动过缓	完全性右束支传导阻滞
+101565.txt	87	MALE	窦性心律	QRS低电压	房性早搏
+101566.txt	40	FEMALE	窦性心律	窦性心动过缓	临界ECG
+101567.txt	41	FEMALE	窦性心律	ST段改变
+101568.txt	41	MALE	窦性心动过缓
+101569.txt	54	FEMALE	窦性心律	电轴右偏	临界ECG
+101570.txt	37	MALE	窦性心动过速	电轴右偏
+101571.txt			窦性心律	T波改变
+101572.txt	28	MALE	窦性心律	正常ECG
+101573.txt	18	FEMALE	窦性心律	临界ECG	QRS低电压
+101574.txt	30	FEMALE	窦性心律	T波改变
+101575.txt	24	FEMALE	窦性心律	临界ECG	QRS低电压
+101576.txt	69	FEMALE	窦性心律	ST-T改变
+101577.txt	22	MALE	窦性心律	T波改变
+101578.txt	55	FEMALE	窦性心律	QRS低电压
+101579.txt			窦性心动过缓	电轴左偏
+101580.txt	70	MALE	窦性心动过缓	临界ECG
+101581.txt	80	MALE	窦性心动过速
+101582.txt	51	FEMALE	窦性心律	电轴左偏
+101583.txt	23	MALE	窦性心律	正常ECG
+101584.txt	34	FEMALE	窦性心动过缓
+101585.txt			窦性心律	T波改变
+101586.txt	29	MALE	窦性心动过缓
+101587.txt			窦性心动过速
+101588.txt	80	MALE	窦性心律	T波改变	房性早搏
+101589.txt	23	FEMALE	窦性心律	电轴右偏
+101590.txt	41	FEMALE	窦性心动过缓	QRS低电压
+101591.txt	22	FEMALE	窦性心动过速	临界ECG
+101592.txt	26	FEMALE	窦性心律	临界ECG	QRS低电压
+101593.txt	26	FEMALE	窦性心动过速
+101594.txt	42	MALE	窦性心动过缓
+101595.txt	73	MALE	ST-T改变	窦性心动过速
+101596.txt	76	MALE	窦性心律	ST段改变	室性早搏
+101597.txt	68	MALE	窦性心律	T波改变	QRS低电压
+101598.txt	62	MALE	窦性心动过缓	左心室高电压
+101599.txt	44	FEMALE	窦性心律	QRS低电压
+101600.txt	55	FEMALE	窦性心律	ST段改变
+101601.txt	37	MALE	窦性心律	正常ECG
+101602.txt	59	FEMALE	窦性心律	T波改变
+101603.txt	46	MALE	心房颤动
+101604.txt	64	MALE	窦性心律	房性早搏	电轴左偏
+101605.txt	57	MALE	窦性心律	电轴左偏
+101606.txt	80	FEMALE	窦性心律	T波改变	电轴左偏
+101607.txt			窦性心律	电轴左偏	异常ECG
+101608.txt	56	MALE	窦性心动过缓	临界ECG
+101609.txt	73	FEMALE	窦性心动过缓
+101610.txt	38	MALE	窦性心律	正常ECG
+101611.txt	51	MALE	窦性心动过缓
+101612.txt	29	FEMALE	窦性心动过缓
+101613.txt	47	MALE	窦性心律	正常ECG
+101614.txt	21	MALE	窦性心律	临界ECG	电轴右偏
+101615.txt	31	MALE	窦性心律	电轴右偏	临界ECG
+101616.txt	48	FEMALE	窦性心动过缓
+101617.txt	37	FEMALE	窦性心律	T波改变	ST-T改变
+101618.txt			T波改变	窦性心动过速
+101619.txt	66	MALE	窦性心律	正常ECG
+101620.txt	67	FEMALE	窦性心律	QRS低电压
+101621.txt	32	FEMALE	窦性心律	T波改变
+101622.txt	43	MALE	T波改变	窦性心律
+101623.txt	57	FEMALE	窦性心律	房性早搏
+101624.txt	26	FEMALE	窦性心动过速	临界ECG
+101625.txt			窦性心律	左心室高电压	室性早搏
+101626.txt	57	MALE	窦性心动过缓	ST-T改变
+101627.txt	33	FEMALE	窦性心律	QRS低电压
+101628.txt	67	FEMALE	窦性心动过缓	QRS低电压	电轴左偏	异常ECG
+101629.txt	25	FEMALE	窦性心律	T波改变
+101630.txt	65	MALE	窦性心动过速	临界ECG
+101631.txt	82	FEMALE	窦性心律	ST-T改变	室性早搏
+101632.txt	53	MALE	窦性心律	电轴左偏	窦性心动过速
+101633.txt	29	FEMALE	窦性心律	临界ECG	QRS低电压
+101634.txt	54	FEMALE	窦性心律	QRS低电压
+101635.txt	34	FEMALE	窦性心动过速
+101636.txt	65	FEMALE	窦性心律	ST段改变
+101637.txt	22	FEMALE	窦性心动过速
+101638.txt	53	MALE	窦性心动过缓
+101639.txt	43	FEMALE	T波改变	心房颤动	窦性心律
+101640.txt	46	MALE	窦性心律	T波改变
+101641.txt	41	FEMALE	ST-T改变	窦性心动过速
+101642.txt	87	MALE	窦性心律	电轴右偏
+101643.txt	30	FEMALE	窦性心律	ST-T改变
+101644.txt	57	MALE	窦性心动过缓	电轴左偏
+101645.txt	30	FEMALE	窦性心律	QRS低电压	临界ECG
+101646.txt	49	MALE	窦性心律	电轴右偏
+101647.txt	39	FEMALE	窦性心动过速	QRS低电压
+101648.txt	71	FEMALE	窦性心律	ST段改变	ST-T改变
+101649.txt	77	MALE	心房颤动
+101650.txt	51	MALE	窦性心动过缓	临界ECG
+101651.txt	62	MALE	窦性心动过速
+101652.txt	83	FEMALE	窦性心律	左心室高电压
+101653.txt	51	FEMALE	窦性心动过缓	临界ECG
+101654.txt	79	FEMALE	窦性心律	T波改变
+101655.txt	36	FEMALE	窦性心律	ST-T改变
+101656.txt	41	FEMALE	窦性心律	T波改变	窦性心动过缓
+101657.txt	17	FEMALE	窦性心动过速
+101658.txt			窦性心动过缓	临界ECG
+101659.txt	52	MALE	T波改变	心房颤动
+101660.txt	27	FEMALE	窦性心律	电轴右偏
+101661.txt	51	MALE	窦性心律	QRS低电压
+101662.txt	56	FEMALE	窦性心律	ST段改变
+101663.txt	60	FEMALE	窦性心律	正常ECG
+101664.txt	22	MALE	窦性心律	ST-T改变
+101665.txt			窦性心动过速	临界ECG
+101666.txt	43	MALE	窦性心律	正常ECG
+101667.txt	30	FEMALE	窦性心律	ST段改变
+101668.txt	40	MALE	窦性心律	正常ECG
+101669.txt	54	MALE	窦性心律	正常ECG
+101670.txt	36	MALE	窦性心动过缓	左心室高电压
+101671.txt			窦性心动过缓	临界ECG
+101672.txt	66	FEMALE	窦性心律	房性早搏
+101673.txt	52	FEMALE	窦性心律	ST-T改变
+101674.txt	71	FEMALE	窦性心动过缓	临界ECG
+101675.txt	46	FEMALE	窦性心动过缓
+101676.txt	63	FEMALE	窦性心动过缓
+101677.txt	25	MALE	窦性心动过速	电轴右偏
+101678.txt	43	MALE	窦性心动过缓	临界ECG
+101679.txt	42	FEMALE	窦性心律	QRS低电压
+101680.txt	51	MALE	窦性心律	T波改变	左心室高电压
+101681.txt	10	FEMALE	窦性心动过速
+101682.txt	79	FEMALE	窦性心律	临界ECG	房性早搏
+101683.txt	77	MALE	窦性心律	房性早搏
+101684.txt			窦性心动过缓	临界ECG
+101685.txt			窦性心动过速	电轴右偏
+101686.txt	71	MALE	窦性心律	完全性右束支传导阻滞
+101687.txt	51	MALE	窦性心动过缓
+101688.txt	23	MALE	窦性心动过缓
+101689.txt	29	FEMALE	窦性心律	电轴右偏
+101690.txt	65	MALE	窦性心律	房性早搏
+101691.txt	34	FEMALE	窦性心律	T波改变
+101692.txt	51	FEMALE	窦性心动过缓
+101693.txt	63	MALE	窦性心律	T波改变
+101694.txt	30	MALE	窦性心律	完全性右束支传导阻滞
+101695.txt	29	FEMALE	窦性心律	T波改变	电轴右偏	临界ECG
+101696.txt	24	MALE	窦性心律	正常ECG
+101697.txt			窦性心律	电轴左偏
+101698.txt	60	MALE	窦性心律	ST-T改变
+101699.txt	32	MALE	窦性心律	电轴右偏
+101700.txt	23	FEMALE	窦性心律	临界ECG	QRS低电压
+101701.txt	58	MALE	窦性心律	完全性右束支传导阻滞
+101702.txt	28	FEMALE	窦性心动过缓	临界ECG
+101703.txt	63	MALE	窦性心动过缓
+101704.txt			窦性心律	QRS低电压
+101705.txt	30	FEMALE	窦性心律	ST段改变
+101706.txt	21	MALE	T波改变	窦性心动过速
+101707.txt	45	MALE	窦性心律	QRS低电压	电轴左偏
+101708.txt	74	FEMALE	窦性心律	T波改变	房性早搏
+101709.txt	73	MALE	窦性心律	完全性右束支传导阻滞	左前分支传导阻滞
+101710.txt	29	FEMALE	窦性心动过缓
+101711.txt	40	MALE	窦性心律	T波改变
+101712.txt	68	FEMALE	T波改变	窦性心动过速
+101713.txt	71	FEMALE	窦性心律	ST-T改变	房性早搏	室性早搏
+101714.txt			窦性心律	窦性心动过缓	QRS低电压	临界ECG
+101715.txt	45	MALE	窦性心律	T波改变
+101716.txt			窦性心动过缓	临界ECG
+101717.txt	61	MALE	窦性心律	电轴左偏
+101718.txt	68	MALE	心房颤动	快心室率
+101719.txt	53	FEMALE	窦性心律	T波改变	电轴左偏
+101720.txt	49	MALE	窦性心律	ST-T改变
+101721.txt	51	FEMALE	窦性心律	正常ECG
+101722.txt	43	FEMALE	窦性心动过缓
+101723.txt			窦性心律	室性早搏
+101724.txt	53	FEMALE	T波改变	窦性心动过缓	非特异性T波异常
+101725.txt	27	FEMALE	窦性心律	房性早搏
+101726.txt	87	FEMALE	ST-T改变	心房颤动
+101727.txt	81	MALE	窦性心律	异常ECG	完全性右束支传导阻滞	右束支传导阻滞	一度房室传导阻滞
+101728.txt			窦性心律	电轴右偏
+101729.txt	41	FEMALE	窦性心律	室性早搏	临界ECG
+101730.txt	77	FEMALE	窦性心动过缓
+101731.txt	53	FEMALE	窦性心律	电轴左偏
+101732.txt	53	FEMALE	窦性心动过缓	电轴左偏
+101733.txt	25	FEMALE	窦性心律	QRS低电压
+101734.txt	32	FEMALE	窦性心律	T波改变
+101735.txt	24	FEMALE	窦性心动过速	QRS低电压
+101736.txt	22	FEMALE	窦性心动过缓
+101737.txt	63	FEMALE	窦性心律	ST-T改变
+101738.txt	40	MALE	窦性心动过缓
+101739.txt	65	MALE	窦性心律	正常ECG
+101740.txt	49	MALE	窦性心律	正常ECG
+101741.txt	23	MALE	窦性心动过速
+101742.txt	72	FEMALE	窦性心律	ST-T改变
+101743.txt	64	MALE	窦性心律	QRS低电压
+101744.txt	35	FEMALE	窦性心律	ST-T改变
+101745.txt	81	FEMALE	窦性心律	QRS低电压
+101746.txt	49	MALE	窦性心动过速	临界ECG
+101747.txt	28	FEMALE	窦性心动过缓
+101748.txt	31	FEMALE	ST-T改变	窦性心动过速
+101749.txt	24	FEMALE	窦性心动过速
+101750.txt	67	MALE	窦性心律	T波改变	电轴左偏
+101751.txt	58	FEMALE	窦性心动过缓
+101752.txt	20	MALE	窦性心律	电轴右偏
+101753.txt	21	FEMALE	窦性心动过缓
+101754.txt	26	MALE	窦性心律	正常ECG
+101755.txt			窦性心动过缓
+101756.txt			窦性心律	T波改变
+101757.txt	42	MALE	窦性心律	正常ECG
+101758.txt	71	FEMALE	窦性心动过缓	左心室高电压
+101759.txt	77	FEMALE	窦性心律	正常ECG
+101760.txt	37	FEMALE	窦性心律	临界ECG	电轴右偏
+101761.txt	21	FEMALE	窦性心律	电轴右偏
+101762.txt	78	FEMALE	窦性心律	房性早搏	电轴左偏
+101763.txt	66	FEMALE	窦性心律	T波改变
+101764.txt	50	FEMALE	窦性心律	ST-T改变
+101765.txt	46	FEMALE	窦性心动过缓	临界ECG
+101766.txt	47	MALE	窦性心动过缓
+101767.txt	83	MALE	窦性心律	室性早搏	完全性右束支传导阻滞
+101768.txt	44	MALE	窦性心律	QRS低电压
+101769.txt	34	FEMALE	窦性心律	QRS低电压
+101770.txt	16	MALE	窦性心律	电轴右偏	临界ECG
+101771.txt	58	MALE	窦性心律	正常ECG
+101772.txt	45	FEMALE	窦性心动过缓	临界ECG
+101773.txt	53	FEMALE	窦性心律	T波改变
+101774.txt	25	FEMALE	窦性心律	QRS低电压
+101775.txt	32	FEMALE	窦性心动过速	临界ECG
+101776.txt	55	FEMALE	窦性心律	T波改变
+101777.txt	35	MALE	窦性心律	T波改变
+101778.txt	67	MALE	窦性心律	左心室高电压	ST-T改变	完全性右束支传导阻滞	左心室肥大
+101779.txt	57	MALE	窦性心律	正常ECG
+101780.txt			窦性心律	电轴右偏
+101781.txt	60	FEMALE	窦性心律	T波改变
+101782.txt	83	FEMALE	窦性心律	T波改变	房性早搏	一度房室传导阻滞
+101783.txt	77	FEMALE	窦性心律	QRS低电压
+101784.txt	66	MALE	房性早搏
+101785.txt	51	FEMALE	窦性心律	T波改变
+101786.txt	90	MALE	窦性心律	房性早搏	电轴左偏
+101787.txt	19	FEMALE	窦性心律	电轴右偏
+101788.txt	45	MALE	窦性心动过缓	临界ECG
+101789.txt	48	MALE	窦性心动过缓
+101790.txt	28	MALE	窦性心动过缓
+101791.txt	36	MALE	窦性心动过缓
+101792.txt			窦性心律	T波改变
+101793.txt	65	MALE	窦性心律	完全性右束支传导阻滞
+101794.txt	74	FEMALE	ST段改变	窦性心动过速	房性早搏
+101795.txt	14	MALE	窦性心律	临界ECG	电轴右偏
+101796.txt	59	MALE	窦性心律	正常ECG
+101797.txt	38	FEMALE	窦性心律	QRS低电压
+101798.txt	27	MALE	窦性心律	电轴右偏
+101799.txt	20		窦性心动过缓
+101800.txt	50	FEMALE	窦性心律	ST-T改变
+101801.txt	69	MALE	窦性心律
+101802.txt	53	MALE	左心室高电压	窦性心动过速
+101803.txt	21	FEMALE	窦性心律	临界ECG	QRS低电压
+101804.txt	44	MALE	窦性心动过缓	临界ECG
+101805.txt	65	MALE	窦性心律	ST-T改变	左心室肥大
+101806.txt	80	MALE	窦性心动过速	完全性右束支传导阻滞
+101807.txt	68	FEMALE	T波改变	ST-T改变	心房颤动
+101808.txt	25	FEMALE	窦性心律	临界ECG	QRS低电压
+101809.txt			ST-T改变	窦性心动过速
+101810.txt	38	FEMALE	窦性心动过缓	电轴右偏
+101811.txt	23	FEMALE	窦性心律	QRS低电压
+101812.txt	40	MALE	窦性心动过缓
+101813.txt	74	MALE	窦性心律	完全性右束支传导阻滞
+101814.txt			窦性心律	电轴左偏
+101815.txt			窦性心动过缓	临界ECG
+101816.txt	63	FEMALE	窦性心律	ST-T改变	左心室肥大
+101817.txt	51	MALE	窦性心律	正常ECG
+101818.txt	79	MALE	窦性心律	ST段改变	左心室高电压	ST-T改变	左心室肥大
+101819.txt	68	MALE	窦性心动过缓
+101820.txt	66	MALE	T波改变	窦性心动过缓	左心室高电压	窦性心律
+101821.txt			窦性心律	T波改变
+101822.txt	85	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+101823.txt	34	MALE	窦性心律	ST-T改变	左心室肥大
+101824.txt	36	MALE	窦性心动过缓	电轴右偏
+101825.txt	42	MALE	窦性心律	房性早搏
+101826.txt	82	MALE	心房颤动
+101827.txt	22	FEMALE	窦性心律	电轴右偏
+101828.txt	33	FEMALE	ST-T改变
+101829.txt	65	FEMALE	窦性心律	T波改变
+101830.txt	46	FEMALE	窦性心律	QRS低电压
+101831.txt	46	FEMALE	窦性心律	QRS低电压
+101832.txt	33	FEMALE	T波改变	窦性心动过速
+101833.txt	65	MALE	窦性心动过速	临界ECG
+101834.txt	28	FEMALE	窦性心律	临界ECG	QRS低电压
+101835.txt	26	FEMALE	窦性心律	QRS低电压
+101836.txt	64	FEMALE	T波改变	窦性心动过缓
+101837.txt	59	MALE	窦性心律	正常ECG
+101838.txt	36	MALE	窦性心律	T波改变	完全性右束支传导阻滞
+101839.txt	86	MALE	窦性心律	不完全性右束支传导阻滞	房性早搏
+101840.txt	72	FEMALE	窦性心律	T波改变
+101841.txt	20	FEMALE	T波改变	窦性心动过速
+101842.txt			窦性心律	T波改变
+101843.txt	62	FEMALE	窦性心律	T波改变	电轴左偏
+101844.txt	27	FEMALE	窦性心律	T波改变
+101845.txt	24	FEMALE	窦性心律	T波改变	QRS低电压
+101846.txt	3	FEMALE	窦性心动过速	临界ECG	电轴右偏
+101847.txt			窦性心动过缓
+101848.txt	37	MALE	窦性心律	正常ECG
+101849.txt	43	MALE	窦性心律	正常ECG
+101850.txt	32	MALE	窦性心律	电轴右偏
+101851.txt	22	FEMALE	窦性心律	临界ECG	QRS低电压
+101852.txt	20	FEMALE	窦性心律	QRS低电压	临界ECG
+101853.txt	83	MALE	窦性心律	完全性右束支传导阻滞
+101854.txt	67	FEMALE	窦性心律	ST段改变
+101855.txt	69	FEMALE	窦性心律	正常ECG
+101856.txt	64	FEMALE	窦性心律	左心室高电压	ST-T改变
+101857.txt	31	MALE	窦性心律	正常ECG
+101858.txt	50	MALE	窦性心动过缓	左心室高电压
+101859.txt	26	FEMALE	窦性心律	临界ECG	QRS低电压
+101860.txt	31	MALE	窦性心律	左心室高电压
+101861.txt	54	MALE	窦性心律	正常ECG
+101862.txt	25	FEMALE	ST-T改变	窦性心动过速
+101863.txt	45	FEMALE	窦性心律	T波改变
+101864.txt	32	FEMALE	T波改变	窦性心动过速
+101865.txt	36	MALE	窦性心动过缓
+101866.txt	51	MALE	窦性心律	窦性心动过缓	ST-T改变
+101867.txt	28	FEMALE	窦性心律	T波改变	QRS低电压
+101868.txt	24	MALE	窦性心律	电轴左偏	异常ECG
+101869.txt	25	MALE	窦性心律	T波改变
+101870.txt	37	FEMALE	窦性心律	临界ECG	QRS低电压
+101871.txt			窦性心动过缓
+101872.txt	62	MALE	心房颤动
+101873.txt	58	FEMALE	窦性心律	正常ECG
+101874.txt			窦性心律	临界ECG	QRS低电压
+101875.txt	31	MALE	窦性心律	正常ECG
+101876.txt	50	FEMALE	窦性心动过缓	临界ECG
+101877.txt	61	MALE	窦性心律	电轴左偏
+101878.txt	47	FEMALE	窦性心律	ST段改变
+101879.txt	43	MALE	窦性心动过缓
+101880.txt	22	FEMALE	窦性心律	T波改变
+101881.txt	47	FEMALE	窦性心律	QRS低电压
+101882.txt	79	MALE	窦性心律	ST-T改变
+101883.txt			窦性心动过速
+101884.txt	58	MALE	T波改变	窦性心动过缓
+101885.txt	31	FEMALE	窦性心律	QRS低电压	临界ECG
+101886.txt	49	FEMALE	窦性心律	临界ECG	QRS低电压
+101887.txt	31	FEMALE	窦性心动过缓
+101888.txt	74	MALE	窦性心律	正常ECG
+101889.txt	58	FEMALE	窦性心律	ST-T改变
+101890.txt	83	FEMALE	T波改变	QRS低电压	心房颤动
+101891.txt			窦性心动过缓
+101892.txt	58	FEMALE	窦性心律	房性早搏
+101893.txt	31	MALE	窦性心律	正常ECG
+101894.txt	32	FEMALE	窦性心动过速
+101895.txt	19	MALE	窦性心律	正常ECG
+101896.txt	36	FEMALE	窦性心律	临界ECG	QRS低电压	室性早搏
+101897.txt			窦性心动过速	临界ECG
+101898.txt	53	MALE	窦性心动过缓	电轴左偏
+101899.txt	57	FEMALE	窦性心律	QRS低电压
+101900.txt	51	FEMALE	窦性心动过缓	临界ECG
+101901.txt	48	MALE	窦性心动过缓
+101902.txt	33	FEMALE	窦性心动过速
+101903.txt	49	FEMALE	窦性心律	ST-T改变
+101904.txt	60	MALE	窦性心动过缓	临界ECG
+101905.txt	23	MALE	窦性心动过缓	临界ECG
+101906.txt	43	MALE	窦性心动过缓
+101907.txt	26	FEMALE	ST-T改变	窦性心动过速
+101908.txt	82	MALE	心房颤动
+101909.txt	22	MALE	窦性心律	电轴右偏	临界ECG
+101910.txt	39	MALE	窦性心动过缓
+101911.txt	37	MALE	窦性心动过缓	临界ECG
+101912.txt	26	MALE	窦性心律	完全性右束支传导阻滞
+101913.txt	46	MALE	窦性心动过缓
+101914.txt	81	FEMALE	窦性心律	ST-T改变
+101915.txt	79	MALE	窦性心律	QRS低电压
+101916.txt	54	MALE	窦性心律	正常ECG
+101917.txt	52	MALE	ST-T改变	窦性心动过速
+101918.txt			窦性心律	T波改变
+101919.txt	84	MALE	窦性心律	QRS低电压
+101920.txt	25	FEMALE	窦性心动过速
+101921.txt	62	FEMALE	窦性心动过缓	临界ECG
+101922.txt			T波改变	窦性心动过缓
+101923.txt	71	FEMALE	窦性心律	ST-T改变
+101924.txt		FEMALE	窦性心动过缓	临界ECG	房性早搏
+101925.txt	57	MALE	窦性心动过缓
+101926.txt	73	MALE	窦性心律	QRS低电压	电轴左偏
+101927.txt	24	FEMALE	窦性心动过速	临界ECG
+101928.txt	25	MALE	窦性心动过缓
+101929.txt	46	MALE	窦性心律	T波改变
+101930.txt	79	FEMALE	窦性心动过缓	ST-T改变	左心室肥大
+101931.txt	66	FEMALE	窦性心律	QRS低电压
+101932.txt	28	MALE	窦性心律	T波改变
+101933.txt	41	MALE	窦性心律	T波改变	室性早搏
+101934.txt	78	MALE	窦性心律	房性早搏
+101935.txt	38	MALE	窦性心动过缓
+101936.txt			窦性心动过速
+101937.txt	55	MALE	窦性心律	完全性右束支传导阻滞
+101938.txt	21	FEMALE	窦性心动过速	电轴左偏
+101939.txt	25	FEMALE	窦性心动过速	ST段改变
+101940.txt	24	FEMALE	窦性心律	临界ECG	电轴右偏
+101941.txt	29	MALE	窦性心律	电轴右偏
+101942.txt	32	FEMALE	窦性心律	电轴右偏
+101943.txt	52	MALE	窦性心动过缓
+101944.txt	68	MALE	心房颤动	快心室率	左前分支传导阻滞	电轴左偏
+101945.txt	26	FEMALE	ST-T改变	窦性心动过速
+101946.txt	26	MALE	窦性心律	临界ECG	电轴右偏
+101947.txt	90	FEMALE	窦性心律	ST-T改变	室性早搏	不完全性右束支传导阻滞
+101948.txt	20	FEMALE	窦性心动过速	ST-T改变
+101949.txt	31	MALE	窦性心律	临界ECG	电轴右偏	窦性心律不齐
+101950.txt	36	MALE	窦性心动过缓	左心室高电压
+101951.txt	38	MALE	窦性心律	窦性心动过缓	正常ECG
+101952.txt	41	MALE	窦性心动过缓	临界ECG
+101953.txt	43	MALE	窦性心律	T波改变
+101954.txt	91	FEMALE	窦性心律	QRS低电压
+101955.txt	75	FEMALE	窦性心律	ST-T改变	室性早搏
+101956.txt	32	FEMALE	窦性心律	临界ECG	室性早搏
+101957.txt	24	FEMALE	窦性心动过速	电轴右偏
+101958.txt	37	MALE	窦性心动过速
+101959.txt	25	FEMALE	窦性心律	窦性心动过速	临界ECG	QRS低电压
+101960.txt	82	MALE	ST-T改变	心房颤动	起搏心律
+101961.txt	60	MALE	窦性心律	左心室高电压	房性早搏
+101962.txt	51	MALE	窦性心律	QRS低电压
+101963.txt	50	FEMALE	窦性心律	T波改变
+101964.txt	82	MALE	窦性心律	QRS低电压
+101965.txt	51	MALE	窦性心律	正常ECG
+101966.txt	80	FEMALE	窦性心律	正常ECG
+101967.txt	59	MALE	T波改变	窦性心动过缓	非特异性T波异常
+101968.txt	37	FEMALE	窦性心律	QRS低电压
+101969.txt	83	FEMALE	窦性心律	房性早搏
+101970.txt		FEMALE	窦性心律	ST段改变	窦性心动过速	QRS低电压
+101971.txt	71		窦性心动过缓
+101972.txt	24	FEMALE	窦性心动过缓	临界ECG
+101973.txt	63	MALE	窦性心律	左心室高电压	ST-T改变	左心室肥大
+101974.txt	37	MALE	窦性心律	正常ECG
+101975.txt	50	FEMALE	窦性心律	T波改变	电轴右偏
+101976.txt	74	FEMALE	窦性心律	ST-T改变
+101977.txt	72	MALE	窦性心动过缓
+101978.txt	72	MALE	ST-T改变	心房颤动
+101979.txt	27	FEMALE	窦性心律	T波改变
+101980.txt	28	MALE	窦性心律	正常ECG	电轴右偏
+101981.txt	48	MALE	窦性心动过缓	异常ECG	室性早搏	左束支传导阻滞
+101982.txt	67	FEMALE	窦性心律	T波改变
+101983.txt			窦性心律	电轴左偏
+101984.txt	62	MALE	窦性心律	房性早搏
+101985.txt	67	MALE	窦性心律	正常ECG
+101986.txt			窦性心律	T波改变	QRS低电压
+101987.txt	65	MALE	窦性心律	T波改变
+101988.txt	58	MALE	窦性心律	T波改变
+101989.txt	59	FEMALE	临界ECG	房性早搏	窦性心律
+101990.txt			窦性心律	T波改变
+101991.txt	81	FEMALE	窦性心律	T波改变
+101992.txt	51	FEMALE	窦性心律	T波改变
+101993.txt	32	MALE	窦性心动过缓
+101994.txt	41	FEMALE	窦性心律	室性早搏
+101995.txt	73	FEMALE	窦性心律	ST-T改变	室性早搏
+101996.txt	83	FEMALE	心房颤动	快心室率
+101997.txt	50	MALE	窦性心动过缓	左心室高电压
+101998.txt			窦性心律	T波改变
+101999.txt			窦性心动过缓
+102000.txt	30	MALE	窦性心动过缓
+102001.txt	81	MALE	窦性心律	T波改变	一度房室传导阻滞
+102002.txt	72	MALE	窦性心动过缓	完全性右束支传导阻滞
+102003.txt	41	MALE	窦性心动过缓
+102004.txt	58	FEMALE	窦性心律	电轴右偏
+102005.txt	51	MALE	T波改变	心房颤动
+102006.txt	25	MALE	窦性心动过缓
+102007.txt	43	FEMALE	窦性心律	T波改变	QRS低电压
+102008.txt	37	MALE	窦性心律	完全性右束支传导阻滞
+102009.txt	83	MALE	ST-T改变	左心室肥大	窦性心律
+102010.txt	52	MALE	窦性心律	T波改变	左心室高电压
+102011.txt			窦性心律	T波改变
+102012.txt	54	MALE	窦性心动过速
+102013.txt	60	MALE	窦性心动过缓	临界ECG
+102014.txt	56	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+102015.txt	70	FEMALE	窦性心律	ST段改变
+102016.txt	22	FEMALE	窦性心律	QRS低电压	临界ECG
+102017.txt	30	MALE	窦性心动过缓	左心室高电压
+102018.txt	79	MALE	窦性心律	ST-T改变	房性早搏	完全性右束支传导阻滞
+102019.txt	83	MALE	窦性心律	QRS低电压
+102020.txt	24	FEMALE	窦性心动过缓
+102021.txt	27	FEMALE	窦性心律	电轴右偏
+102022.txt			窦性心律	起搏心律	非特异性室内传导阻滞	电轴左偏
+102023.txt	27	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+102024.txt	74	MALE	左心室高电压	心房颤动	室性早搏
+102025.txt	57	MALE	心房颤动	快心室率
+102026.txt	58	FEMALE	窦性心动过缓
+102027.txt	35	MALE	窦性心律	电轴左偏
+102028.txt	54	MALE	窦性心律	ST-T改变
+102029.txt	25	MALE	窦性心动过缓
+102030.txt	19	MALE	窦性心律	电轴右偏
+102031.txt	42	MALE	窦性心律	正常ECG
+102032.txt	60	MALE	窦性心律	完全性右束支传导阻滞
+102033.txt	58	MALE	窦性心动过缓	QRS低电压	临界ECG
+102034.txt	57	MALE	窦性心动过缓	临界ECG	房性早搏
+102035.txt			窦性心律	T波改变
+102036.txt	71	MALE	窦性心律	电轴左偏
+102037.txt	35	MALE	窦性心律	正常ECG
+102038.txt	93	FEMALE	窦性心律	ST-T改变
+102039.txt	61	MALE	窦性心律	T波改变
+102040.txt	84	FEMALE	窦性心律	T波改变	ST-T改变
+102041.txt	46	FEMALE	窦性心律	窦性心动过缓	临界ECG	QRS低电压
+102042.txt	71	FEMALE	窦性心律	T波改变
+102043.txt	58	FEMALE	窦性心律
+102044.txt	26	MALE	窦性心动过缓
+102045.txt	50	MALE	窦性心律	完全性右束支传导阻滞
+102046.txt	48	FEMALE	窦性心律	QRS低电压
+102047.txt			窦性心动过缓
+102048.txt	58	FEMALE	窦性心律	ST-T改变
+102049.txt	26	FEMALE	窦性心律	QRS低电压
+102050.txt	54	MALE	窦性心动过缓	窦性心律
+102051.txt	36	FEMALE	窦性心律	ST-T改变
+102052.txt			窦性心动过缓	临界ECG
+102053.txt	31	FEMALE	窦性心律	T波改变
+102054.txt	32	MALE	窦性心动过缓
+102055.txt	39	MALE	窦性心律	正常ECG
+102056.txt	57	MALE	窦性心律	房性早搏
+102057.txt	67	FEMALE	窦性心律	电轴左偏
+102058.txt	60	FEMALE	窦性心律	T波改变
+102059.txt			窦性心律	ST-T改变	左心室肥大
+102060.txt		FEMALE	窦性心律	T波改变	正常ECG
+102061.txt	78	MALE	窦性心律	电轴左偏
+102062.txt	78	FEMALE	窦性心律	ST-T改变	室性早搏
+102063.txt	47	MALE	心房颤动	不完全性右束支传导阻滞	左心室高电压
+102064.txt	59	MALE	窦性心动过缓	左心室高电压
+102065.txt	88	MALE	窦性心律	左心室高电压
+102066.txt	64	FEMALE	窦性心动过缓
+102067.txt	75	FEMALE	窦性心律	ST-T改变	房性早搏
+102068.txt	23	FEMALE	窦性心律	电轴右偏
+102069.txt	35	MALE	窦性心律	正常ECG
+102070.txt	59	MALE	窦性心律	ST-T改变	左心室肥大
+102071.txt	72	FEMALE	窦性心动过速	ST段改变
+102072.txt	47	FEMALE	窦性心动过缓	临界ECG
+102073.txt	22	MALE	电轴右偏	窦性心律
+102074.txt	80	MALE	窦性心律	T波改变	左心室高电压
+102075.txt	53	FEMALE	窦性心律	ST-T改变
+102076.txt	45	MALE	窦性心律	T波改变
+102077.txt	74	MALE	窦性心律	T波改变
+102078.txt	33	FEMALE	窦性心律	ST-T改变
+102079.txt			窦性心律	左心室高电压
+102080.txt	52	MALE	窦性心律	电轴左偏
+102081.txt	51	MALE	窦性心动过缓	左心室高电压
+102082.txt	40	MALE	窦性心律	正常ECG
+102083.txt	57	MALE	窦性心律	正常ECG
+102084.txt	58	FEMALE	窦性心律	ST-T改变	电轴右偏
+102085.txt	30	FEMALE	窦性心律	ST-T改变
+102086.txt	60	MALE	窦性心律	ST-T改变
+102087.txt	45	MALE	窦性心动过缓	临界ECG
+102088.txt	30	FEMALE	窦性心律	QRS低电压
+102089.txt	21	MALE	窦性心律	临界ECG	电轴右偏
+102090.txt	18	MALE	窦性心律	临界ECG	电轴右偏	窦性心律不齐
+102091.txt	54	FEMALE	窦性心律	T波改变
+102092.txt	38	FEMALE	窦性心律	ST-T改变
+102093.txt	27	FEMALE	窦性心动过速	临界ECG
+102094.txt	50	FEMALE	窦性心动过缓	临界ECG
+102095.txt	30	MALE	窦性心动过缓	左心室高电压
+102096.txt	34	MALE	心房颤动	房性早搏
+102097.txt	29	FEMALE	窦性心律	ST-T改变
+102098.txt	63	MALE	窦性心动过缓	ST-T改变	左心室肥大
+102099.txt	63	MALE	窦性心动过缓
+102100.txt			窦性心律	T波改变	正常ECG
+102101.txt	21	FEMALE	窦性心动过缓
+102102.txt	34	MALE	窦性心律	正常ECG
+102103.txt	66	FEMALE	窦性心律	T波改变
+102104.txt	66	FEMALE	窦性心律	T波改变
+102105.txt	28	FEMALE	窦性心律	ST段改变	ST-T改变
+102106.txt			窦性心律	T波改变
+102107.txt	42	MALE	ST-T改变	窦性心动过速
+102108.txt	27	FEMALE	窦性心律	ST段改变
+102109.txt	28	MALE	窦性心律	T波改变
+102110.txt	33	FEMALE	窦性心动过速	电轴右偏
+102111.txt	45	FEMALE	窦性心律	临界ECG	QRS低电压
+102112.txt	81	MALE	窦性心律	电轴左偏
+102113.txt	29	MALE	窦性心律	正常ECG
+102114.txt	53	MALE	窦性心律	QRS低电压	房性早搏
+102115.txt	30	MALE	窦性心动过缓
+102116.txt	35	FEMALE	窦性心律	QRS低电压
+102117.txt	24	FEMALE	窦性心动过速	临界ECG
+102118.txt		FEMALE	窦性心动过缓
+102119.txt			T波改变	窦性心动过速
+102120.txt	21	FEMALE	窦性心动过缓
+102121.txt			窦性心动过缓
+102122.txt	62	MALE	窦性心律	QRS低电压
+102123.txt	71	FEMALE	窦性心律	T波改变
+102124.txt	67	MALE	窦性心律	T波改变	完全性右束支传导阻滞
+102125.txt	63	FEMALE	窦性心律	QRS低电压
+102126.txt	28	MALE	窦性心律	正常ECG
+102127.txt	57	FEMALE	窦性心动过缓	临界ECG
+102128.txt	38	FEMALE	窦性心律	ST-T改变	T波改变
+102129.txt	29	FEMALE	窦性心律	ST段改变
+102130.txt	38	MALE	窦性心律	完全性右束支传导阻滞
+102131.txt	30	MALE	窦性心律	室性早搏	临界ECG
+102132.txt	56	FEMALE	窦性心律	ST段改变
+102133.txt	31	MALE	窦性心律	T波改变
+102134.txt	72	MALE	窦性心律	T波改变
+102135.txt	60	FEMALE	窦性心律	电轴右偏
+102136.txt	36	FEMALE	窦性心律	T波改变
+102137.txt			窦性心律	室性早搏
+102138.txt	25	FEMALE	窦性心律	T波改变	QRS低电压
+102139.txt	36	MALE	窦性心动过缓
+102140.txt	66	MALE	窦性心律	QRS低电压	室性早搏
+102141.txt	24	FEMALE	窦性心律	临界ECG	QRS低电压
+102142.txt	60	FEMALE	窦性心律	T波改变
+102143.txt	82	FEMALE	窦性心律	ST-T改变
+102144.txt	25	MALE	窦性心动过缓
+102145.txt	20	FEMALE	窦性心律	临界ECG	房性早搏
+102146.txt	54	MALE	窦性心律	正常ECG
+102147.txt	58	MALE	窦性心律	T波改变
+102148.txt			窦性心律	ST-T改变	完全性右束支传导阻滞
+102149.txt	26	MALE	窦性心律	正常ECG
+102150.txt	45	MALE	窦性心律	正常ECG
+102151.txt	34	MALE	窦性心动过缓
+102152.txt	59	FEMALE	窦性心律	T波改变
+102153.txt	53	FEMALE	窦性心律	T波改变
+102154.txt	28	MALE	窦性心动过缓
+102155.txt	86	FEMALE	窦性心律	房性早搏
+102156.txt	54	MALE	窦性心律	T波改变
+102157.txt	56	FEMALE	窦性心律	T波改变
+102158.txt	64	MALE	窦性心律	ST-T改变	电轴左偏
+102159.txt	44	FEMALE	窦性心律	电轴左偏
+102160.txt	87	FEMALE	窦性心律	房性早搏
+102161.txt	65	MALE	窦性心律	正常ECG
+102162.txt	87	MALE	窦性心律	QRS低电压
+102163.txt	39	FEMALE	窦性心律	T波改变	QRS低电压
+102164.txt	65	FEMALE	窦性心律	T波改变
+102165.txt	31	MALE	窦性心律	正常ECG
+102166.txt			窦性心律	电轴右偏	一度房室传导阻滞
+102167.txt			窦性心动过速	临界ECG
+102168.txt	27	FEMALE	ST-T改变	窦性心动过速
+102169.txt	56	FEMALE	窦性心动过缓	QRS低电压	临界ECG
+102170.txt	61	MALE	心房颤动
+102171.txt	21	FEMALE	窦性心律	临界ECG	电轴右偏
+102172.txt	33	FEMALE	窦性心律	房性早搏	正常ECG
+102173.txt	70	MALE	窦性心律
+102174.txt	44	FEMALE	窦性心动过速
+102175.txt			窦性心律	ST-T改变	T波改变
+102176.txt	58	MALE	窦性心律	T波改变
+102177.txt	33	FEMALE	窦性心动过缓
+102178.txt	32	MALE	窦性心动过缓	临界ECG
+102179.txt	81	MALE	窦性心律	房性早搏
+102180.txt	4	FEMALE	窦性心动过速
+102181.txt	74	MALE	窦性心律	异常ECG	完全性右束支传导阻滞	右束支传导阻滞	一度房室传导阻滞
+102182.txt	55	MALE	窦性心律	QRS低电压
+102183.txt	42	FEMALE	窦性心律	电轴左偏
+102184.txt			窦性心律	T波改变
+102185.txt	80	FEMALE	窦性心律	ST-T改变
+102186.txt	61	MALE	窦性心动过速
+102187.txt	88	FEMALE	ST-T改变	心房颤动	起搏心律
+102188.txt	20	MALE	窦性心动过缓
+102189.txt	51	MALE	窦性心动过缓	临界ECG
+102190.txt	29	FEMALE	窦性心律	T波改变
+102191.txt	32	FEMALE	窦性心动过速	ST段改变
+102192.txt	49	MALE	窦性心律	T波改变
+102193.txt	20	FEMALE	窦性心律	临界ECG	电轴右偏
+102194.txt	49	MALE	窦性心律	T波改变
+102195.txt	27	FEMALE	窦性心律	临界ECG	QRS低电压
+102196.txt	57	MALE	窦性心律	T波改变
+102197.txt	27	FEMALE	窦性心动过缓	电轴右偏
+102198.txt	57	FEMALE	ST-T改变	窦性心动过速
+102199.txt	54	FEMALE	窦性心动过缓	临界ECG
+102200.txt	65	MALE	窦性心动过缓	电轴左偏
+102201.txt	50	FEMALE	窦性心律	ST-T改变
+102202.txt	20	FEMALE	窦性心动过缓	临界ECG
+102203.txt	23	MALE	窦性心动过缓
+102204.txt	53	MALE	窦性心律	窦性心动过缓	完全性右束支传导阻滞
+102205.txt	65	MALE	窦性心律	完全性右束支传导阻滞
+102206.txt	84	MALE	窦性心动过缓	电轴左偏
+102207.txt	33	FEMALE	窦性心律	临界ECG	QRS低电压	电轴右偏
+102208.txt	27	MALE	窦性心动过缓	电轴右偏
+102209.txt	61	FEMALE	窦性心律	T波改变
+102210.txt	69	FEMALE	窦性心律	ST段改变
+102211.txt	71	FEMALE	窦性心动过缓	临界ECG
+102212.txt	64	FEMALE	窦性心动过缓	ST-T改变
+102213.txt	60	MALE	窦性心律	ST-T改变	左心室肥大
+102214.txt	44	FEMALE	窦性心律	T波改变	ST-T改变
+102215.txt	74	MALE	窦性心律	ST-T改变	房性早搏
+102216.txt			窦性心律	T波改变
+102217.txt	57	MALE	窦性心律	T波改变	QRS低电压
+102218.txt			窦性心律	电轴右偏
+102219.txt	23	MALE	窦性心动过缓	临界ECG
+102220.txt	62	MALE	窦性心动过缓	临界ECG
+102221.txt	81	FEMALE	窦性心律	ST-T改变	房性早搏	左心室肥大
+102222.txt	48	MALE	窦性心律	完全性右束支传导阻滞
+102223.txt	20	MALE	窦性心律	电轴右偏
+102224.txt	24	FEMALE	ST-T改变	窦性心动过速
+102225.txt	56	MALE	窦性心律	室性早搏	临界ECG
+102226.txt	34	FEMALE	窦性心律	临界ECG	房性早搏
+102227.txt	50	MALE	窦性心动过缓	临界ECG
+102228.txt	34	FEMALE	窦性心律	T波改变
+102229.txt	26	FEMALE	窦性心律	ST段改变
+102230.txt			窦性心动过速
+102231.txt	41	MALE	窦性心律	T波改变
+102232.txt	84	MALE	窦性心律	QRS低电压
+102233.txt			窦性心动过速	电轴右偏	窦性心律
+102234.txt	33	MALE	窦性心律	正常ECG
+102235.txt	35	MALE	窦性心动过缓
+102236.txt	57	MALE	窦性心动过速	QRS低电压
+102237.txt	76	MALE	心房颤动	快心室率
+102238.txt	83	MALE	T波改变	心房颤动
+102239.txt	55	MALE	窦性心律	完全性右束支传导阻滞
+102240.txt	66	FEMALE	窦性心律	ST-T改变
+102241.txt	38	MALE	窦性心律	左心室高电压	房性早搏
+102242.txt	83	MALE	窦性心律	ST-T改变
+102243.txt	78	MALE	窦性心律	完全性左束支传导阻滞	左束支传导阻滞
+102244.txt	58	MALE	窦性心律	完全性右束支传导阻滞
+102245.txt	43	MALE	窦性心律	T波改变
+102246.txt	53	FEMALE	窦性心律	ST-T改变
+102247.txt	48	MALE	ST-T改变	窦性心动过速
+102248.txt			窦性心动过速	电轴右偏
+102249.txt	35	FEMALE	窦性心律	QRS低电压	临界ECG
+102250.txt	38	MALE	窦性心律	T波改变	左心室高电压
+102251.txt	45	MALE	窦性心动过缓	临界ECG
+102252.txt	49	FEMALE	窦性心动过缓
+102253.txt	45	MALE	窦性心动过缓	临界ECG
+102254.txt	29	FEMALE	窦性心动过速	电轴右偏
+102255.txt	37	FEMALE	窦性心律	QRS低电压
+102256.txt	39	FEMALE	窦性心律	电轴右偏
+102257.txt	29	FEMALE	窦性心动过缓
+102258.txt	78	FEMALE	窦性心律	ST-T改变
+102259.txt	58	FEMALE	T波改变	窦性心动过缓
+102260.txt	55	MALE	窦性心律	电轴左偏
+102261.txt	25	FEMALE	窦性心律	T波改变
+102262.txt	66	MALE	心房颤动
+102263.txt	19	FEMALE	窦性心律	ST-T改变
+102264.txt	44	FEMALE	窦性心律	T波改变
+102265.txt			窦性心律	QRS低电压
+102266.txt	44	FEMALE	窦性心律	ST-T改变
+102267.txt	60	FEMALE	窦性心律	T波改变
+102268.txt	37	FEMALE	窦性心律	电轴右偏
+102269.txt	63	MALE	窦性心动过缓	完全性右束支传导阻滞
+102270.txt	40	MALE	窦性心律	T波改变
+102271.txt	74	MALE	窦性心动过缓	QRS低电压	心房颤动	慢心室率
+102272.txt			窦性心动过缓
+102273.txt			窦性心律	临界ECG	电轴右偏
+102274.txt	56	MALE	窦性心律	房性早搏
+102275.txt	58	FEMALE	窦性心律	QRS低电压
+102276.txt			窦性心律	T波改变
+102277.txt	28	FEMALE	窦性心动过速	电轴右偏	快心室率	心房颤动	室性早搏
+102278.txt	44	FEMALE	窦性心律	T波改变
+102279.txt			窦性心律	T波改变
+102280.txt	24	FEMALE	窦性心律	临界ECG	QRS低电压
+102281.txt	38	FEMALE	窦性心动过缓
+102282.txt		FEMALE	窦性心律	正常ECG	电轴右偏
+102283.txt	67	MALE	心房颤动	室性早搏	起搏心律
+102284.txt	39	MALE	窦性心律	正常ECG
+102285.txt	25	FEMALE	窦性心律	QRS低电压
+102286.txt	72	FEMALE	窦性心律	T波改变
+102287.txt	43	FEMALE	窦性心动过缓	QRS低电压	临界ECG
+102288.txt	54	MALE	窦性心动过缓	临界ECG
+102289.txt	42	FEMALE	窦性心动过速
+102290.txt	52	MALE	窦性心律	完全性右束支传导阻滞
+102291.txt	59	MALE	心房颤动
+102292.txt	27	MALE	窦性心动过缓
+102293.txt	82	MALE	窦性心律	T波改变
+102294.txt	41	MALE	窦性心律	左心室高电压
+102295.txt	29	FEMALE	ST段改变	窦性心动过速
+102296.txt		FEMALE	窦性心律	临界ECG	电轴右偏
+102297.txt	29	FEMALE	窦性心律	T波改变
+102298.txt	65	MALE	心房颤动	完全性右束支传导阻滞
+102299.txt	52	MALE	窦性心律	ST-T改变	左心室肥大
+102300.txt	87	FEMALE	窦性心律	ST-T改变
+102301.txt	54	MALE	窦性心律	正常ECG
+102302.txt	52	MALE	窦性心律	正常ECG
+102303.txt	52	FEMALE	窦性心动过速
+102304.txt	83	MALE	窦性心动过缓	临界ECG	室性早搏
+102305.txt	25	FEMALE	窦性心动过速
+102306.txt	62	MALE	ST-T改变	心房颤动
+102307.txt	50	FEMALE	窦性心动过缓	临界ECG
+102308.txt	24	FEMALE	窦性心律	QRS低电压
+102309.txt	16	FEMALE	窦性心律	电轴右偏
+102310.txt	66	FEMALE	窦性心动过缓	电轴左偏
+102311.txt	35	FEMALE	窦性心律	电轴左偏
+102312.txt	64	FEMALE	窦性心律	ST-T改变	左心室肥大
+102313.txt			窦性心律	电轴左偏
+102314.txt	43	FEMALE	ST-T改变	窦性心动过速
+102315.txt	72	MALE	窦性心律	电轴右偏
+102316.txt			左心室高电压	窦性心动过速
+102317.txt	49	MALE	窦性心律	T波改变	左心室高电压
+102318.txt	50	MALE	窦性心律	正常ECG
+102319.txt	25	MALE	窦性心律	正常ECG
+102320.txt	26	MALE	窦性心律	T波改变	左心室高电压
+102321.txt	27	FEMALE	窦性心律	T波改变
+102322.txt	45	MALE	窦性心动过缓	临界ECG
+102323.txt	40	MALE	窦性心律	QRS低电压
+102324.txt	43	MALE	窦性心动过缓	左心室高电压
+102325.txt	37	FEMALE	窦性心律	电轴右偏
+102326.txt	72	MALE	窦性心律	完全性右束支传导阻滞
+102327.txt			窦性心动过缓
+102328.txt	40	MALE	窦性心律	正常ECG
+102329.txt	54	FEMALE	窦性心律	临界ECG	室性早搏
+102330.txt	28	FEMALE	窦性心律	QRS低电压
+102331.txt			窦性心动过缓	临界ECG
+102332.txt	66	MALE	窦性心律	电轴右偏
+102333.txt	62	MALE	窦性心动过缓	临界ECG
+102334.txt			窦性心律	QRS低电压
+102335.txt	22	MALE	窦性心动过缓
+102336.txt	61	MALE	窦性心律	完全性右束支传导阻滞
+102337.txt	68	MALE	窦性心律
+102338.txt	82	MALE	窦性心律	室性早搏
+102339.txt	75	MALE	T波改变	心房颤动	起搏心律
+102340.txt	37	MALE	窦性心动过缓
+102341.txt	66	FEMALE	窦性心律	ST段改变	ST-T改变
+102342.txt	75	FEMALE	T波改变	窦性心动过缓
+102343.txt	28	FEMALE	窦性心律	T波改变
+102344.txt	79	FEMALE	窦性心律	ST-T改变
+102345.txt	32	MALE	窦性心动过缓	左心室高电压
+102346.txt	40	MALE	窦性心律	正常ECG
+102347.txt	22	FEMALE	窦性心律	ST段改变	电轴右偏
+102348.txt	84	MALE	窦性心律	ST-T改变
+102349.txt	32	MALE	窦性心动过缓	临界ECG
+102350.txt	26	MALE	窦性心律	正常ECG
+102351.txt	24	MALE	窦性心律	电轴右偏
+102352.txt	43	MALE	窦性心律	T波改变
+102353.txt	37	FEMALE	窦性心律	QRS低电压
+102354.txt	23	MALE	窦性心律	T波改变
+102355.txt	53	FEMALE	窦性心动过缓	QRS低电压
+102356.txt	82	MALE	窦性心律	ST-T改变	完全性右束支传导阻滞
+102357.txt	30	FEMALE	窦性心律	电轴右偏	临界ECG
+102358.txt	57	FEMALE	窦性心律	室性早搏	临界ECG
+102359.txt	33	FEMALE	窦性心律	QRS低电压
+102360.txt	87	MALE	ST-T改变	心房颤动
+102361.txt			窦性心动过缓	临界ECG
+102362.txt	71	MALE	窦性心律	电轴左偏
+102363.txt	26	FEMALE	窦性心律	T波改变
+102364.txt	52	MALE	窦性心律	正常ECG
+102365.txt	26	MALE	窦性心动过缓	临界ECG
+102366.txt	34	FEMALE	窦性心律	电轴右偏
+102367.txt	50	MALE	窦性心律	房性早搏
+102368.txt	82	FEMALE	T波改变	窦性心动过速
+102369.txt	30	MALE	窦性心动过缓	临界ECG
+102370.txt	50	MALE	窦性心律	正常ECG
+102371.txt	36	FEMALE	窦性心律	临界ECG	室性早搏
+102372.txt	26	FEMALE	窦性心律	临界ECG	电轴右偏
+102373.txt	81	MALE	ST-T改变	心房颤动
+102374.txt	58	MALE	心房颤动
+102375.txt	60	FEMALE	T波改变	心房颤动	快心室率
+102376.txt	22	FEMALE	窦性心律	T波改变
+102377.txt			窦性心律	电轴右偏
+102378.txt	27	FEMALE	窦性心动过速	临界ECG
+102379.txt			窦性心律	临界ECG	室性早搏
+102380.txt	39	FEMALE	窦性心律	T波改变
+102381.txt	45	MALE	窦性心律	T波改变
+102382.txt			窦性心律	T波改变
+102383.txt	43	MALE	窦性心律	电轴右偏
+102384.txt	35	MALE	窦性心律	T波改变
+102385.txt	30	FEMALE	窦性心动过缓	临界ECG
+102386.txt			T波改变	窦性心动过缓
+102387.txt	52	MALE	窦性心动过缓
+102388.txt	58	MALE	窦性心动过缓
+102389.txt	28	FEMALE	窦性心律	QRS低电压
+102390.txt	37	FEMALE	窦性心动过缓	临界ECG
+102391.txt	29	FEMALE	窦性心律	T波改变
+102392.txt			窦性心律	T波改变
+102393.txt	28	FEMALE	窦性心动过缓
+102394.txt	83	FEMALE	窦性心律	电轴左偏	异常ECG	肺心病型
+102395.txt	57	FEMALE	窦性心律	T波改变
+102396.txt		MALE	窦性心律	正常ECG
+102397.txt	64	FEMALE	窦性心律	T波改变
+102398.txt	39	MALE	窦性心动过缓	左心室高电压
+102399.txt	57	MALE	窦性心律	ST-T改变
+102400.txt	73	FEMALE	窦性心律	QRS低电压
+102401.txt	23	MALE	窦性心律	T波改变	左心室高电压
+102402.txt	52	MALE	窦性心律	室性早搏
+102403.txt			窦性心律	T波改变
+102404.txt	56	FEMALE	窦性心律	ST-T改变
+102405.txt	78	FEMALE	QRS低电压	心房颤动
+102406.txt	83	FEMALE	窦性心律	房性早搏	室性早搏
+102407.txt	24	FEMALE	窦性心律	T波改变
+102408.txt	63	FEMALE	窦性心律	T波改变
+102409.txt			窦性心律	T波改变
+102410.txt	61	FEMALE	窦性心律	电轴左偏
+102411.txt	30	FEMALE	窦性心律	T波改变	窦性心动过速
+102412.txt	43	MALE	窦性心律	T波改变
+102413.txt	51	MALE	窦性心动过缓	临界ECG
+102414.txt			窦性心律	临界ECG	室性早搏
+102415.txt	50	MALE	窦性心律	正常ECG
+102416.txt	27	MALE	窦性心律	正常ECG
+102417.txt	54	FEMALE	窦性心律	ST-T改变
+102418.txt	29	MALE	窦性心动过缓
+102419.txt			窦性心律	ST-T改变
+102420.txt	55	MALE	窦性心动过缓	心房颤动
+102421.txt	38	FEMALE	窦性心律	临界ECG	室性早搏	二联律
+102422.txt	50	MALE	窦性心律	T波改变	ST-T改变
+102423.txt	51	FEMALE	窦性心动过缓
+102424.txt	77	FEMALE	窦性心律	T波改变	房性早搏
+102425.txt	30	MALE	窦性心律	正常ECG
+102426.txt	51	MALE	窦性心律	T波改变
+102427.txt	31	FEMALE	T波改变	窦性心动过速
+102428.txt	33	FEMALE	窦性心动过缓
+102429.txt	75	FEMALE	窦性心律	ST-T改变
+102430.txt	62	MALE	窦性心动过缓	临界ECG
+102431.txt	60	MALE	窦性心动过速	完全性右束支传导阻滞
+102432.txt	84	MALE	窦性心律	T波改变	完全性右束支传导阻滞
+102433.txt	24	FEMALE	窦性心动过速	临界ECG
+102434.txt	41	MALE	窦性心律	电轴右偏
+102435.txt	88	FEMALE	ST-T改变	左心室肥大	窦性心律
+102436.txt			窦性心动过缓
+102437.txt	23	FEMALE	窦性心动过速	QRS低电压
+102438.txt			窦性心动过缓
+102439.txt	71	MALE	窦性心律	房性早搏
+102440.txt	21	MALE	窦性心律	临界ECG	电轴右偏
+102441.txt	53	FEMALE	窦性心律	T波改变
+102442.txt	54	MALE	窦性心律	ST-T改变
+102443.txt			窦性心律	T波改变
+102444.txt	50	MALE	窦性心律	ST-T改变
+102445.txt		MALE	窦性心律	正常ECG
+102446.txt	35	FEMALE	窦性心动过缓
+102447.txt	71	FEMALE	窦性心律	ST-T改变
+102448.txt	71	FEMALE	窦性心律	T波改变
+102449.txt	54	FEMALE	窦性心律	ST-T改变	室性早搏
+102450.txt	41	FEMALE	窦性心律	ST-T改变
+102451.txt	34	MALE	窦性心律	T波改变	ST-T改变
+102452.txt	32	FEMALE	窦性心律	T波改变
+102453.txt	49	MALE	窦性心律	正常ECG
+102454.txt	55	MALE	窦性心律	正常ECG
+102455.txt	48	MALE	ST-T改变	窦性心动过速
+102456.txt	58	FEMALE	窦性心律	T波改变	左心室高电压
+102457.txt	67	FEMALE	窦性心律	ST-T改变	房性早搏	室性早搏
+102458.txt	21	FEMALE	窦性心动过缓
+102459.txt	50	MALE	心房颤动
+102460.txt	56	MALE	窦性心律	正常ECG
+102461.txt	24	MALE	窦性心律	电轴左偏
+102462.txt	53	MALE	窦性心律	电轴左偏
+102463.txt			窦性心律	电轴右偏
+102464.txt			窦性心律	T波改变
+102465.txt	58	MALE	窦性心律	正常ECG
+102466.txt	59	MALE	窦性心动过缓	左心室高电压
+102467.txt	40	FEMALE	窦性心律	T波改变
+102468.txt	40	MALE	窦性心律	正常ECG
+102469.txt	34	MALE	窦性心律	正常ECG
+102470.txt	73	FEMALE	窦性心动过缓
+102471.txt			窦性心动过缓	ST-T改变	左心室肥大
+102472.txt	44	FEMALE	窦性心律	临界ECG	QRS低电压
+102473.txt	52	FEMALE	窦性心律	电轴右偏
+102474.txt	28	MALE	窦性心律	正常ECG
+102475.txt	45	MALE	窦性心律	T波改变
+102476.txt	37	MALE	窦性心动过速
+102477.txt	62	FEMALE	窦性心律	T波改变
+102478.txt	51	FEMALE	窦性心动过缓	临界ECG
+102479.txt	26	MALE	窦性心动过缓
+102480.txt	43	MALE	窦性心动过缓
+102481.txt	61	MALE	窦性心律	左心室高电压
+102482.txt			窦性心动过缓	房性早搏
+102483.txt	27	FEMALE	窦性心律	QRS低电压
+102484.txt			窦性心动过缓	临界ECG
+102485.txt	50	MALE	窦性心律	QRS低电压
+102486.txt	52	FEMALE	窦性心律	T波改变
+102487.txt	22	MALE	窦性心律
+102488.txt	19	FEMALE	窦性心动过缓	临界ECG
+102489.txt	65	FEMALE	窦性心动过缓	ST-T改变
+102490.txt	26	FEMALE	窦性心律	临界ECG	电轴右偏
+102491.txt	52	FEMALE	窦性心动过缓	QRS低电压
+102492.txt	45	MALE	窦性心动过缓	临界ECG
+102493.txt	28	FEMALE	窦性心动过速
+102494.txt	79	FEMALE	窦性心律	T波改变	完全性右束支传导阻滞	电轴左偏
+102495.txt	63	FEMALE	窦性心动过缓
+102496.txt	45	MALE	窦性心动过缓	临界ECG
+102497.txt	26	FEMALE	窦性心律	T波改变	ST-T改变
+102498.txt	84	MALE	窦性心动过缓
+102499.txt	42	FEMALE	窦性心律	电轴左偏
+102500.txt	63	MALE	窦性心律	T波改变	完全性右束支传导阻滞
+102501.txt	56	MALE	窦性心律	T波改变	一度房室传导阻滞
+102502.txt	38	MALE	窦性心动过缓	左心室高电压
+102503.txt			窦性心动过缓
+102504.txt	43	MALE	窦性心律	T波改变
+102505.txt	14	MALE	窦性心动过速
+102506.txt	65	MALE	窦性心动过缓
+102507.txt	42	FEMALE	窦性心律	房性早搏	ST-T改变
+102508.txt	32	FEMALE	窦性心律	T波改变
+102509.txt	49	MALE	窦性心律	正常ECG
+102510.txt	64	MALE	窦性心动过缓	临界ECG
+102511.txt	7	FEMALE	窦性心律	临界ECG	电轴右偏
+102512.txt	44	MALE	窦性心律	正常ECG
+102513.txt	52	FEMALE	窦性心动过缓	临界ECG
+102514.txt			窦性心律	电轴右偏
+102515.txt			窦性心律	T波改变
+102516.txt			窦性心动过缓	临界ECG
+102517.txt	29	FEMALE	窦性心律	T波改变
+102518.txt	69	FEMALE	窦性心律	ST段改变
+102519.txt	26	FEMALE	窦性心律	临界ECG	电轴右偏
+102520.txt	34	FEMALE	窦性心动过缓	临界ECG
+102521.txt	40	FEMALE	窦性心律	ST段改变
+102522.txt	50	MALE	窦性心动过速	电轴左偏
+102523.txt	33	MALE	窦性心律	T波改变
+102524.txt	23	FEMALE	窦性心律	QRS低电压
+102525.txt	66	FEMALE	窦性心律	房性早搏
+102526.txt	27	FEMALE	窦性心动过速	临界ECG	QRS低电压
+102527.txt	18	FEMALE	窦性心动过速
+102528.txt	19	MALE	窦性心律	电轴右偏
+102529.txt	58	MALE	窦性心律	ST-T改变	电轴左偏
+102530.txt	68	MALE	窦性心律	房性早搏
+102531.txt	26	FEMALE	窦性心律	临界ECG	QRS低电压
+102532.txt	79	MALE	窦性心律	T波改变	电轴左偏
+102533.txt	25	FEMALE	窦性心动过速	T波改变
+102534.txt			窦性心动过缓
+102535.txt			窦性心律	电轴右偏
+102536.txt	90	MALE	ST-T改变	心房颤动	快心室率
+102537.txt	79	FEMALE	窦性心律	房性早搏
+102538.txt	52	MALE	窦性心律	正常ECG
+102539.txt	24	FEMALE	窦性心律	QRS低电压	电轴左偏
+102540.txt	34	FEMALE	窦性心动过缓	临界ECG
+102541.txt	58	MALE	窦性心动过缓
+102542.txt	75	MALE	窦性心律	正常ECG
+102543.txt	65	FEMALE	窦性心律	房性早搏
+102544.txt	56	MALE	窦性心律	ST-T改变
+102545.txt	53	MALE	窦性心律	正常ECG
+102546.txt	52	FEMALE	窦性心律	房性早搏	ST段改变
+102547.txt	59	FEMALE	窦性心律	电轴左偏
+102548.txt	47	FEMALE	T波改变	窦性心动过速
+102549.txt	58	MALE	窦性心律	ST-T改变	电轴左偏
+102550.txt	53	MALE	窦性心律	ST-T改变
+102551.txt	57	MALE	窦性心律	T波改变
+102552.txt	46	MALE	窦性心动过缓	左心室高电压
+102553.txt			窦性心律	T波改变
+102554.txt	55	MALE	窦性心律	QRS低电压
+102555.txt	56	MALE	窦性心律	正常ECG
+102556.txt	76	MALE	窦性心律	完全性右束支传导阻滞
+102557.txt	81	MALE	窦性心律	电轴右偏	不完全性右束支传导阻滞
+102558.txt	54	MALE	窦性心动过缓
+102559.txt			窦性心动过缓
+102560.txt	20	MALE	窦性心律	电轴右偏
+102561.txt	40	MALE	窦性心动过缓	临界ECG
+102562.txt	27	FEMALE	窦性心律	T波改变	电轴右偏
+102563.txt	63	FEMALE	窦性心动过缓
+102564.txt	54	MALE	窦性心动过缓
+102565.txt	49	MALE	窦性心动过缓
+102566.txt	25	FEMALE	窦性心动过速	临界ECG
+102567.txt	53	FEMALE	窦性心律
+102568.txt	78	MALE	T波改变	电轴左偏	心房颤动
+102569.txt	61	FEMALE	窦性心律	T波改变
+102570.txt			窦性心动过缓
+102571.txt			窦性心律	T波改变
+102572.txt	64	FEMALE	窦性心律	T波改变
+102573.txt	51	MALE	窦性心律	T波改变
+102574.txt			窦性心动过缓	临界ECG
+102575.txt	69	MALE	窦性心律	ST段改变	房性早搏
+102576.txt	27	FEMALE	窦性心律	临界ECG	QRS低电压	电轴右偏
+102577.txt	31	FEMALE	窦性心律	电轴左偏
+102578.txt	62	MALE	窦性心动过缓	临界ECG	QRS低电压
+102579.txt	60	MALE	窦性心动过速
+102580.txt	40	FEMALE	窦性心动过缓	临界ECG
+102581.txt	34	FEMALE	窦性心律	ST段改变
+102582.txt	54	MALE	窦性心律	窦性心动过缓	正常ECG
+102583.txt	57	MALE	窦性心律	临界ECG	房性早搏
+102584.txt			窦性心动过速	临界ECG	室性早搏
+102585.txt	27	MALE	窦性心律	电轴左偏
+102586.txt	40	FEMALE	窦性心律	T波改变
+102587.txt	58	FEMALE	窦性心律	ST-T改变
+102588.txt	22	MALE	窦性心律	电轴右偏
+102589.txt	57	FEMALE	窦性心律	电轴右偏
+102590.txt	64	MALE	窦性心律	电轴右偏
+102591.txt	26	MALE	窦性心律	正常ECG
+102592.txt	18	FEMALE	窦性心律	临界ECG	电轴右偏	窦性心律不齐
+102593.txt	85	MALE	T波改变	心房颤动	不完全性右束支传导阻滞	慢心室率
+102594.txt	77	MALE	窦性心动过缓	临界ECG
+102595.txt	64	MALE	窦性心律	房性早搏
+102596.txt	52	MALE	窦性心动过缓	窦性心律
+102597.txt	30	MALE	窦性心律	室性早搏
+102598.txt	75	FEMALE	窦性心律	T波改变	房性早搏
+102599.txt	77	FEMALE	窦性心律	ST-T改变
+102600.txt	27	FEMALE	窦性心律	T波改变
+102601.txt	62	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+102602.txt	31	FEMALE	窦性心动过速	临界ECG
+102603.txt	24	FEMALE	窦性心律	T波改变
+102604.txt	32	MALE	窦性心律	T波改变
+102605.txt	27	FEMALE	窦性心律	QRS低电压
+102606.txt	41	FEMALE	窦性心律	QRS低电压
+102607.txt	18	MALE	窦性心律	正常ECG
+102608.txt			窦性心动过缓	左心室高电压
+102609.txt	57	MALE	窦性心律	T波改变
+102610.txt			窦性心律	QRS低电压
+102611.txt	27	MALE	窦性心律	正常ECG
+102612.txt	57	MALE	窦性心动过缓	临界ECG
+102613.txt	64	MALE	窦性心动过缓
+102614.txt			窦性心律	T波改变	左心室高电压
+102615.txt			窦性心律	完全性右束支传导阻滞
+102616.txt	31	FEMALE	窦性心动过缓	临界ECG
+102617.txt	48	MALE	窦性心动过缓
+102618.txt	35	FEMALE	窦性心律	QRS低电压
+102619.txt	81	FEMALE	窦性心律	房性早搏
+102620.txt	74	MALE	ST-T改变	心房颤动
+102621.txt	32	FEMALE	窦性心律	ST-T改变
+102622.txt	64	MALE	窦性心律	T波改变
+102623.txt	24	FEMALE	窦性心动过速	电轴右偏
+102624.txt	58	MALE	窦性心律	T波改变	左心室高电压
+102625.txt	47	MALE	窦性心动过缓
+102626.txt	24	MALE	窦性心律	完全性右束支传导阻滞
+102627.txt	25	FEMALE	窦性心律	电轴左偏
+102628.txt	41	MALE	窦性心动过缓
+102629.txt	23	MALE	窦性心律	电轴右偏
+102630.txt	32	FEMALE	ST段改变	窦性心动过速
+102631.txt	50	FEMALE	窦性心律	T波改变
+102632.txt	52	MALE	窦性心律	正常ECG
+102633.txt	61	MALE	窦性心动过缓	临界ECG
+102634.txt	64	FEMALE	窦性心律	房性早搏
+102635.txt			窦性心律	电轴右偏
+102636.txt	26	MALE	窦性心律	T波改变	左心室高电压
+102637.txt	23	FEMALE	窦性心动过缓
+102638.txt	67	FEMALE	窦性心律	正常ECG	房性早搏
+102639.txt	39	MALE	窦性心动过缓
+102640.txt	53	MALE	窦性心律	T波改变
+102641.txt	41	FEMALE	窦性心动过缓
+102642.txt	47	MALE	窦性心动过缓	临界ECG
+102643.txt	28	FEMALE	窦性心动过速	临界ECG	QRS低电压
+102644.txt	87	MALE	窦性心动过缓	完全性右束支传导阻滞
+102645.txt	56	FEMALE	窦性心律	T波改变	正常ECG
+102646.txt	25	FEMALE	窦性心律	ST段改变
+102647.txt		MALE	窦性心律	正常ECG
+102648.txt	27	FEMALE	窦性心律	临界ECG	电轴右偏
+102649.txt	57	MALE	窦性心动过缓	一度房室传导阻滞	临界ECG
+102650.txt			窦性心律	电轴右偏
+102651.txt	23	FEMALE	窦性心律	QRS低电压
+102652.txt	44	MALE	窦性心动过缓
+102653.txt	47	MALE	窦性心律	电轴右偏
+102654.txt	50	MALE	窦性心律	T波改变
+102655.txt	53	MALE	窦性心律	T波改变
+102656.txt	34	FEMALE	窦性心律	QRS低电压	临界ECG
+102657.txt	25		窦性心律	电轴右偏
+102658.txt	51	FEMALE	窦性心律	ST段改变
+102659.txt	28	MALE	窦性心动过缓
+102660.txt	2	MALE	窦性心律	正常ECG
+102661.txt	54	MALE	左心室高电压	心房颤动
+102662.txt	81	FEMALE	窦性心律	T波改变	一度房室传导阻滞
+102663.txt	23	FEMALE	窦性心动过速	临界ECG
+102664.txt	39	FEMALE	窦性心律	T波改变
+102665.txt	30	FEMALE	窦性心动过速
+102666.txt	60	FEMALE	窦性心律	QRS低电压
+102667.txt			窦性心律	T波改变
+102668.txt	27	FEMALE	窦性心动过速	ST段改变
+102669.txt	37	MALE	窦性心律	电轴左偏
+102670.txt	86	FEMALE	窦性心律	T波改变
+102671.txt	69	FEMALE	窦性心律	ST-T改变
+102672.txt	27	FEMALE	窦性心律
+102673.txt	42	FEMALE	窦性心律	电轴右偏
+102674.txt	37	MALE	窦性心律	电轴右偏
+102675.txt	76	MALE	窦性心律	完全性右束支传导阻滞
+102676.txt	68	FEMALE	窦性心律	房性早搏
+102677.txt	42	MALE	窦性心动过缓	完全性右束支传导阻滞	左前分支传导阻滞
+102678.txt	48	FEMALE	窦性心律	T波改变
+102679.txt	43	MALE	窦性心动过缓
+102680.txt	80	FEMALE	窦性心律	房性早搏
+102681.txt	59	MALE	窦性心动过速	临界ECG	室性早搏
+102682.txt	19	FEMALE	窦性心律	T波改变	电轴右偏
+102683.txt	67	MALE	窦性心动过缓	临界ECG
+102684.txt	28	MALE	窦性心律	T波改变	左心室高电压
+102685.txt	26	FEMALE	窦性心动过速
+102686.txt	52	FEMALE	窦性心律	电轴左偏
+102687.txt	54	FEMALE	T波改变	窦性心动过缓	窦性心律
+102688.txt	30	FEMALE	窦性心律	临界ECG	QRS低电压
+102689.txt	72	FEMALE	ST-T改变	窦性心动过速
+102690.txt	26	FEMALE	T波改变	窦性心动过速
+102691.txt	44	MALE	窦性心动过缓	左心室高电压
+102692.txt	90	MALE	T波改变	心房颤动
+102693.txt	58	MALE	T波改变	窦性心动过速
+102694.txt	70	FEMALE	窦性心律	T波改变	ST-T改变
+102695.txt	61	FEMALE	窦性心动过缓	临界ECG
+102696.txt	67	MALE	窦性心律	电轴左偏
+102697.txt	88	FEMALE	ST-T改变	窦性心动过速	左心室肥大
+102698.txt	87	MALE	窦性心律	电轴左偏
+102699.txt	41	MALE	窦性心律	正常ECG
+102700.txt	72	FEMALE	窦性心动过缓
+102701.txt			窦性心律	电轴右偏
+102702.txt	30	FEMALE	窦性心律	电轴左偏	异常ECG
+102703.txt	38	MALE	窦性心律	正常ECG
+102704.txt	56	MALE	窦性心律	T波改变
+102705.txt	22	MALE	窦性心律	QRS低电压
+102706.txt	82	FEMALE	窦性心律	T波改变	室性早搏
+102707.txt	67	MALE	窦性心律	正常ECG
+102708.txt	31	MALE	窦性心律	室性早搏
+102709.txt	50	MALE	窦性心律	完全性右束支传导阻滞
+102710.txt	28	MALE	窦性心律	临界ECG	电轴右偏
+102711.txt	27	FEMALE	窦性心律	室性早搏
+102712.txt	68	FEMALE	窦性心律	T波改变
+102713.txt	16	FEMALE	窦性心动过缓	临界ECG
+102714.txt	61	MALE	窦性心律	ST段改变
+102715.txt	48	MALE	窦性心动过缓	室性早搏
+102716.txt	63	MALE	T波改变	窦性心动过缓	ST-T改变	左心室肥大
+102717.txt	48	MALE	窦性心律	正常ECG
+102718.txt			窦性心律	T波改变
+102719.txt	54	FEMALE	窦性心律	QRS低电压
+102720.txt		FEMALE	窦性心动过缓	临界ECG
+102721.txt	46	MALE	窦性心律	正常ECG
+102722.txt	57	MALE	窦性心动过缓
+102723.txt	49	MALE	窦性心律	ST-T改变	左心室肥大
+102724.txt	31	FEMALE	窦性心律	QRS低电压
+102725.txt	33	MALE	窦性心动过速	QRS低电压
+102726.txt	19	FEMALE	窦性心律	临界ECG	QRS低电压
+102727.txt	69	FEMALE	窦性心律	ST-T改变
+102728.txt	48	FEMALE	窦性心动过缓	QRS低电压
+102729.txt	30	FEMALE	窦性心律	正常ECG
+102730.txt	25	MALE	窦性心律	正常ECG
+102731.txt	80	MALE	窦性心律	QRS低电压
+102732.txt	70	FEMALE	窦性心律	ST-T改变	房性早搏
+102733.txt			窦性心律	T波改变	ST段改变
+102734.txt			窦性心律	电轴左偏
+102735.txt	55	FEMALE	窦性心律	正常ECG
+102736.txt	63	MALE	窦性心律	T波改变	QRS低电压	ST-T改变
+102737.txt	19	MALE	窦性心动过缓	左心室高电压
+102738.txt	26	MALE	窦性心动过缓	左心室高电压
+102739.txt	82	FEMALE	窦性心律	ST段改变	房性早搏
+102740.txt			窦性心动过速
+102741.txt	31	MALE	窦性心律	T波改变
+102742.txt	39	MALE	窦性心动过缓
+102743.txt	28	FEMALE	窦性心动过缓	临界ECG
+102744.txt	25	FEMALE	窦性心律	T波改变	电轴右偏
+102745.txt	55	MALE	窦性心律	QRS低电压	电轴左偏
+102746.txt	47	MALE	窦性心动过缓	左心室高电压
+102747.txt	56	MALE	窦性心律	T波改变
+102748.txt	27	FEMALE	窦性心律	临界ECG	QRS低电压
+102749.txt	48	MALE	窦性心律	室性早搏
+102750.txt	41	MALE	窦性心律	完全性右束支传导阻滞
+102751.txt			T波改变	窦性心动过速
+102752.txt			窦性心动过缓
+102753.txt	60	MALE	窦性心律	ST段改变
+102754.txt	38	FEMALE	窦性心律	正常ECG
+102755.txt			窦性心律	T波改变
+102756.txt			窦性心律	QRS低电压	临界ECG
+102757.txt	38	MALE	窦性心律	正常ECG
+102758.txt	75	MALE	窦性心动过缓	异常ECG	左束支传导阻滞
+102759.txt	36	MALE	窦性心律	正常ECG
+102760.txt	75	FEMALE	窦性心律	QRS低电压
+102761.txt	67	FEMALE	窦性心律	QRS低电压
+102762.txt	49	MALE	窦性心律	左心室高电压	室性早搏
+102763.txt	28	FEMALE	窦性心动过缓
+102764.txt	30	FEMALE	窦性心律	电轴右偏
+102765.txt	29	MALE	窦性心律	T波改变
+102766.txt	26	FEMALE	窦性心律	临界ECG	QRS低电压
+102767.txt	76	MALE	窦性心律	电轴左偏
+102768.txt	39	FEMALE	窦性心律	T波改变
+102769.txt	67	MALE	T波改变	心房颤动	快心室率
+102770.txt	29	MALE	窦性心动过缓	临界ECG	电轴右偏
+102771.txt	70	MALE	窦性心律	T波改变	ST-T改变
+102772.txt	18	MALE	窦性心律	电轴右偏
+102773.txt	31	FEMALE	窦性心律	电轴右偏
+102774.txt			窦性心动过速
+102775.txt	81	FEMALE	窦性心律	ST-T改变
+102776.txt	22	FEMALE	窦性心律	临界ECG	室性早搏
+102777.txt	27	MALE	窦性心律	正常ECG
+102778.txt	27	FEMALE	窦性心律	QRS低电压	临界ECG
+102779.txt	26	MALE	窦性心动过缓	临界ECG
+102780.txt	51	MALE	窦性心律	T波改变	电轴左偏
+102781.txt	51	FEMALE	窦性心律	房性早搏	室性早搏
+102782.txt	24	FEMALE	窦性心律	T波改变
+102783.txt	37	FEMALE	窦性心动过缓	临界ECG
+102784.txt	49	MALE	ST-T改变	窦性心动过速
+102785.txt	48	MALE	窦性心动过缓
+102786.txt	37	FEMALE	窦性心动过缓
+102787.txt	43	FEMALE	左心室高电压	窦性心动过速	ST段改变
+102788.txt	24	MALE	窦性心动过缓	电轴左偏
+102789.txt	58	MALE	窦性心动过缓
+102790.txt	40	FEMALE	窦性心律	T波改变
+102791.txt	30	FEMALE	窦性心律	T波改变
+102792.txt			窦性心律	T波改变
+102793.txt	31	MALE	窦性心动过缓	左心室高电压
+102794.txt	42	MALE	窦性心律	正常ECG
+102795.txt	54	MALE	窦性心律
+102796.txt	74	FEMALE	窦性心律	ST-T改变	左心室肥大
+102797.txt			窦性心律	T波改变
+102798.txt	89	MALE	窦性心律	临界ECG	房性早搏	异常ECG	室性早搏	心房颤动
+102799.txt	20	FEMALE	窦性心动过缓
+102800.txt	49	MALE	窦性心律	T波改变
+102801.txt	26	FEMALE	窦性心动过速
+102802.txt	21	FEMALE	ST-T改变	窦性心律
+102803.txt			窦性心律	临界ECG	电轴右偏
+102804.txt	24	FEMALE	窦性心律	T波改变
+102805.txt	42	MALE	T波改变	窦性心动过缓	左心室高电压
+102806.txt	77	MALE	心房颤动	电轴左偏
+102807.txt	44	MALE	窦性心律	临界ECG	房性早搏
+102808.txt	32	FEMALE	窦性心动过缓
+102809.txt	38	MALE	窦性心律	电轴右偏
+102810.txt	33	FEMALE	窦性心动过速
+102811.txt	53	MALE	窦性心律	T波改变	左心室高电压
+102812.txt	21	MALE	窦性心律	电轴右偏
+102813.txt	22	FEMALE	窦性心动过速	电轴右偏
+102814.txt	24	FEMALE	窦性心动过速
+102815.txt	71	FEMALE	ST-T改变	心房颤动	室性早搏	完全性右束支传导阻滞
+102816.txt	29	FEMALE	窦性心律	T波改变
+102817.txt	69	MALE	窦性心律	QRS低电压
+102818.txt	51	MALE	窦性心动过缓
+102819.txt	19	MALE	窦性心律	电轴右偏
+102820.txt	25	MALE	窦性心动过缓	临界ECG
+102821.txt	36	FEMALE	窦性心律	T波改变
+102822.txt	54	MALE	窦性心动过缓
+102823.txt	50	MALE	窦性心律	正常ECG
+102824.txt	57	MALE	窦性心律	正常ECG
+102825.txt	33	FEMALE	窦性心动过缓	临界ECG
+102826.txt	63	FEMALE	窦性心动过缓
+102827.txt	86	FEMALE	窦性心律	QRS低电压
+102828.txt	67	MALE	窦性心律	电轴左偏
+102829.txt	61	MALE	窦性心律	室性早搏	临界ECG
+102830.txt	48	MALE	窦性心律	T波改变
+102831.txt	68	FEMALE	心房颤动
+102832.txt	48	MALE	T波改变	窦性心动过缓
+102833.txt	69	MALE	窦性心律	起搏心律	非特异性室内传导阻滞	电轴左偏
+102834.txt	48	MALE	T波改变	ST-T改变	心房颤动	快心室率
+102835.txt	24	MALE	窦性心律	正常ECG
+102836.txt	28	FEMALE	窦性心律	T波改变
+102837.txt	35	FEMALE	窦性心律	T波改变
+102838.txt	56	MALE	窦性心律	电轴左偏
+102839.txt	41	MALE	窦性心律	窦性心动过速	临界ECG	电轴右偏
+102840.txt	54	MALE	窦性心动过缓	临界ECG
+102841.txt	33	MALE	窦性心律	正常ECG
+102842.txt	71	MALE	窦性心律	T波改变
+102843.txt	79	FEMALE	窦性心动过缓	临界ECG
+102844.txt	18	MALE	窦性心动过缓	左心室高电压
+102845.txt	66	MALE	窦性心动过缓	临界ECG
+102846.txt	32	MALE	窦性心律	正常ECG
+102847.txt	23	FEMALE	窦性心律	临界ECG	QRS低电压
+102848.txt	57	MALE	窦性心律	电轴左偏
+102849.txt	19	MALE	窦性心律	电轴右偏
+102850.txt	41	MALE	窦性心动过缓
+102851.txt			窦性心动过缓
+102852.txt	43	MALE	窦性心律	正常ECG
+102853.txt			窦性心动过缓	临界ECG
+102854.txt	48	FEMALE	窦性心律	T波改变
+102855.txt	56	FEMALE	窦性心律	ST-T改变
+102856.txt	27	FEMALE	窦性心动过速	ST段改变
+102857.txt	62	FEMALE	窦性心律	正常ECG
+102858.txt	81	MALE	窦性心律	T波改变	一度房室传导阻滞
+102859.txt	78	FEMALE	窦性心动过缓
+102860.txt	61	FEMALE	窦性心律	ST-T改变	电轴左偏
+102861.txt	27	FEMALE	窦性心动过速
+102862.txt	34	MALE	窦性心动过速	QRS低电压
+102863.txt	48	MALE	窦性心律	T波改变	电轴右偏
+102864.txt			窦性心动过缓
+102865.txt	27	FEMALE	窦性心律	临界ECG	QRS低电压
+102866.txt			窦性心律	窦性心动过缓	临界ECG
+102867.txt	22	MALE	窦性心律	电轴右偏
+102868.txt	73	FEMALE	窦性心律	QRS低电压
+102869.txt	34	FEMALE	窦性心律	电轴右偏
+102870.txt	64	FEMALE	窦性心动过缓	临界ECG
+102871.txt	33	FEMALE	窦性心动过缓
+102872.txt	66	MALE	T波改变	心房颤动	室性早搏	快心室率
+102873.txt	48	MALE	窦性心律	室性早搏	二联律
+102874.txt	66	MALE	心房颤动
+102875.txt	24	FEMALE	窦性心律	T波改变
+102876.txt	59	FEMALE	窦性心律	电轴左偏
+102877.txt	59	FEMALE	窦性心律	QRS低电压
+102878.txt	21	FEMALE	窦性心律	电轴右偏
+102879.txt	64	MALE	窦性心律	ST-T改变
+102880.txt	45	FEMALE	窦性心律	QRS低电压
+102881.txt	69	FEMALE	窦性心律	ST段改变	ST-T改变
+102882.txt	58	MALE	窦性心律	房性早搏
+102883.txt	53	MALE	窦性心动过缓
+102884.txt	23	FEMALE	窦性心律	室性早搏
+102885.txt	85	MALE	窦性心律	T波改变	一度房室传导阻滞
+102886.txt			T波改变	窦性心动过缓
+102887.txt	42	MALE	窦性心律	正常ECG
+102888.txt	52	MALE	窦性心律	正常ECG
+102889.txt	23	FEMALE	窦性心动过速
+102890.txt	87	MALE	心房颤动	完全性右束支传导阻滞
+102891.txt			窦性心律	QRS低电压
+102892.txt	80	MALE	心房颤动	快心室率
+102893.txt	52	FEMALE	窦性心律	T波改变
+102894.txt	71	MALE	心房颤动	完全性右束支传导阻滞
+102895.txt	80	MALE	窦性心律	T波改变	左心室高电压
+102896.txt			窦性心动过缓	临界ECG
+102897.txt	35	MALE	窦性心动过缓
+102898.txt	36	MALE	窦性心动过速
+102899.txt	82	MALE	窦性心律	电轴左偏	左束支传导阻滞	异常ECG
+102900.txt	32	MALE	窦性心律	室性早搏
+102901.txt	27	FEMALE	窦性心律	正常ECG
+102902.txt	53	MALE	窦性心律	完全性右束支传导阻滞
+102903.txt	35	MALE	窦性心律	T波改变	室性早搏
+102904.txt	23	MALE	窦性心律	电轴右偏
+102905.txt	71	FEMALE	窦性心律	ST-T改变	左心室肥大	一度房室传导阻滞
+102906.txt	39	FEMALE	窦性心律	房性早搏	异常ECG	右束支传导阻滞	左前分支传导阻滞	电轴左偏
+102907.txt	20	FEMALE	窦性心律	T波改变	ST-T改变
+102908.txt	28	MALE	窦性心动过缓
+102909.txt	59	FEMALE	窦性心律	临界ECG	房性早搏
+102910.txt	48	FEMALE	窦性心律	QRS低电压
+102911.txt	63	MALE	窦性心动过速
+102912.txt	23	FEMALE	窦性心律	临界ECG	QRS低电压
+102913.txt	40	MALE	窦性心动过缓	左心室高电压
+102914.txt	66	MALE	窦性心动过缓	QRS低电压
+102915.txt	62	FEMALE	窦性心律	室性早搏
+102916.txt	27	FEMALE	窦性心律	电轴右偏
+102917.txt			窦性心动过缓
+102918.txt	42	FEMALE	窦性心动过缓
+102919.txt	35	FEMALE	窦性心律	QRS低电压
+102920.txt	18	FEMALE	窦性心律	电轴右偏
+102921.txt	22	MALE	窦性心律	T波改变
+102922.txt	25	MALE	窦性心律	临界ECG	电轴右偏
+102923.txt	36	MALE	窦性心动过缓
+102924.txt	32	FEMALE	窦性心律	T波改变
+102925.txt	74	MALE	左心室高电压	心房颤动
+102926.txt	27	FEMALE	窦性心律	QRS低电压
+102927.txt	37	MALE	窦性心律	电轴左偏
+102928.txt	33	FEMALE	窦性心律	ST-T改变
+102929.txt	61	FEMALE	窦性心律	QRS低电压
+102930.txt	21	MALE	窦性心动过缓	左心室高电压
+102931.txt			窦性心律
+102932.txt	65	MALE	窦性心律	房性早搏
+102933.txt	89	MALE	心房颤动	快心室率	电轴左偏
+102934.txt	28	MALE	窦性心律	正常ECG
+102935.txt	29	FEMALE	窦性心动过缓
+102936.txt	43	FEMALE	窦性心律	窦性心动过缓	临界ECG
+102937.txt	27	MALE	窦性心动过缓	临界ECG
+102938.txt	85	MALE	窦性心律	房性早搏
+102939.txt	15	MALE	窦性心动过速	临界ECG
+102940.txt	64	FEMALE	窦性心律	电轴左偏
+102941.txt	19	FEMALE	窦性心律	电轴左偏
+102942.txt			窦性心动过缓
+102943.txt	59	FEMALE	窦性心律	ST段改变
+102944.txt	41	MALE	窦性心律	正常ECG
+102945.txt	56	MALE	窦性心律	T波改变
+102946.txt	81	FEMALE	T波改变	窦性心动过缓	电轴右偏
+102947.txt	40	MALE	窦性心动过缓	临界ECG
+102948.txt	61	MALE	窦性心动过缓
+102949.txt	46	FEMALE	窦性心律	ST段改变
+102950.txt	85	FEMALE	窦性心律	ST-T改变
+102951.txt	43	FEMALE	左心室高电压	窦性心动过速	心房颤动
+102952.txt	53	FEMALE	窦性心动过缓	ST-T改变	左心室肥大	左心室高电压
+102953.txt	45	MALE	窦性心动过缓
+102954.txt	57	MALE	窦性心律	ST-T改变	左心室肥大
+102955.txt	25	FEMALE	窦性心动过速	电轴右偏
+102956.txt	44	FEMALE	窦性心动过缓	临界ECG
+102957.txt	65	MALE	窦性心动过缓	临界ECG
+102958.txt	22	MALE	窦性心动过缓	电轴右偏
+102959.txt	29	FEMALE	窦性心律	QRS低电压
+102960.txt			T波改变	窦性心动过缓
+102961.txt	55	MALE	窦性心律	电轴左偏
+102962.txt	71	FEMALE	窦性心律	ST-T改变	左心室肥大
+102963.txt	61	FEMALE	窦性心律	ST-T改变
+102964.txt	53	FEMALE	窦性心律
+102965.txt			窦性心动过缓
+102966.txt			窦性心律	电轴左偏
+102967.txt	73	FEMALE	窦性心律	ST段改变
+102968.txt	47	MALE	窦性心律	正常ECG
+102969.txt	61	MALE	窦性心律	T波改变
+102970.txt	39	FEMALE	窦性心律	ST-T改变
+102971.txt	86	MALE	心房颤动
+102972.txt	62	MALE	窦性心律	正常ECG
+102973.txt	25	FEMALE	窦性心动过速
+102974.txt	37	MALE	窦性心律	正常ECG
+102975.txt	65	FEMALE	窦性心律	T波改变	ST-T改变
+102976.txt			窦性心律	左心室高电压	房性早搏
+102977.txt	73	FEMALE	窦性心律	T波改变
+102978.txt	43	FEMALE	窦性心律	ST段改变
+102979.txt	73	FEMALE	ST-T改变	心房颤动
+102980.txt	41	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+102981.txt	48	MALE	窦性心律	正常ECG
+102982.txt	81	FEMALE	窦性心律	T波改变
+102983.txt	20	FEMALE	窦性心律	临界ECG	电轴右偏
+102984.txt	23	FEMALE	窦性心动过速
+102985.txt	56	MALE	窦性心律	电轴左偏
+102986.txt		FEMALE	窦性心动过缓	临界ECG
+102987.txt	56	MALE	窦性心律	完全性右束支传导阻滞
+102988.txt	30	MALE	窦性心律	T波改变
+102989.txt	49	MALE	窦性心律	T波改变	QRS低电压
+102990.txt	41	FEMALE	窦性心动过缓
+102991.txt	63	MALE	窦性心律	QRS低电压
+102992.txt	70	MALE	窦性心律	右束支传导阻滞	不完全性右束支传导阻滞
+102993.txt	54	FEMALE	窦性心律	T波改变
+102994.txt	44	MALE	窦性心律	房性早搏
+102995.txt			窦性心律	QRS低电压
+102996.txt	23	FEMALE	窦性心律	临界ECG	电轴右偏
+102997.txt	40	MALE	窦性心律	正常ECG
+102998.txt	68	MALE	窦性心动过缓
+102999.txt	47	MALE	窦性心律	T波改变
+103000.txt	46	FEMALE	窦性心动过速
+103001.txt	59	MALE	窦性心律	T波改变
+103002.txt	34	FEMALE	窦性心律	QRS低电压
+103003.txt	24	MALE	窦性心律	正常ECG
+103004.txt	32	MALE	窦性心律	电轴右偏
+103005.txt	21	FEMALE	窦性心律	电轴右偏
+103006.txt	62	MALE	窦性心律	QRS低电压
+103007.txt	23	FEMALE	窦性心动过速	临界ECG
+103008.txt	52	FEMALE	ST-T改变	窦性心律
+103009.txt	78	FEMALE	窦性心律	电轴左偏	异常ECG
+103010.txt	18	FEMALE	窦性心律	QRS低电压	临界ECG
+103011.txt	29	MALE	窦性心律	T波改变
+103012.txt	18	MALE	窦性心律	临界ECG	电轴右偏
+103013.txt	50	MALE	窦性心律	电轴左偏
+103014.txt	52	FEMALE	窦性心动过缓
+103015.txt	23	MALE	窦性心律	电轴右偏
+103016.txt	72	FEMALE	窦性心律	ST段改变
+103017.txt	72	FEMALE	窦性心律	ST-T改变
+103018.txt	43	MALE	窦性心律	T波改变	左心室高电压
+103019.txt	62	MALE	窦性心律	T波改变
+103020.txt	43	MALE	窦性心律	正常ECG
+103021.txt	26	MALE	窦性心动过缓	临界ECG
+103022.txt	43	FEMALE	窦性心动过速	临界ECG	电轴右偏
+103023.txt	33	MALE	窦性心律	正常ECG
+103024.txt	55	FEMALE	窦性心律	房性早搏
+103025.txt	27	FEMALE	窦性心律	QRS低电压	临界ECG
+103026.txt			窦性心律	T波改变
+103027.txt	46	MALE	窦性心律	T波改变
+103028.txt	41	FEMALE	窦性心律
+103029.txt	78	FEMALE	窦性心律	ST-T改变
+103030.txt	35	FEMALE	窦性心律	QRS低电压
+103031.txt	37	MALE	窦性心律	正常ECG
+103032.txt	46	FEMALE	窦性心律	房性早搏
+103033.txt	51	MALE	窦性心动过缓
+103034.txt	39	MALE	窦性心律	正常ECG
+103035.txt	46	FEMALE	窦性心动过缓
+103036.txt	61	FEMALE	窦性心律	ST-T改变
+103037.txt	59	MALE	窦性心律	ST-T改变
+103038.txt	38	MALE	窦性心律	T波改变
+103039.txt	27	MALE	窦性心动过速
+103040.txt	63	FEMALE	窦性心律	ST-T改变
+103041.txt			窦性心律	QRS低电压
+103042.txt	21	MALE	窦性心动过缓
+103043.txt			窦性心律	T波改变
+103044.txt	44	MALE	窦性心律	完全性右束支传导阻滞
+103045.txt	28	FEMALE	窦性心律	T波改变	ST-T改变
+103046.txt	81	FEMALE	窦性心律	QRS低电压
+103047.txt	45	MALE	窦性心律	T波改变
+103048.txt	75	FEMALE	窦性心律	正常ECG
+103049.txt	64	MALE	电轴左偏	心房颤动
+103050.txt	27	FEMALE	窦性心律	临界ECG	QRS低电压
+103051.txt			窦性心动过速
+103052.txt	38	FEMALE	窦性心律	T波改变
+103053.txt	50	MALE	窦性心律	电轴右偏
+103054.txt	23	FEMALE	窦性心律	T波改变
+103055.txt	29	FEMALE	窦性心动过缓
+103056.txt	36	MALE	窦性心律	正常ECG
+103057.txt	73	MALE	窦性心律	正常ECG
+103058.txt	81	MALE	窦性心律	完全性右束支传导阻滞
+103059.txt	51	FEMALE	窦性心律	电轴右偏
+103060.txt	66	MALE	窦性心律	ST-T改变
+103061.txt	44	FEMALE	窦性心律	QRS低电压
+103062.txt	81	FEMALE	窦性心律	QRS低电压	房性早搏
+103063.txt	30	MALE	窦性心动过速
+103064.txt	43	FEMALE	窦性心动过缓	电轴右偏
+103065.txt	30	FEMALE	窦性心律
+103066.txt			窦性心律	电轴左偏	异常ECG
+103067.txt	70	MALE	心房颤动	室性早搏	ST-T改变
+103068.txt	30	MALE	窦性心动过缓	左心室高电压
+103069.txt	61	FEMALE	窦性心动过缓	一度房室传导阻滞
+103070.txt	21	MALE	窦性心律
+103071.txt	57	MALE	窦性心律	完全性右束支传导阻滞
+103072.txt	28	FEMALE	窦性心律	电轴右偏
+103073.txt	37	FEMALE	窦性心律	电轴右偏
+103074.txt	78	MALE	窦性心律	QRS低电压
+103075.txt	31	MALE	窦性心动过缓
+103076.txt	44	MALE	窦性心律	T波改变
+103077.txt	57	MALE	窦性心动过缓
+103078.txt	51	MALE	窦性心律	电轴左偏
+103079.txt	46	MALE	窦性心律	T波改变
+103080.txt	57	MALE	窦性心律	T波改变
+103081.txt	22	MALE	窦性心律	电轴右偏
+103082.txt	76	MALE	ST-T改变
+103083.txt	64	MALE	窦性心律	完全性右束支传导阻滞
+103084.txt	65	FEMALE	窦性心律	T波改变
+103085.txt	49	FEMALE	窦性心律	QRS低电压
+103086.txt	35	FEMALE	窦性心动过缓	ST段改变
+103087.txt	57	FEMALE	窦性心律	ST-T改变
+103088.txt	51	FEMALE	窦性心律	ST段改变
+103089.txt	85	FEMALE	窦性心律	T波改变	ST-T改变
+103090.txt	48	MALE	窦性心动过缓
+103091.txt	34	MALE	窦性心律	临界ECG	电轴右偏
+103092.txt	51	FEMALE	窦性心律	T波改变
+103093.txt	30	FEMALE	窦性心动过速
+103094.txt	59	MALE	窦性心律	T波改变	窦性心动过速	电轴右偏
+103095.txt	40	MALE	窦性心律	T波改变	正常ECG
+103096.txt	65	MALE	窦性心律	室性早搏	房性早搏
+103097.txt	69	FEMALE	窦性心律	ST-T改变
+103098.txt	25	MALE	窦性心动过缓
+103099.txt	30	MALE	窦性心动过缓
+103100.txt	39	FEMALE	窦性心动过缓	临界ECG
+103101.txt	24	FEMALE	窦性心动过缓
+103102.txt	57	MALE	窦性心律	电轴左偏
+103103.txt	33	MALE	窦性心律	正常ECG
+103104.txt	57	FEMALE	窦性心律	T波改变
+103105.txt	17	MALE	窦性心律	电轴右偏
+103106.txt	36	FEMALE	窦性心动过速	QRS低电压
+103107.txt	57	MALE	窦性心动过缓	左心室高电压
+103108.txt	53	MALE	窦性心律	电轴左偏
+103109.txt	39	MALE	窦性心律	左心室高电压
+103110.txt	31	MALE	窦性心律	正常ECG
+103111.txt	20	FEMALE	窦性心动过速	电轴右偏
+103112.txt	48	FEMALE	窦性心律	QRS低电压	电轴左偏
+103113.txt	44	MALE	窦性心律	正常ECG
+103114.txt	31	FEMALE	窦性心律	电轴右偏
+103115.txt	36	FEMALE	窦性心律	T波改变	窦性心动过速
+103116.txt	47	MALE	窦性心律	正常ECG
+103117.txt	24	MALE	窦性心律	正常ECG
+103118.txt	40	MALE	窦性心律	正常ECG
+103119.txt	20	FEMALE	窦性心律	T波改变
+103120.txt			左心室高电压	窦性心动过速
+103121.txt	34	FEMALE	窦性心律	QRS低电压
+103122.txt	38	FEMALE	窦性心律	T波改变	ST-T改变
+103123.txt	42	FEMALE	窦性心动过速	QRS低电压
+103124.txt	32	MALE	窦性心动过缓
+103125.txt	76	MALE	窦性心律	QRS低电压
+103126.txt			窦性心律	T波改变	ST-T改变
+103127.txt	57	MALE	窦性心律	临界ECG	电轴右偏
+103128.txt	51	MALE	心房颤动	快心室率
+103129.txt	31	MALE	窦性心律	T波改变
+103130.txt	48	MALE	窦性心律	电轴左偏
+103131.txt	70	MALE	窦性心动过速	电轴右偏
+103132.txt	42	FEMALE	窦性心律	T波改变
+103133.txt	23	FEMALE	窦性心律	T波改变
+103134.txt	60	FEMALE	窦性心律	T波改变
+103135.txt	81	FEMALE	窦性心律	T波改变	左心室高电压
+103136.txt	63	FEMALE	窦性心律	T波改变
+103137.txt	88	MALE	窦性心律	T波改变	一度房室传导阻滞	不完全性右束支传导阻滞
+103138.txt	47	MALE	窦性心律	T波改变
+103139.txt	41	FEMALE	窦性心律	T波改变
+103140.txt	54	FEMALE	窦性心律	ST-T改变
+103141.txt	66	FEMALE	窦性心律	T波改变	电轴左偏
+103142.txt	53	MALE	窦性心律	正常ECG
+103143.txt	43	FEMALE	窦性心律	电轴左偏
+103144.txt	19	MALE	窦性心动过缓
+103145.txt	57	MALE	窦性心律	T波改变
+103146.txt	23	MALE	窦性心律	正常ECG
+103147.txt	52	MALE	窦性心律	正常ECG
+103148.txt	36	MALE	窦性心动过速
+103149.txt	32	FEMALE	窦性心律	T波改变
+103150.txt	40	MALE	窦性心动过缓	电轴左偏
+103151.txt	47	MALE	窦性心律	正常ECG
+103152.txt	40	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+103153.txt	30	MALE	窦性心动过缓	临界ECG
+103154.txt	73	MALE	窦性心律	电轴左偏
+103155.txt	34	FEMALE	窦性心律	T波改变
+103156.txt	23	FEMALE	窦性心律	QRS低电压
+103157.txt	59	MALE	窦性心律	正常ECG
+103158.txt	57	MALE	窦性心动过速	电轴左偏
+103159.txt	70	MALE	T波改变	窦性心动过速
+103160.txt	22	FEMALE	窦性心动过速
+103161.txt			窦性心律	电轴左偏	异常ECG
+103162.txt	64	FEMALE	窦性心律	ST段改变
+103163.txt	31	MALE	窦性心动过速
+103164.txt	61	MALE	窦性心律	ST-T改变
+103165.txt	79	FEMALE	窦性心律	QRS低电压
+103166.txt	24	FEMALE	窦性心动过缓	临界ECG	窦性心律
+103167.txt	28	FEMALE	窦性心动过速	电轴右偏
+103168.txt	43	MALE	窦性心律	QRS低电压
+103169.txt	81	FEMALE	T波改变	窦性心动过缓
+103170.txt	32	MALE	窦性心律	T波改变
+103171.txt	46	FEMALE	窦性心律	QRS低电压
+103172.txt	29	FEMALE	窦性心律	ST段改变
+103173.txt	82	MALE	窦性心律	QRS低电压
+103174.txt			窦性心动过缓	左心室高电压
+103175.txt	88	MALE	窦性心律	ST-T改变	完全性右束支传导阻滞	左心室高电压
+103176.txt	24	MALE	窦性心律	电轴右偏
+103177.txt	41	MALE	窦性心律	正常ECG
+103178.txt	45	MALE	窦性心动过缓	临界ECG	QRS低电压
+103179.txt	76	MALE	窦性心律	电轴左偏
+103180.txt	36	FEMALE	窦性心律	T波改变
+103181.txt	28	FEMALE	窦性心律	QRS低电压
+103182.txt			窦性心律	电轴左偏
+103183.txt	25	FEMALE	ST-T改变	窦性心动过速
+103184.txt			窦性心律	房性早搏
+103185.txt	38	MALE	窦性心动过缓
+103186.txt		MALE	窦性心动过缓	临界ECG
+103187.txt	42	FEMALE	窦性心律	临界ECG	QRS低电压	室性早搏
+103188.txt	61	FEMALE	窦性心动过速	临界ECG	QRS低电压
+103189.txt	64	MALE	窦性心律	ST-T改变
+103190.txt	42	MALE	窦性心律	T波改变
+103191.txt	65	MALE	左心室高电压	心房颤动	快心室率
+103192.txt	26	FEMALE	窦性心动过速	临界ECG
+103193.txt	31	FEMALE	窦性心动过缓
+103194.txt	60	MALE	窦性心律	T波改变	室性早搏
+103195.txt	30	FEMALE	窦性心律	房性早搏
+103196.txt	31	FEMALE	窦性心动过缓
+103197.txt	45	MALE	窦性心律	电轴右偏
+103198.txt	79	MALE	窦性心律	房性早搏
+103199.txt	35	FEMALE	窦性心动过速	临界ECG
+103200.txt	59	FEMALE	窦性心律	QRS低电压
+103201.txt	83	MALE	心房颤动
+103202.txt	36	MALE	窦性心律	电轴右偏
+103203.txt	32	MALE	窦性心动过缓
+103204.txt	82	MALE	窦性心律	ST-T改变	左心室肥大
+103205.txt	83	MALE	窦性心律	QRS低电压
+103206.txt	73	MALE	心房颤动
+103207.txt	36	MALE	窦性心律	电轴左偏
+103208.txt	53	FEMALE	窦性心律	T波改变	室性早搏
+103209.txt	88	MALE	心房颤动
+103210.txt	24	FEMALE	窦性心律	临界ECG	电轴右偏
+103211.txt	32	MALE	窦性心律	临界ECG	电轴右偏
+103212.txt	83	MALE	心房颤动
+103213.txt	69	MALE	左心室高电压	ST-T改变	窦性心动过速	左心室肥大
+103214.txt	22	FEMALE	窦性心律	QRS低电压
+103215.txt	32	FEMALE	窦性心律	T波改变
+103216.txt	27	FEMALE	窦性心律	T波改变	QRS低电压
+103217.txt	52	MALE	窦性心律	正常ECG
+103218.txt			窦性心律	T波改变
+103219.txt	70	MALE	窦性心律	正常ECG
+103220.txt	24	FEMALE	窦性心动过缓
+103221.txt	57	FEMALE	窦性心律	ST段改变
+103222.txt	57	FEMALE	窦性心动过缓
+103223.txt			窦性心动过缓	临界ECG
+103224.txt	45	MALE	窦性心律	房性早搏
+103225.txt	26	FEMALE	窦性心律	T波改变	ST-T改变
+103226.txt	32	MALE	窦性心律	正常ECG
+103227.txt	67	MALE	窦性心律	房性早搏
+103228.txt	50	FEMALE	窦性心律	T波改变
+103229.txt	61	MALE	窦性心律	T波改变
+103230.txt			窦性心律	电轴左偏
+103231.txt	32	FEMALE	窦性心动过缓	临界ECG
+103232.txt	35	FEMALE	窦性心律	QRS低电压
+103233.txt	49	MALE	窦性心律	电轴右偏	正常ECG
+103234.txt	71	FEMALE	窦性心律	ST-T改变	左心室肥大
+103235.txt	39	FEMALE	窦性心律	QRS低电压
+103236.txt	59	MALE	窦性心律	完全性右束支传导阻滞
+103237.txt	66	FEMALE	窦性心律	T波改变
+103238.txt			窦性心律	电轴右偏
+103239.txt	43	FEMALE	窦性心律	ST-T改变
+103240.txt			窦性心动过缓
+103241.txt	34	FEMALE	窦性心律	T波改变
+103242.txt	33	FEMALE	窦性心动过速	临界ECG
+103243.txt	49	MALE	窦性心律	电轴左偏
+103244.txt	23	MALE	窦性心律	正常ECG
+103245.txt	22	MALE	窦性心律	临界ECG	室性早搏
+103246.txt	32	FEMALE	窦性心动过缓
+103247.txt	66	FEMALE	窦性心律	ST-T改变
+103248.txt	51	FEMALE	窦性心律	T波改变
+103249.txt	45	MALE	窦性心动过缓
+103250.txt	31	MALE	窦性心律	正常ECG
+103251.txt	50	MALE	窦性心律	电轴左偏
+103252.txt	22	MALE	窦性心动过缓
+103253.txt	56	FEMALE	窦性心动过缓	临界ECG
+103254.txt	61	FEMALE	窦性心动过缓
+103255.txt	48	FEMALE	窦性心动过缓
+103256.txt	74	FEMALE	窦性心律	T波改变	房性早搏
+103257.txt	37	FEMALE	窦性心律	ST段改变
+103258.txt	26	FEMALE	窦性心律	正常ECG
+103259.txt	30	FEMALE	窦性心律	ST段改变
+103260.txt	50	FEMALE	窦性心动过缓	临界ECG
+103261.txt	30	MALE	窦性心律	临界ECG	电轴右偏
+103262.txt	33	MALE	窦性心动过缓
+103263.txt			窦性心律	T波改变
+103264.txt	38	MALE	窦性心律	正常ECG
+103265.txt	22	FEMALE	窦性心律	房性早搏
+103266.txt	56	MALE	窦性心律	正常ECG
+103267.txt	23	FEMALE	窦性心律	T波改变
+103268.txt	46	FEMALE	窦性心动过缓
+103269.txt			窦性心律	QRS低电压
+103270.txt	24	MALE	窦性心动过缓
+103271.txt	69	MALE	心房颤动	快心室率
+103272.txt	51	MALE	窦性心动过缓	临界ECG
+103273.txt	65	MALE	窦性心律	ST-T改变	窦性心动过速
+103274.txt	43	FEMALE	窦性心律	T波改变
+103275.txt	84	MALE	窦性心律	T波改变
+103276.txt	26	MALE	窦性心律	电轴右偏
+103277.txt	27	MALE	窦性心动过速
+103278.txt			窦性心律	电轴左偏
+103279.txt	78	MALE	窦性心律	QRS低电压
+103280.txt	60	MALE	窦性心律	T波改变
+103281.txt	75	MALE	窦性心律	T波改变
+103282.txt	70	FEMALE	窦性心律	完全性右束支传导阻滞
+103283.txt	48	FEMALE	窦性心律	T波改变
+103284.txt	26	MALE	窦性心律	T波改变	左心室高电压
+103285.txt	51	MALE	窦性心律	正常ECG
+103286.txt	31	MALE	窦性心律	正常ECG
+103287.txt	31	MALE	窦性心动过速
+103288.txt	26	FEMALE	窦性心动过缓
+103289.txt			窦性心律	临界ECG	QRS低电压
+103290.txt	71	FEMALE	窦性心律	T波改变	室性早搏
+103291.txt	52	FEMALE	窦性心律	T波改变
+103292.txt	27	MALE	窦性心动过缓
+103293.txt	62	FEMALE	窦性心律	ST-T改变
+103294.txt			心房颤动
+103295.txt	28	FEMALE	窦性心律	临界ECG	电轴右偏
+103296.txt	23	FEMALE	窦性心律	临界ECG	电轴右偏
+103297.txt	67	MALE	窦性心律	电轴左偏
+103298.txt	65	FEMALE	窦性心律	T波改变	QRS低电压	室性早搏
+103299.txt	41	MALE	窦性心律	T波改变
+103300.txt	37	FEMALE	窦性心律	QRS低电压
+103301.txt			窦性心律	T波改变
+103302.txt	53	FEMALE	窦性心律	T波改变
+103303.txt	25	FEMALE	窦性心动过速
+103304.txt	26	FEMALE	ST-T改变	窦性心动过速
+103305.txt	22	FEMALE	窦性心律	T波改变
+103306.txt	47	MALE	窦性心律	正常ECG
+103307.txt	51	MALE	窦性心律	正常ECG
+103308.txt	27	FEMALE	窦性心动过速
+103309.txt	22	FEMALE	窦性心律	T波改变	电轴右偏
+103310.txt	44	MALE	窦性心动过缓	ST-T改变
+103311.txt	45	MALE	窦性心动过速	临界ECG	室性早搏
+103312.txt	52	MALE	窦性心律	ST-T改变
+103313.txt	82	FEMALE	窦性心律	QRS低电压	一度房室传导阻滞
+103314.txt	77		窦性心律	T波改变
+103315.txt	67	FEMALE	窦性心律	T波改变
+103316.txt	79	MALE	完全性右束支传导阻滞	左前分支传导阻滞
+103317.txt	72	MALE	心房颤动
+103318.txt	62	MALE	心房颤动
+103319.txt	37	MALE	窦性心动过缓	临界ECG
+103320.txt	30	FEMALE	窦性心律	T波改变
+103321.txt	38	MALE	窦性心动过缓	左心室高电压
+103322.txt			窦性心律	T波改变
+103323.txt	68	MALE	窦性心律	完全性右束支传导阻滞
+103324.txt	79	MALE	窦性心律	ST-T改变	房性早搏
+103325.txt	62	MALE	窦性心律	正常ECG
+103326.txt	19	MALE	窦性心律	正常ECG
+103327.txt	26	FEMALE	窦性心律	QRS低电压
+103328.txt	80	FEMALE	窦性心律	房性早搏
+103329.txt	45	MALE	窦性心律	窦性心动过缓	电轴左偏
+103330.txt	77	FEMALE	窦性心律	ST-T改变
+103331.txt			窦性心律	T波改变	QRS低电压
+103332.txt	73	FEMALE	室性早搏
+103333.txt	76	MALE	窦性心律	电轴左偏
+103334.txt	46	FEMALE	窦性心律	QRS低电压	临界ECG
+103335.txt	69	FEMALE	窦性心律	ST-T改变
+103336.txt	55	MALE	窦性心律	正常ECG
+103337.txt	82	MALE	窦性心律	房性早搏
+103338.txt	19	MALE	窦性心动过缓	临界ECG
+103339.txt	30	MALE	窦性心律	电轴右偏
+103340.txt	48	FEMALE	窦性心律	T波改变	ST-T改变
+103341.txt	62	MALE	窦性心律	房性早搏
+103342.txt	74	FEMALE	T波改变	窦性心动过缓	一度房室传导阻滞
+103343.txt	59	FEMALE	窦性心动过缓
+103344.txt	54	MALE	窦性心律	房性早搏
+103345.txt	39	MALE	窦性心动过缓
+103346.txt	36	FEMALE	ST段改变	窦性心动过速
+103347.txt	31	MALE	窦性心律	T波改变
+103348.txt			窦性心律	T波改变
+103349.txt	80	MALE	窦性心律	电轴左偏	一度房室传导阻滞	心房颤动
+103350.txt			窦性心律	T波改变
+103351.txt			窦性心律	T波改变	左心室高电压	一度房室传导阻滞
+103352.txt			窦性心律	T波改变	窦性心动过缓
+103353.txt	49	MALE	窦性心动过缓	左心室高电压
+103354.txt			T波改变	窦性心动过缓
+103355.txt			窦性心律	电轴左偏
+103356.txt	26	FEMALE	T波改变	窦性心动过速
+103357.txt	45	FEMALE	窦性心律	临界ECG	QRS低电压
+103358.txt	71	MALE	窦性心律	T波改变
+103359.txt	53	MALE	窦性心律	正常ECG
+103360.txt			窦性心律	T波改变
+103361.txt	25	FEMALE	窦性心动过速
+103362.txt	56	FEMALE	窦性心律	ST段改变
+103363.txt	31	FEMALE	窦性心动过缓
+103364.txt	43	MALE	窦性心律	左心室高电压	完全性右束支传导阻滞
+103365.txt			窦性心律	T波改变
+103366.txt	58	FEMALE	T波改变	窦性心动过缓
+103367.txt	5	FEMALE	窦性心律	临界ECG	电轴右偏
+103368.txt	89	MALE	窦性心律	完全性右束支传导阻滞
+103369.txt	38	MALE	窦性心律	正常ECG
+103370.txt	43	MALE	窦性心律	正常ECG
+103371.txt	64	FEMALE	窦性心律	T波改变
+103372.txt	94	MALE	窦性心律	ST-T改变	左心室肥大	一度房室传导阻滞
+103373.txt	54	MALE	窦性心动过缓	电轴左偏
+103374.txt			窦性心律	电轴左偏
+103375.txt	28	FEMALE	窦性心律	ST段改变
+103376.txt	49	MALE	窦性心律	正常ECG
+103377.txt	49	MALE	窦性心律	T波改变
+103378.txt	23	MALE	窦性心动过速	电轴右偏
+103379.txt	25	FEMALE	窦性心动过速	ST段改变
+103380.txt	62	FEMALE	窦性心律	ST段改变
+103381.txt	54	FEMALE	窦性心律	ST-T改变
+103382.txt	45	FEMALE	窦性心律	T波改变
+103383.txt			窦性心律	电轴右偏	临界ECG
+103384.txt	67	MALE	窦性心动过缓	电轴左偏
+103385.txt	25	MALE	窦性心动过缓	左心室高电压
+103386.txt	24	MALE	窦性心动过缓
+103387.txt	29	FEMALE	窦性心律	临界ECG	QRS低电压
+103388.txt			窦性心动过速
+103389.txt	41	MALE	窦性心律	T波改变
+103390.txt	45	FEMALE	窦性心动过速
+103391.txt	63	FEMALE	窦性心律	T波改变	QRS低电压
+103392.txt			窦性心律	T波改变
+103393.txt	22	FEMALE	窦性心律	T波改变
+103394.txt	22	FEMALE	窦性心动过缓
+103395.txt	50	MALE	心房颤动
+103396.txt	69	MALE	窦性心律	临界ECG	房性早搏
+103397.txt	35	FEMALE	T波改变	窦性心动过速
+103398.txt	80	MALE	ST-T改变	房性早搏	心房颤动	左心室肥大
+103399.txt	39	FEMALE	窦性心律	ST段改变
+103400.txt	34	FEMALE	窦性心律	QRS低电压
+103401.txt	50	MALE	窦性心动过缓	临界ECG
+103402.txt	85	FEMALE	窦性心律	T波改变
+103403.txt	26	MALE	窦性心律	电轴右偏	临界ECG
+103404.txt	32	FEMALE	窦性心律	正常ECG
+103405.txt	63	FEMALE	窦性心律	ST-T改变
+103406.txt	62	MALE	窦性心律	T波改变
+103407.txt	46	FEMALE	窦性心律	T波改变
+103408.txt	66	MALE	窦性心动过缓
+103409.txt	80	MALE	窦性心律	完全性右束支传导阻滞
+103410.txt	56	FEMALE	窦性心律	ST-T改变
+103411.txt	27	FEMALE	窦性心律	T波改变
+103412.txt			窦性心律	QRS低电压	ST段改变
+103413.txt	34	MALE	窦性心律	T波改变
+103414.txt			窦性心律	T波改变	左心室高电压
+103415.txt	26	FEMALE	窦性心动过速	临界ECG
+103416.txt	27	FEMALE	窦性心动过速	临界ECG
+103417.txt	47	MALE	窦性心动过速	临界ECG
+103418.txt	80	FEMALE	窦性心律	室性早搏
+103419.txt	54	FEMALE	窦性心律	正常ECG
+103420.txt	74	MALE	窦性心律	房性早搏
+103421.txt			窦性心律	电轴左偏
+103422.txt	48	MALE	窦性心动过缓
+103423.txt	57	MALE	心房颤动
+103424.txt	57		窦性心律	T波改变	电轴左偏
+103425.txt			窦性心律	T波改变
+103426.txt	41	MALE	窦性心动过速
+103427.txt	59	MALE	窦性心律
+103428.txt	23	FEMALE	窦性心律	临界ECG	QRS低电压
+103429.txt	25	FEMALE	窦性心动过缓	临界ECG
+103430.txt	72	MALE	心房颤动
+103431.txt	56	FEMALE	窦性心律	ST-T改变
+103432.txt			窦性心律	电轴右偏
+103433.txt	24	MALE	窦性心律	电轴右偏
+103434.txt	28	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+103435.txt	54	FEMALE	窦性心律	QRS低电压
+103436.txt	31	FEMALE	窦性心动过缓
+103437.txt	73	FEMALE	窦性心律	ST-T改变
+103438.txt	18	MALE	窦性心动过缓	临界ECG	电轴右偏
+103439.txt	35	MALE	窦性心动过缓
+103440.txt	46	MALE	窦性心动过缓
+103441.txt	56	MALE	窦性心律	正常ECG
+103442.txt	31	FEMALE	窦性心动过速
+103443.txt	40	MALE	窦性心律	电轴右偏	临界ECG
+103444.txt			窦性心动过缓
+103445.txt	24	FEMALE	窦性心动过缓
+103446.txt	47	MALE	窦性心律	T波改变
+103447.txt	27	FEMALE	窦性心动过速
+103448.txt	76	MALE	窦性心律	QRS低电压	房性早搏
+103449.txt	46	FEMALE	窦性心律	ST-T改变
+103450.txt			窦性心律	T波改变
+103451.txt	30	FEMALE	ST-T改变	窦性心动过速	ST段改变
+103452.txt	39	MALE	窦性心律	正常ECG
+103453.txt	50	FEMALE	窦性心动过缓	临界ECG
+103454.txt	32	FEMALE	窦性心律	ST-T改变
+103455.txt	53	MALE	心房颤动	室性早搏
+103456.txt	31	MALE	窦性心律	T波改变
+103457.txt			窦性心动过速	电轴右偏
+103458.txt	79	FEMALE	T波改变	心房颤动
+103459.txt	33	MALE	窦性心律	电轴左偏	房性早搏
+103460.txt	66	FEMALE	窦性心律	电轴左偏	室性早搏
+103461.txt	3	MALE	左心室高电压	窦性心动过速
+103462.txt	43	FEMALE	窦性心动过缓
+103463.txt			窦性心律	T波改变
+103464.txt	36	MALE	窦性心律	正常ECG
+103465.txt	27	FEMALE	窦性心律	QRS低电压
+103466.txt	48	FEMALE	窦性心律	ST-T改变
+103467.txt	30	FEMALE	窦性心律	临界ECG	QRS低电压
+103468.txt	49	MALE	窦性心动过缓
+103469.txt	57	MALE	窦性心律	正常ECG
+103470.txt	36	FEMALE	窦性心律	T波改变
+103471.txt	39	MALE	窦性心律	正常ECG
+103472.txt	77	FEMALE	窦性心律	临界ECG	房性早搏
+103473.txt	79	MALE	窦性心律	异常ECG	完全性右束支传导阻滞	右束支传导阻滞	电轴左偏
+103474.txt	58	MALE	T波改变	窦性心动过速	室性早搏
+103475.txt	55	FEMALE	窦性心律	ST-T改变
+103476.txt		MALE	心房颤动
+103477.txt	41	FEMALE	窦性心律	T波改变	QRS低电压
+103478.txt	44	MALE	窦性心动过缓
+103479.txt	42	MALE	窦性心动过缓
+103480.txt	65	FEMALE	窦性心律	T波改变
+103481.txt	70	MALE	窦性心律	T波改变
+103482.txt	41	MALE	窦性心律	房性早搏
+103483.txt	64	MALE	窦性心律	正常ECG
+103484.txt	60	MALE	窦性心律	ST-T改变	左心室肥大
+103485.txt	53	MALE	窦性心律	正常ECG
+103486.txt	33	FEMALE	窦性心律	QRS低电压
+103487.txt	61	MALE	T波改变	窦性心动过缓
+103488.txt	52	MALE	窦性心律	T波改变	房性早搏
+103489.txt	55	MALE	窦性心律	ST-T改变
+103490.txt	49	MALE	窦性心律	正常ECG
+103491.txt	32	FEMALE	窦性心律	临界ECG	QRS低电压
+103492.txt	61	MALE	心房颤动	快心室率
+103493.txt	66	FEMALE	窦性心律	T波改变	房性早搏
+103494.txt	46	FEMALE	窦性心律	窦性心动过缓
+103495.txt			窦性心动过速	电轴左偏
+103496.txt	37	MALE	窦性心律	正常ECG
+103497.txt	44	FEMALE	窦性心律	电轴左偏
+103498.txt	64	MALE	T波改变	窦性心动过缓
+103499.txt	36	MALE	窦性心动过缓	左心室高电压
+103500.txt	47	FEMALE	窦性心动过速	QRS低电压	电轴左偏
+103501.txt	40	MALE	窦性心律	临界ECG	电轴右偏	正常ECG
+103502.txt	43	MALE	窦性心动过缓
+103503.txt	29	MALE	窦性心动过缓	临界ECG
+103504.txt	61	MALE	窦性心律	完全性右束支传导阻滞
+103505.txt	37	MALE	窦性心动过缓	完全性右束支传导阻滞	窦性心律
+103506.txt	61	FEMALE	窦性心律	电轴左偏
+103507.txt	50	MALE	窦性心动过缓
+103508.txt	71	FEMALE	窦性心律	T波改变
+103509.txt	23	FEMALE	窦性心律	T波改变	心房颤动
+103510.txt	29	FEMALE	ST-T改变	窦性心动过速
+103511.txt			窦性心律	QRS低电压
+103512.txt	52	MALE	窦性心律	电轴左偏
+103513.txt	60	MALE	窦性心律	T波改变
+103514.txt	28	FEMALE	窦性心动过速
+103515.txt	61	FEMALE	窦性心律	T波改变	QRS低电压
+103516.txt	30	FEMALE	窦性心动过速
+103517.txt	49	FEMALE	窦性心律	QRS低电压
+103518.txt	24	MALE	窦性心动过缓
+103519.txt			窦性心动过缓	临界ECG
+103520.txt	51	MALE	窦性心律	T波改变	房性早搏
+103521.txt	20	MALE	窦性心律	临界ECG	电轴右偏
+103522.txt	74	MALE	窦性心律	QRS低电压
+103523.txt	48	FEMALE	窦性心律	QRS低电压
+103524.txt	49	MALE	窦性心律	T波改变
+103525.txt	37	FEMALE	窦性心律	临界ECG	QRS低电压
+103526.txt	49	MALE	窦性心律	左心室高电压
+103527.txt	27	FEMALE	窦性心律	T波改变
+103528.txt	19	MALE	窦性心律	电轴右偏
+103529.txt	26	FEMALE	窦性心律
+103530.txt	38	FEMALE	窦性心律	正常ECG
+103531.txt	77	MALE	窦性心律	完全性右束支传导阻滞
+103532.txt	51	FEMALE	窦性心律	T波改变
+103533.txt	16	FEMALE	窦性心动过缓	临界ECG	电轴右偏
+103534.txt	27	MALE	ST-T改变	窦性心动过速	T波改变
+103535.txt	34	MALE	窦性心律	房性早搏
+103536.txt	74	FEMALE	窦性心律	ST-T改变
+103537.txt			窦性心动过缓	左心室高电压
+103538.txt	77	FEMALE	T波改变	窦性心动过速	窦性心律
+103539.txt	25	FEMALE	窦性心律	ST-T改变
+103540.txt			窦性心律	T波改变
+103541.txt	41	FEMALE	窦性心动过缓
+103542.txt	28	MALE	窦性心律	电轴左偏
+103543.txt	74	FEMALE	窦性心律	QRS低电压
+103544.txt	49	MALE	窦性心律	T波改变
+103545.txt	34	MALE	窦性心动过速	临界ECG	电轴右偏
+103546.txt			窦性心律	T波改变
+103547.txt	59	MALE	窦性心律	T波改变
+103548.txt	25	FEMALE	窦性心律	T波改变
+103549.txt	43	MALE	窦性心动过速
+103550.txt	37	MALE	窦性心动过缓	临界ECG
+103551.txt			窦性心律	房性早搏
+103552.txt	57	MALE	窦性心律	T波改变	左心室高电压
+103553.txt			窦性心动过缓	临界ECG
+103554.txt	46	FEMALE	ST-T改变	窦性心动过速
+103555.txt	63	FEMALE	窦性心律	ST-T改变
+103556.txt	88	MALE	窦性心律	电轴左偏	完全性右束支传导阻滞	右束支传导阻滞
+103557.txt	76	MALE	窦性心律	T波改变	室性早搏
+103558.txt	35	FEMALE	窦性心动过缓
+103559.txt	4	MALE	窦性心动过速
+103560.txt			窦性心动过缓	ST段改变	左心室高电压
+103561.txt	63	FEMALE	窦性心律	ST-T改变	T波改变
+103562.txt	46	MALE	窦性心动过缓	临界ECG
+103563.txt	32	FEMALE	窦性心律	QRS低电压
+103564.txt	45	FEMALE	窦性心律	T波改变
+103565.txt	16	FEMALE	窦性心动过缓	临界ECG
+103566.txt	59	FEMALE	窦性心动过缓	临界ECG
+103567.txt	26	FEMALE	窦性心动过速
+103568.txt	35	FEMALE	窦性心律	QRS低电压
+103569.txt	25	MALE	窦性心动过缓
+103570.txt	79	MALE	窦性心律	QRS低电压
+103571.txt	41	MALE	窦性心律	ST-T改变	左心室肥大
+103572.txt			窦性心律	T波改变
+103573.txt	38	MALE	窦性心动过缓
+103574.txt	39	MALE	窦性心动过缓
+103575.txt	61	MALE	窦性心律	T波改变
+103576.txt	66	MALE	心房颤动
+103577.txt	59	FEMALE	窦性心动过缓	临界ECG
+103578.txt	53	MALE	窦性心律	电轴左偏
+103579.txt	36	FEMALE	窦性心律	T波改变
+103580.txt	35	MALE	窦性心律	电轴左偏
+103581.txt	52	MALE	窦性心律	电轴左偏
+103582.txt	85	FEMALE	窦性心律	T波改变
+103583.txt	32	FEMALE	窦性心律	ST-T改变
+103584.txt	33	FEMALE	窦性心律	QRS低电压
+103585.txt	68	MALE	窦性心动过缓	临界ECG
+103586.txt	21	FEMALE	ST-T改变	窦性心动过速
+103587.txt	60	MALE	窦性心律	ST-T改变
+103588.txt	67	MALE	窦性心律	ST-T改变	窦性心动过速
+103589.txt			窦性心律	ST-T改变
+103590.txt	25	MALE	窦性心律	房性早搏
+103591.txt	54	FEMALE	窦性心律	ST-T改变
+103592.txt	72	FEMALE	窦性心律	T波改变	ST-T改变
+103593.txt			窦性心动过缓
+103594.txt	31	MALE	窦性心律	电轴右偏
+103595.txt			窦性心律	临界ECG	电轴右偏
+103596.txt	51	MALE	T波改变	窦性心动过缓
+103597.txt			窦性心律	T波改变	ST-T改变
+103598.txt	31	FEMALE	窦性心律	ST-T改变
+103599.txt	24	MALE	窦性心律	电轴左偏
+103600.txt			窦性心律	T波改变	电轴左偏
+103601.txt	70	FEMALE	窦性心律	完全性右束支传导阻滞
+103602.txt	79	MALE	窦性心律	T波改变	左心室高电压
+103603.txt	35	MALE	窦性心律	正常ECG
+103604.txt	29	MALE	窦性心律	T波改变
+103605.txt			窦性心律	电轴右偏
+103606.txt	41	MALE	窦性心律	正常ECG
+103607.txt	50	MALE	窦性心律	T波改变
+103608.txt	44	MALE	窦性心动过缓
+103609.txt	38	FEMALE	窦性心律	T波改变
+103610.txt	24	FEMALE	T波改变	窦性心动过速
+103611.txt	25	FEMALE	T波改变	窦性心动过缓
+103612.txt	59	FEMALE	窦性心律	T波改变
+103613.txt	17	FEMALE	窦性心律	T波改变	电轴右偏
+103614.txt	45	FEMALE	ST-T改变	窦性心动过速	左心室肥大
+103615.txt	25	MALE	窦性心律	电轴右偏
+103616.txt	34	MALE	窦性心律	T波改变
+103617.txt	72	FEMALE	窦性心律	T波改变
+103618.txt	54	MALE	窦性心动过缓
+103619.txt	24	MALE	窦性心律	电轴右偏
+103620.txt			窦性心律	T波改变
+103621.txt	58	MALE	窦性心动过缓
+103622.txt	76	FEMALE	窦性心律	ST-T改变	室性早搏
+103623.txt	61	FEMALE	窦性心律	房性早搏
+103624.txt	48	FEMALE	窦性心动过速	房性早搏	窦性心律
+103625.txt	20	FEMALE	窦性心律	QRS低电压
+103626.txt			窦性心动过速
+103627.txt			窦性心律	房性早搏
+103628.txt	35	FEMALE	窦性心律	T波改变
+103629.txt	74	MALE	窦性心动过缓	临界ECG
+103630.txt	56	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+103631.txt			窦性心律	电轴左偏
+103632.txt	47	FEMALE	窦性心动过缓
+103633.txt	64	FEMALE	窦性心律	T波改变
+103634.txt	43	MALE	窦性心律	T波改变
+103635.txt	25	FEMALE	窦性心律	临界ECG	电轴右偏
+103636.txt			窦性心律	T波改变
+103637.txt	22	FEMALE	T波改变	ST-T改变	窦性心动过速
+103638.txt	63	FEMALE	窦性心律	ST段改变
+103639.txt	19	MALE	窦性心律	电轴右偏
+103640.txt	79	FEMALE	窦性心律	T波改变	ST-T改变
+103641.txt	28	FEMALE	窦性心律	临界ECG	电轴右偏
+103642.txt	69	MALE	T波改变	心房颤动
+103643.txt	22	MALE	窦性心动过缓
+103644.txt	30	FEMALE	窦性心律	电轴右偏
+103645.txt	47	FEMALE	ST-T改变	窦性心动过速	左心室肥大
+103646.txt	46	MALE	窦性心律	电轴左偏
+103647.txt	39	FEMALE	窦性心律	T波改变
+103648.txt	53	FEMALE	窦性心律	T波改变
+103649.txt	64	FEMALE	窦性心动过缓	临界ECG
+103650.txt	32	FEMALE	窦性心动过速
+103651.txt	22	FEMALE	窦性心动过缓
+103652.txt	31	MALE	窦性心律	完全性右束支传导阻滞
+103653.txt	60	MALE	窦性心律	完全性右束支传导阻滞
+103654.txt	30	MALE	窦性心律	电轴右偏
+103655.txt	75	MALE	窦性心律	房性早搏
+103656.txt	40	FEMALE	窦性心律	T波改变
+103657.txt	84	MALE	窦性心律	房性早搏	电轴左偏	异常ECG
+103658.txt	60	MALE	窦性心律	T波改变
+103659.txt	24	FEMALE	窦性心动过速	电轴右偏	临界ECG
+103660.txt	64	MALE	窦性心动过缓
+103661.txt	66	MALE	窦性心律	T波改变	左心室高电压
+103662.txt	53	FEMALE	窦性心动过速	QRS低电压	窦性心律
+103663.txt	24	FEMALE	窦性心动过缓	临界ECG
+103664.txt	25	MALE	窦性心律	电轴右偏	正常ECG
+103665.txt	51	MALE	窦性心律	QRS低电压
+103666.txt	63	MALE	窦性心律	ST-T改变
+103667.txt	35	FEMALE	窦性心律	临界ECG	电轴右偏
+103668.txt			ST段改变	窦性心动过速
+103669.txt	41	MALE	窦性心律	QRS低电压
+103670.txt			窦性心律	T波改变	正常ECG
+103671.txt	27	MALE	窦性心律	电轴右偏	临界ECG
+103672.txt	55	MALE	窦性心律	房性早搏
+103673.txt	56	MALE	窦性心律	完全性右束支传导阻滞
+103674.txt			窦性心动过速	房性早搏	完全性右束支传导阻滞
+103675.txt	68	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+103676.txt	57	MALE	窦性心动过缓	左心室高电压
+103677.txt	80	FEMALE	窦性心律	QRS低电压	房性早搏
+103678.txt	47	FEMALE	窦性心律	T波改变
+103679.txt	43	FEMALE	窦性心律	T波改变
+103680.txt	56	FEMALE	窦性心律	ST-T改变	房性早搏
+103681.txt	27	FEMALE	窦性心动过速	临界ECG
+103682.txt	37	FEMALE	窦性心动过速
+103683.txt	42	FEMALE	窦性心律	ST段改变
+103684.txt	59	FEMALE	窦性心律	T波改变
+103685.txt	40	FEMALE	窦性心律	正常ECG
+103686.txt			窦性心律	临界ECG	电轴右偏
+103687.txt			窦性心动过速
+103688.txt	82	MALE	窦性心律	电轴左偏	完全性左束支传导阻滞	左束支传导阻滞
+103689.txt	23	MALE	T波改变	左心室高电压	窦性心动过速
+103690.txt	39	MALE	窦性心动过速
+103691.txt	58	MALE	窦性心律	电轴左偏
+103692.txt	47	MALE	窦性心动过缓
+103693.txt	40	FEMALE	窦性心动过缓	临界ECG
+103694.txt	26	MALE	窦性心律	T波改变
+103695.txt	45	MALE	窦性心动过缓	临界ECG
+103696.txt	43	FEMALE	窦性心律	电轴左偏
+103697.txt			窦性心律	T波改变
+103698.txt			窦性心律	电轴左偏
+103699.txt	59	MALE	窦性心律	室性早搏	完全性右束支传导阻滞
+103700.txt	49	FEMALE	窦性心律	QRS低电压
+103701.txt	64	FEMALE	窦性心动过缓	临界ECG
+103702.txt	53	MALE	窦性心动过缓
+103703.txt	26	FEMALE	T波改变	ST-T改变	窦性心动过速
+103704.txt	66	FEMALE	窦性心律	T波改变
+103705.txt	46	FEMALE	窦性心律	电轴左偏
+103706.txt		MALE	窦性心律	正常ECG
+103707.txt	18	MALE	窦性心动过缓	左心室高电压
+103708.txt	20	MALE	窦性心律	左心室高电压
+103709.txt	93	FEMALE	窦性心律	左心室高电压	ST-T改变	房性早搏	左心室肥大
+103710.txt			窦性心律	电轴右偏
+103711.txt	39	FEMALE	窦性心动过速
+103712.txt	31	MALE	窦性心动过缓
+103713.txt	80	MALE	ST-T改变	心房颤动
+103714.txt	30	FEMALE	窦性心动过速
+103715.txt	69	FEMALE	窦性心动过缓	临界ECG
+103716.txt	29	FEMALE	窦性心律	临界ECG	QRS低电压
+103717.txt	37	MALE	窦性心律	完全性右束支传导阻滞
+103718.txt	50	MALE	窦性心动过缓	临界ECG	QRS低电压
+103719.txt	51	MALE	窦性心律	QRS低电压
+103720.txt	33	FEMALE	窦性心动过缓
+103721.txt	51	FEMALE	T波改变	窦性心动过缓	QRS低电压	非特异性T波异常
+103722.txt	52	MALE	窦性心动过缓
+103723.txt	79	MALE	窦性心律	ST-T改变
+103724.txt	52	FEMALE	窦性心动过缓
+103725.txt	80	FEMALE	窦性心律	ST-T改变
+103726.txt			窦性心律	电轴右偏
+103727.txt	56	MALE	窦性心律	正常ECG
+103728.txt			窦性心动过缓	电轴左偏
+103729.txt	58	MALE	窦性心律	QRS低电压
+103730.txt	23	FEMALE	窦性心律	电轴左偏	异常ECG	室性早搏
+103731.txt	57	MALE	窦性心律	正常ECG
+103732.txt	50	FEMALE	心房颤动	起搏心律	ST-T改变
+103733.txt	53	FEMALE	窦性心动过速	电轴右偏	临界ECG
+103734.txt			窦性心律	T波改变
+103735.txt	68	FEMALE	窦性心律	ST-T改变
+103736.txt	53	MALE	窦性心律	正常ECG
+103737.txt	28	MALE	室性早搏	完全性右束支传导阻滞	心房颤动	快心室率
+103738.txt	50	FEMALE	窦性心律	ST段改变	左心室高电压
+103739.txt	47	MALE	窦性心律	临界ECG	电轴右偏
+103740.txt	24	FEMALE	窦性心律	电轴右偏
+103741.txt	68	MALE	窦性心动过缓	电轴左偏
+103742.txt			心房颤动	快心室率
+103743.txt	62	FEMALE	窦性心律	QRS低电压
+103744.txt			窦性心律	T波改变
+103745.txt	24	FEMALE	窦性心律	ST-T改变
+103746.txt	30	FEMALE	窦性心动过速
+103747.txt	60	FEMALE	窦性心律	室性早搏
+103748.txt	57	MALE	窦性心律	电轴左偏
+103749.txt	46	MALE	窦性心律	正常ECG
+103750.txt			窦性心律	T波改变	电轴左偏
+103751.txt	45	FEMALE	窦性心动过缓
+103752.txt	41	MALE	窦性心动过缓
+103753.txt	35	MALE	窦性心律	QRS低电压	电轴左偏
+103754.txt	62	FEMALE	窦性心动过缓	房性早搏	窦性心律
+103755.txt	60	MALE	窦性心律	ST-T改变	ST段改变
+103756.txt	64	FEMALE	窦性心律	QRS低电压
+103757.txt	37	MALE	窦性心动过缓
+103758.txt	54	FEMALE	窦性心律	ST-T改变
+103759.txt	57	MALE	窦性心律	室性早搏	完全性右束支传导阻滞
+103760.txt	31	FEMALE	窦性心律	T波改变
+103761.txt	69	MALE	ST-T改变
+103762.txt	43	FEMALE	窦性心律	电轴左偏
+103763.txt	85	FEMALE	窦性心律	ST段改变	ST-T改变
+103764.txt			窦性心律	电轴右偏
+103765.txt			窦性心律	电轴左偏
+103766.txt	60	MALE	窦性心动过缓
+103767.txt	55	FEMALE	窦性心律	ST段改变
+103768.txt	26	FEMALE	窦性心律	电轴右偏
+103769.txt	36	MALE	窦性心动过缓
+103770.txt	42	MALE	窦性心律	正常ECG
+103771.txt	37	MALE	窦性心律	T波改变
+103772.txt	41	MALE	窦性心律	T波改变	左心室高电压
+103773.txt	54	FEMALE	窦性心律	T波改变
+103774.txt	24	FEMALE	窦性心律	QRS低电压
+103775.txt	58	FEMALE	窦性心律	房性早搏
+103776.txt	48	FEMALE	窦性心律	ST-T改变	室性早搏
+103777.txt			窦性心律	T波改变
+103778.txt			窦性心律	临界ECG	QRS低电压
+103779.txt	50	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+103780.txt	43	MALE	窦性心动过缓	临界ECG
+103781.txt	16	FEMALE	窦性心律	QRS低电压	临界ECG
+103782.txt	53	MALE	窦性心动过缓
+103783.txt	46	FEMALE	窦性心动过速
+103784.txt	64	MALE	心房颤动
+103785.txt			窦性心律	QRS低电压
+103786.txt	57	MALE	窦性心动过缓
+103787.txt	63	MALE	窦性心律	窦性心动过缓
+103788.txt	29	FEMALE	窦性心律	临界ECG	QRS低电压
+103789.txt	24	MALE	窦性心律	正常ECG
+103790.txt	65	MALE	窦性心动过缓
+103791.txt			窦性心动过缓
+103792.txt	37	MALE	窦性心律	T波改变
+103793.txt	82	MALE	窦性心动过缓	ST-T改变	左心室肥大
+103794.txt	63	FEMALE	窦性心律	ST-T改变	室性早搏
+103795.txt	76	FEMALE	窦性心律
+103796.txt	54	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+103797.txt	58	MALE	窦性心律	T波改变
+103798.txt	50	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+103799.txt	62	FEMALE	窦性心律	T波改变
+103800.txt	56	FEMALE	窦性心律	T波改变
+103801.txt	33	FEMALE	窦性心律	临界ECG	QRS低电压
+103802.txt	42	FEMALE	窦性心动过缓	临界ECG
+103803.txt	56	FEMALE	窦性心律	ST-T改变
+103804.txt	40	FEMALE	窦性心动过速
+103805.txt	23	MALE	窦性心动过缓
+103806.txt	66	FEMALE	窦性心律	T波改变	ST-T改变
+103807.txt	58	MALE	窦性心律	电轴左偏
+103808.txt	17	MALE	窦性心律	正常ECG
+103809.txt	63	FEMALE	窦性心律	QRS低电压	电轴左偏
+103810.txt	61	MALE	心房颤动	室性早搏
+103811.txt	28	FEMALE	窦性心律	ST-T改变
+103812.txt	32	MALE	窦性心律	电轴右偏
+103813.txt	46	MALE	窦性心律	临界ECG	电轴右偏
+103814.txt	76	MALE	窦性心动过缓
+103815.txt	62	FEMALE	窦性心律	T波改变
+103816.txt	75	MALE	窦性心动过速	QRS低电压
+103817.txt	76	MALE	左心室高电压	窦性心动过速
+103818.txt	29	FEMALE	窦性心律	ST-T改变
+103819.txt	23	FEMALE	窦性心动过速	ST段改变
+103820.txt			窦性心律	电轴左偏
+103821.txt	40	MALE	窦性心动过缓
+103822.txt	54	MALE	窦性心动过缓	临界ECG
+103823.txt	36	FEMALE	窦性心律	ST-T改变
+103824.txt	23	FEMALE	窦性心律	T波改变
+103825.txt	24	MALE	窦性心律	电轴右偏
+103826.txt	55	FEMALE	窦性心律	T波改变
+103827.txt	59	FEMALE	窦性心律	室性早搏
+103828.txt	36	FEMALE	窦性心律	QRS低电压
+103829.txt	27	FEMALE	窦性心律	正常ECG
+103830.txt	23	MALE	窦性心动过缓
+103831.txt	27	FEMALE	窦性心律	T波改变
+103832.txt			窦性心动过缓	临界ECG
+103833.txt	45	MALE	窦性心律	电轴左偏	异常ECG
+103834.txt	76	MALE	心房颤动	电轴左偏
+103835.txt	56	MALE	窦性心律	T波改变
+103836.txt	19	MALE	窦性心动过速	电轴右偏
+103837.txt	72	MALE	T波改变	窦性心动过缓
+103838.txt	24	MALE	窦性心律	正常ECG
+103839.txt	36	FEMALE	窦性心律	室性早搏
+103840.txt	27	FEMALE	窦性心律	QRS低电压
+103841.txt	35	FEMALE	窦性心动过速
+103842.txt	24	FEMALE	窦性心律	T波改变	ST-T改变
+103843.txt	63	FEMALE	窦性心律	ST-T改变
+103844.txt			窦性心律	QRS低电压
+103845.txt	82	MALE	窦性心律	临界ECG	QRS低电压	房性早搏
+103846.txt	34	MALE	窦性心律	T波改变
+103847.txt	27	FEMALE	窦性心律	QRS低电压
+103848.txt	50	MALE	窦性心律	ST-T改变	左心室肥大
+103849.txt			窦性心动过速
+103850.txt	50	MALE	窦性心律	T波改变
+103851.txt	56	FEMALE	窦性心律	ST-T改变	左心室肥大
+103852.txt	76	MALE	窦性心律	电轴左偏
+103853.txt	57	MALE	窦性心律	电轴右偏	临界ECG
+103854.txt	33	FEMALE	窦性心律	QRS低电压
+103855.txt	36	MALE	窦性心律	电轴左偏
+103856.txt			窦性心动过缓
+103857.txt	25	FEMALE	窦性心律	临界ECG	QRS低电压
+103858.txt			T波改变	窦性心动过速
+103859.txt	26	MALE	窦性心动过缓
+103860.txt	64	FEMALE	窦性心律	电轴左偏
+103861.txt	26	FEMALE	窦性心动过速	临界ECG
+103862.txt	29	FEMALE	T波改变	窦性心律
+103863.txt	78	MALE	窦性心动过缓	ST-T改变	左心室肥大
+103864.txt	64	FEMALE	窦性心律	ST-T改变
+103865.txt	54	MALE	窦性心律	ST-T改变
+103866.txt	69	MALE	窦性心律	完全性右束支传导阻滞
+103867.txt	39	FEMALE	窦性心律	T波改变
+103868.txt	45	MALE	窦性心律	ST-T改变	左心室肥大
+103869.txt	40	FEMALE	窦性心动过缓
+103870.txt	28	MALE	窦性心动过缓	临界ECG
+103871.txt	24	FEMALE	窦性心律	T波改变
+103872.txt	78	MALE	窦性心律	电轴左偏
+103873.txt	70	FEMALE	窦性心律	电轴左偏
+103874.txt	24	MALE	窦性心律	正常ECG
+103875.txt	21	FEMALE	ST段改变	窦性心动过速
+103876.txt	27	MALE	窦性心动过缓
+103877.txt	54	MALE	窦性心律	QRS低电压
+103878.txt	92	FEMALE	窦性心律	电轴左偏
+103879.txt	45	MALE	窦性心动过速
+103880.txt	48	FEMALE	窦性心动过缓
+103881.txt			窦性心律	ST-T改变	左心室肥大
+103882.txt	31	FEMALE	窦性心律
+103883.txt	50	FEMALE	窦性心律	异常ECG	完全性右束支传导阻滞	右束支传导阻滞
+103884.txt	60	FEMALE	窦性心律	ST段改变
+103885.txt	54	MALE	窦性心律	正常ECG
+103886.txt	47	MALE	窦性心律	T波改变
+103887.txt	51	MALE	窦性心律	正常ECG
+103888.txt	64	FEMALE	窦性心律	ST-T改变	左心室高电压
+103889.txt	44	FEMALE	窦性心律	QRS低电压
+103890.txt	57	MALE	窦性心律	T波改变	左心室高电压
+103891.txt			窦性心动过缓
+103892.txt	54	FEMALE	ST-T改变	窦性心动过速	房性早搏	左前分支传导阻滞	窦性心律	左心室肥大
+103893.txt	74	MALE	窦性心动过缓
+103894.txt	37	MALE	窦性心律	T波改变	左心室高电压	ST-T改变
+103895.txt	51	FEMALE	窦性心律	QRS低电压
+103896.txt	63	FEMALE	窦性心律	室性早搏
+103897.txt	31	FEMALE	窦性心律	QRS低电压	临界ECG
+103898.txt	63	MALE	窦性心律	T波改变
+103899.txt	51	MALE	窦性心动过缓	临界ECG
+103900.txt	67	FEMALE	窦性心律	ST-T改变
+103901.txt			窦性心律	电轴左偏
+103902.txt	50	FEMALE	窦性心律	QRS低电压
+103903.txt	67	MALE	电轴左偏	心房颤动
+103904.txt	50	MALE	T波改变	窦性心动过缓
+103905.txt	35	MALE	窦性心律	电轴右偏
+103906.txt	24	FEMALE	窦性心律	电轴右偏
+103907.txt	51	MALE	窦性心律	T波改变
+103908.txt	44	MALE	窦性心律	电轴左偏
+103909.txt	49	FEMALE	窦性心律	T波改变
+103910.txt	31	MALE	窦性心律	正常ECG
+103911.txt	33	FEMALE	窦性心律	电轴右偏	临界ECG
+103912.txt	49	FEMALE	窦性心律	T波改变	左心室高电压
+103913.txt	36	FEMALE	窦性心律	QRS低电压
+103914.txt	26	FEMALE	窦性心律	ST-T改变
+103915.txt	30	FEMALE	窦性心律
+103916.txt	35	FEMALE	窦性心动过缓	电轴右偏
+103917.txt	48	MALE	窦性心律	正常ECG
+103918.txt	26	MALE	窦性心动过速
+103919.txt			窦性心动过速
+103920.txt			窦性心动过缓	临界ECG
+103921.txt	66	MALE	窦性心律	完全性右束支传导阻滞
+103922.txt	70	MALE	窦性心律	QRS低电压
+103923.txt	59	MALE	T波改变	窦性心动过缓
+103924.txt	57	FEMALE	窦性心律	T波改变
+103925.txt	30	FEMALE	窦性心动过速	临界ECG
+103926.txt	56	FEMALE	窦性心动过缓
+103927.txt	64	MALE	窦性心律	正常ECG
+103928.txt	21	MALE	窦性心动过缓
+103929.txt	47	FEMALE	窦性心律	电轴左偏
+103930.txt	41	FEMALE	窦性心律	电轴右偏
+103931.txt			窦性心律	T波改变
+103932.txt	71	MALE	心房颤动	完全性右束支传导阻滞	快心室率	ST-T改变
+103933.txt	32	FEMALE	窦性心律	T波改变
+103934.txt	54	MALE	窦性心动过缓	临界ECG	QRS低电压
+103935.txt	80	FEMALE	窦性心律	正常ECG
+103936.txt	79	MALE	窦性心律	电轴左偏	异常ECG
+103937.txt	58	MALE	窦性心律	正常ECG
+103938.txt	39	FEMALE	窦性心律	T波改变	房性早搏
+103939.txt	45	MALE	窦性心律	T波改变	ST-T改变
+103940.txt	46	FEMALE	窦性心律	T波改变
+103941.txt			窦性心动过缓
+103942.txt	50	FEMALE	窦性心律	QRS低电压
+103943.txt	26	FEMALE	窦性心律	电轴左偏
+103944.txt	61	FEMALE	窦性心律	ST-T改变
+103945.txt			窦性心律	ST-T改变
+103946.txt	52	FEMALE	窦性心律	ST-T改变
+103947.txt	83	FEMALE	窦性心律	T波改变	房性早搏
+103948.txt			窦性心动过速
+103949.txt	62	MALE	窦性心律	完全性右束支传导阻滞	左前分支传导阻滞
+103950.txt	35	FEMALE	窦性心律	QRS低电压
+103951.txt	41	MALE	窦性心律	电轴左偏	异常ECG
+103952.txt	26	FEMALE	窦性心律	T波改变
+103953.txt	28	FEMALE	窦性心律	T波改变	电轴右偏
+103954.txt	49	FEMALE	窦性心律	T波改变
+103955.txt	36	FEMALE	窦性心律	ST段改变
+103956.txt	33	MALE	窦性心动过缓	临界ECG
+103957.txt	31	FEMALE	窦性心律	临界ECG	电轴右偏
+103958.txt	30	MALE	窦性心动过缓	临界ECG
+103959.txt	54	FEMALE	窦性心律	ST-T改变
+103960.txt	73	MALE	窦性心律	T波改变	房性早搏
+103961.txt	22	FEMALE	窦性心律	T波改变
+103962.txt	34	FEMALE	窦性心律	临界ECG	QRS低电压
+103963.txt	53	FEMALE	窦性心动过缓	临界ECG
+103964.txt	78	FEMALE	窦性心律	ST-T改变
+103965.txt	23	FEMALE	窦性心动过缓
+103966.txt	89	FEMALE	窦性心律	T波改变	一度房室传导阻滞
+103967.txt	46	FEMALE	窦性心律	T波改变
+103968.txt	63	MALE	窦性心动过速	房性早搏
+103969.txt	48	FEMALE	窦性心律	T波改变
+103970.txt	16	FEMALE	窦性心动过缓	临界ECG
+103971.txt	77	FEMALE	窦性心律	T波改变	电轴右偏
+103972.txt	49	MALE	窦性心律	电轴左偏
+103973.txt	34	MALE	窦性心律	电轴左偏
+103974.txt	47	FEMALE	窦性心律	T波改变	QRS低电压
+103975.txt	60	MALE	心房颤动
+103976.txt	35	MALE	窦性心律	T波改变
+103977.txt	55	FEMALE	窦性心律	电轴右偏
+103978.txt			窦性心动过缓
+103979.txt	56	FEMALE	窦性心律	ST-T改变
+103980.txt	44	MALE	窦性心动过缓	临界ECG
+103981.txt	41	MALE	窦性心律	正常ECG
+103982.txt	66	MALE	窦性心律	室性早搏	临界ECG
+103983.txt	46	MALE	窦性心律	QRS低电压
+103984.txt	53	FEMALE	窦性心律	ST-T改变
+103985.txt	42	FEMALE	窦性心律	ST段改变
+103986.txt	52	FEMALE	窦性心动过缓	ST-T改变
+103987.txt	62	MALE	窦性心律	完全性右束支传导阻滞
+103988.txt	51	MALE	窦性心动过缓	临界ECG
+103989.txt	50	FEMALE	窦性心律	ST-T改变
+103990.txt	53	MALE	QRS低电压	心房颤动
+103991.txt	79	FEMALE	窦性心律	电轴左偏	房性早搏
+103992.txt	65	MALE	窦性心动过速	ST-T改变
+103993.txt	50	FEMALE	窦性心动过缓	临界ECG
+103994.txt	38	MALE	窦性心律	正常ECG
+103995.txt	31	FEMALE	窦性心律	T波改变
+103996.txt	35	MALE	窦性心律	正常ECG
+103997.txt	33	MALE	窦性心律	左心室高电压
+103998.txt	29	FEMALE	窦性心律	ST-T改变
+103999.txt	69	FEMALE	窦性心动过速	电轴右偏
+104000.txt	56	MALE	窦性心律	ST-T改变
+104001.txt	31	FEMALE	窦性心律	ST-T改变
+104002.txt	27	MALE	窦性心律	电轴右偏
+104003.txt	87	MALE	窦性心律	T波改变	窦性心动过缓	电轴左偏	异常ECG	一度房室传导阻滞
+104004.txt	55	FEMALE	窦性心律	ST段改变
+104005.txt	23	FEMALE	窦性心律	T波改变
+104006.txt	26	FEMALE	窦性心动过速	临界ECG
+104007.txt			窦性心动过缓
+104008.txt	25	MALE	窦性心律	正常ECG
+104009.txt	36	FEMALE	窦性心律	QRS低电压	临界ECG
+104010.txt	39	FEMALE	窦性心律	ST-T改变	T波改变
+104011.txt	25	FEMALE	窦性心动过速	临界ECG	QRS低电压
+104012.txt	42	MALE	窦性心律	窦性心动过缓
+104013.txt	72	FEMALE	窦性心动过缓	临界ECG
+104014.txt	37	FEMALE	窦性心动过缓	QRS低电压
+104015.txt			窦性心动过缓	左心室高电压
+104016.txt	24	FEMALE	窦性心律
+104017.txt	57	MALE	窦性心律	正常ECG
+104018.txt	82	MALE	窦性心律	完全性右束支传导阻滞
+104019.txt	86	FEMALE	窦性心律	T波改变	完全性右束支传导阻滞
+104020.txt	49	FEMALE	窦性心律	T波改变	ST-T改变
+104021.txt	61	FEMALE	窦性心律	QRS低电压
+104022.txt	54	MALE	窦性心律	T波改变
+104023.txt	63	MALE	窦性心律	ST-T改变
+104024.txt	54	MALE	窦性心律	ST-T改变
+104025.txt	65	MALE	窦性心动过缓
+104026.txt	81	MALE	心房颤动
+104027.txt	76	FEMALE	窦性心律	ST-T改变
+104028.txt	49	FEMALE	窦性心动过缓	临界ECG
+104029.txt	62	MALE	窦性心动过缓
+104030.txt	61	MALE	窦性心律	QRS低电压
+104031.txt	45	MALE	窦性心动过缓	临界ECG
+104032.txt	46	FEMALE	窦性心律	T波改变
+104033.txt	61	MALE	窦性心动过缓	左心室高电压	一度房室传导阻滞
+104034.txt	40	FEMALE	窦性心律	ST-T改变
+104035.txt	51	FEMALE	窦性心律	T波改变
+104036.txt	41	MALE	窦性心律	ST-T改变
+104037.txt	44	FEMALE	窦性心律	T波改变
+104038.txt	62	FEMALE	窦性心律	心房颤动	室性早搏
+104039.txt	45	FEMALE	窦性心律	T波改变
+104040.txt	31	FEMALE	窦性心动过速	临界ECG
+104041.txt	59	MALE	窦性心动过缓
+104042.txt	82	FEMALE	心房颤动	室性早搏
+104043.txt	56	MALE	窦性心律	电轴左偏
+104044.txt	54	FEMALE	窦性心律	QRS低电压
+104045.txt	43	FEMALE	窦性心动过缓
+104046.txt	27	FEMALE	窦性心律	临界ECG	QRS低电压
+104047.txt	53	FEMALE	窦性心律	QRS低电压
+104048.txt	68	MALE	窦性心律	完全性右束支传导阻滞
+104049.txt	48	FEMALE	窦性心动过速
+104050.txt	50	MALE	窦性心动过缓
+104051.txt	72	MALE	窦性心律	电轴左偏	异常ECG	一度房室传导阻滞
+104052.txt	23	FEMALE	窦性心律	电轴右偏
+104053.txt	49	MALE	窦性心动过缓	电轴左偏
+104054.txt	30	FEMALE	窦性心律	T波改变
+104055.txt	54	MALE	窦性心律	T波改变
+104056.txt	39	FEMALE	心房颤动	快心室率
+104057.txt	34	FEMALE	窦性心律	T波改变
+104058.txt	27	FEMALE	窦性心动过速
+104059.txt	34	FEMALE	窦性心律	QRS低电压
+104060.txt	76	MALE	窦性心律	左心室高电压	完全性右束支传导阻滞
+104061.txt	44	FEMALE	窦性心律	窦性心动过缓
+104062.txt			窦性心动过速	临界ECG	电轴右偏
+104063.txt			窦性心律	电轴右偏
+104064.txt	40	FEMALE	窦性心律	临界ECG	QRS低电压
+104065.txt	65	MALE	窦性心动过缓	左心室高电压
+104066.txt	65	MALE	窦性心律	ST-T改变
+104067.txt	46	MALE	窦性心律	正常ECG
+104068.txt			窦性心动过速
+104069.txt	63	FEMALE	窦性心律	T波改变	室性早搏
+104070.txt	49	MALE	T波改变	窦性心动过缓
+104071.txt	48	FEMALE	窦性心律	QRS低电压
+104072.txt			心房颤动
+104073.txt	52	MALE	窦性心律	ST-T改变	左心室肥大
+104074.txt	49	FEMALE	窦性心律	室性早搏
+104075.txt	43	FEMALE	窦性心动过缓
+104076.txt	59	MALE	心房颤动
+104077.txt	76	FEMALE	窦性心律	ST段改变	ST-T改变	室性早搏
+104078.txt	54	MALE	窦性心律	正常ECG
+104079.txt	46	MALE	窦性心律	正常ECG
+104080.txt			ST-T改变	窦性心动过速	左前分支传导阻滞	电轴左偏
+104081.txt	63	MALE	窦性心律	正常ECG
+104082.txt	21	MALE	窦性心动过缓
+104083.txt	78	MALE	窦性心律	正常ECG
+104084.txt	40	FEMALE	窦性心律	电轴右偏
+104085.txt	77	MALE	窦性心律	完全性右束支传导阻滞
+104086.txt	71	MALE	窦性心律	完全性右束支传导阻滞
+104087.txt	64	MALE	窦性心律	T波改变
+104088.txt	34	MALE	窦性心律	T波改变	电轴左偏
+104089.txt	29	MALE	窦性心动过缓
+104090.txt	66	MALE	窦性心律	正常ECG
+104091.txt	54	MALE	T波改变	ST-T改变	心房颤动
+104092.txt	68	FEMALE	窦性心律	T波改变
+104093.txt	40	MALE	窦性心动过缓
+104094.txt	124	MALE	窦性心律
+104095.txt	24	MALE	临界ECG	电轴右偏	窦性心律
+104096.txt	57	MALE	窦性心律	室性早搏	完全性右束支传导阻滞	左心室高电压
+104097.txt	58	FEMALE	窦性心律	ST-T改变
+104098.txt	44	MALE	窦性心律	T波改变
+104099.txt	82	MALE	窦性心律	T波改变
+104100.txt	57	MALE	窦性心动过缓
+104101.txt	30	FEMALE	ST段改变	窦性心动过速
+104102.txt			窦性心律	T波改变
+104103.txt	59	MALE	窦性心律	T波改变	电轴左偏	左前分支传导阻滞
+104104.txt	44	FEMALE	窦性心律	QRS低电压
+104105.txt	61	MALE	ST-T改变	窦性心动过速	室性早搏
+104106.txt	50	MALE	T波改变	窦性心动过速
+104107.txt	65	MALE	窦性心律	房性早搏
+104108.txt	71	MALE	窦性心律	QRS低电压
+104109.txt	46	MALE	窦性心律	QRS低电压
+104110.txt	48	FEMALE	窦性心律	ST-T改变
+104111.txt	46	FEMALE	窦性心律	ST-T改变
+104112.txt	47	MALE	窦性心律	正常ECG
+104113.txt	66	FEMALE	窦性心律
+104114.txt	18	FEMALE	窦性心律	临界ECG	电轴右偏	窦性心律不齐
+104115.txt	49	MALE	窦性心动过缓	电轴左偏
+104116.txt	64	FEMALE	窦性心律	T波改变
+104117.txt	68	MALE	窦性心律	房性早搏
+104118.txt	64	MALE	窦性心律	正常ECG
+104119.txt	58	FEMALE	窦性心动过缓	一度房室传导阻滞	临界ECG
+104120.txt			窦性心动过缓	临界ECG
+104121.txt	74	FEMALE	窦性心律	电轴左偏
+104122.txt	46	FEMALE	窦性心律	T波改变
+104123.txt	19	FEMALE	窦性心动过速	窦性心律
+104124.txt			窦性心律	电轴右偏	临界ECG
+104125.txt			窦性心律	T波改变
+104126.txt			窦性心动过缓	临界ECG
+104127.txt			窦性心律	ST-T改变
+104128.txt	54	MALE	窦性心动过缓	临界ECG
+104129.txt	83	MALE	窦性心律	T波改变
+104130.txt	57	MALE	窦性心律	电轴左偏
+104131.txt	20	MALE	窦性心律	电轴右偏	临界ECG
+104132.txt	66	MALE	ST-T改变	心房颤动
+104133.txt	30	FEMALE	窦性心律	电轴右偏
+104134.txt	66	MALE	窦性心动过缓	临界ECG
+104135.txt	55	FEMALE	窦性心律	ST-T改变
+104136.txt			窦性心动过缓	临界ECG	QRS低电压
+104137.txt	32	MALE	窦性心动过缓	左心室高电压
+104138.txt	55	MALE	窦性心律	T波改变
+104139.txt	41	MALE	窦性心动过缓
+104140.txt	51	MALE	窦性心动过速
+104141.txt			窦性心律	临界ECG	电轴右偏
+104142.txt	83	FEMALE	窦性心律	T波改变	左心室高电压
+104143.txt	68	FEMALE	窦性心律
+104144.txt	21	MALE	窦性心律	临界ECG	电轴右偏
+104145.txt	29	FEMALE	窦性心律	QRS低电压
+104146.txt	30	FEMALE	窦性心动过速	临界ECG
+104147.txt			窦性心动过速
+104148.txt	60	MALE	窦性心动过缓	临界ECG
+104149.txt	52	MALE	窦性心动过缓
+104150.txt			窦性心动过缓	临界ECG
+104151.txt	41	MALE	窦性心律	正常ECG
+104152.txt	59	MALE	窦性心律	正常ECG
+104153.txt	33	FEMALE	窦性心动过缓	临界ECG
+104154.txt			窦性心律	QRS低电压
+104155.txt	29	MALE	窦性心律	电轴右偏
+104156.txt	72	MALE	窦性心律	房性早搏	完全性右束支传导阻滞	异常ECG
+104157.txt	73	MALE	窦性心律	电轴左偏
+104158.txt	48	MALE	窦性心动过缓
+104159.txt	70	MALE	窦性心律	T波改变
+104160.txt	24	MALE	窦性心动过速	临界ECG
+104161.txt	75	FEMALE	T波改变	心房颤动	室性早搏	起搏心律
+104162.txt	66	FEMALE	窦性心动过缓
+104163.txt	73	FEMALE	心房颤动	室性早搏
+104164.txt	81	MALE	窦性心律	T波改变
+104165.txt	53	FEMALE	窦性心律	ST段改变
+104166.txt	23	MALE	窦性心动过缓	临界ECG
+104167.txt			窦性心动过速	QRS低电压	临界ECG
+104168.txt	47	FEMALE	窦性心律	T波改变
+104169.txt	55	FEMALE	窦性心动过速
+104170.txt	18	MALE	窦性心律	电轴左偏
+104171.txt	75	FEMALE	窦性心律	T波改变	QRS低电压
+104172.txt	77	FEMALE	T波改变	心房颤动
+104173.txt	35	FEMALE	窦性心律	QRS低电压
+104174.txt			窦性心动过速
+104175.txt	59	MALE	T波改变	窦性心动过缓
+104176.txt	43	MALE	窦性心动过缓
+104177.txt	55	MALE	窦性心动过缓
+104178.txt	66	MALE	窦性心动过缓
+104179.txt	41	MALE	窦性心动过缓
+104180.txt	22	MALE	窦性心律	左心室高电压
+104181.txt	48	FEMALE	窦性心动过缓
+104182.txt	45	MALE	窦性心律	完全性右束支传导阻滞
+104183.txt	39	FEMALE	窦性心律	QRS低电压
+104184.txt	29	FEMALE	窦性心动过速
+104185.txt	46	FEMALE	左心室高电压	心房颤动
+104186.txt	48	MALE	窦性心律	T波改变	左心室高电压
+104187.txt			窦性心动过缓	临界ECG
+104188.txt	38	FEMALE	窦性心律	QRS低电压
+104189.txt	78	MALE	窦性心律	正常ECG	房性早搏
+104190.txt			窦性心动过缓
+104191.txt	58	MALE	窦性心动过缓	左心室高电压
+104192.txt	63	MALE	窦性心动过速	QRS低电压
+104193.txt	24	MALE	窦性心动过速
+104194.txt	21	MALE	窦性心动过速
+104195.txt			T波改变	窦性心动过缓
+104196.txt	75	FEMALE	窦性心律	房性早搏
+104197.txt	51	MALE	窦性心律	T波改变	左心室高电压
+104198.txt	23	MALE	窦性心动过速
+104199.txt	47	MALE	窦性心律	正常ECG
+104200.txt	41	MALE	窦性心律	完全性右束支传导阻滞
+104201.txt	59	FEMALE	窦性心律	T波改变
+104202.txt	71	FEMALE	窦性心律	电轴左偏	左束支传导阻滞
+104203.txt			窦性心律	T波改变	QRS低电压
+104204.txt	58	MALE	窦性心动过缓	完全性右束支传导阻滞
+104205.txt	62	MALE	心房颤动	室性早搏
+104206.txt	27	FEMALE	窦性心律	临界ECG	QRS低电压
+104207.txt	28	MALE	窦性心动过缓	左心室高电压
+104208.txt			窦性心律	T波改变	一度房室传导阻滞
+104209.txt	56	MALE	窦性心律	临界ECG	QRS低电压
+104210.txt	66	MALE	窦性心动过速	电轴左偏	异常ECG
+104211.txt			窦性心律	T波改变	电轴右偏
+104212.txt	33	FEMALE	窦性心律
+104213.txt	29	MALE	窦性心律	电轴右偏
+104214.txt			窦性心律	ST-T改变	左心室高电压
+104215.txt	27	MALE	ST-T改变	窦性心动过速	电轴右偏
+104216.txt	42	FEMALE	窦性心律	T波改变
+104217.txt	53	MALE	心房颤动
+104218.txt	44	FEMALE	窦性心律	电轴左偏
+104219.txt	61	MALE	窦性心动过缓	临界ECG
+104220.txt	31	MALE	窦性心动过缓
+104221.txt	50	FEMALE	窦性心动过缓
+104222.txt	47	FEMALE	窦性心动过缓
+104223.txt	21	MALE	窦性心律	完全性右束支传导阻滞
+104224.txt	49	MALE	窦性心律	正常ECG
+104225.txt	44	MALE	窦性心律	T波改变
+104226.txt	41	MALE	窦性心动过速
+104227.txt	26	FEMALE	窦性心律	T波改变	临界ECG	室性早搏
+104228.txt	49	FEMALE	窦性心律	ST-T改变
+104229.txt	62	MALE	窦性心律	正常ECG
+104230.txt			窦性心动过速	QRS低电压
+104231.txt	73	FEMALE	窦性心律	电轴左偏
+104232.txt	51	FEMALE	窦性心律	电轴左偏
+104233.txt	32	MALE	窦性心动过缓
+104234.txt	24	MALE	窦性心律	T波改变	左心室高电压
+104235.txt	30	FEMALE	窦性心律	临界ECG	QRS低电压
+104236.txt	35	FEMALE	窦性心律	电轴右偏
+104237.txt	24	FEMALE	窦性心动过缓	临界ECG
+104238.txt	53	FEMALE	窦性心律	ST-T改变
+104239.txt	24	MALE	窦性心律	T波改变
+104240.txt	38	MALE	窦性心律	完全性右束支传导阻滞
+104241.txt	82	FEMALE	窦性心律	T波改变
+104242.txt	25	MALE	窦性心动过缓
+104243.txt	80	MALE	窦性心律	房性早搏
+104244.txt	54	MALE	窦性心律	T波改变	完全性右束支传导阻滞
+104245.txt	21	FEMALE	窦性心律	临界ECG	电轴右偏	窦性心律不齐
+104246.txt	34	MALE	窦性心动过缓
+104247.txt	68	FEMALE	窦性心律	房性早搏
+104248.txt	71	MALE	窦性心律	ST-T改变	一度房室传导阻滞
+104249.txt	27	FEMALE	窦性心动过缓	临界ECG
+104250.txt	51	FEMALE	窦性心动过缓
+104251.txt	33	FEMALE	窦性心动过速	T波改变
+104252.txt	24	MALE	窦性心律	正常ECG
+104253.txt	47	FEMALE	窦性心律	T波改变	ST-T改变
+104254.txt	72	MALE	窦性心律	QRS低电压
+104255.txt	59	MALE	窦性心律	ST段改变
+104256.txt	70	MALE	窦性心律	ST-T改变	左心室肥大
+104257.txt	34	FEMALE	窦性心律	临界ECG	室性早搏
+104258.txt	28	FEMALE	窦性心律	QRS低电压
+104259.txt	23	FEMALE	窦性心动过速
+104260.txt	69	FEMALE	窦性心动过缓	QRS低电压
+104261.txt	67	FEMALE	窦性心动过速	临界ECG	房性早搏
+104262.txt	79	MALE	窦性心动过缓
+104263.txt	44	FEMALE	窦性心动过缓	临界ECG
+104264.txt	22	FEMALE	窦性心动过缓	临界ECG
+104265.txt	23	FEMALE	窦性心律	电轴右偏
+104266.txt			窦性心律	ST-T改变
+104267.txt	24	MALE	窦性心律	电轴右偏
+104268.txt	40	FEMALE	窦性心律	ST-T改变
+104269.txt	47	MALE	窦性心动过缓	临界ECG
+104270.txt	42	FEMALE	窦性心律	QRS低电压
+104271.txt	18	FEMALE	窦性心动过速	临界ECG	电轴右偏
+104272.txt	46	MALE	窦性心律	ST-T改变
+104273.txt	82	FEMALE	ST-T改变	QRS低电压	心房颤动
+104274.txt	49	FEMALE	窦性心动过缓	临界ECG
+104275.txt	76	MALE	左心室高电压	心房颤动
+104276.txt	59	FEMALE	窦性心律	QRS低电压
+104277.txt	43	FEMALE	窦性心律	临界ECG	QRS低电压
+104278.txt	54	MALE	窦性心律	正常ECG
+104279.txt	26	MALE	窦性心律	正常ECG
+104280.txt	47	FEMALE	窦性心律	T波改变
+104281.txt	24	MALE	窦性心动过速
+104282.txt			窦性心律	T波改变
+104283.txt	61	MALE	心房颤动	快心室率
+104284.txt	50	FEMALE	窦性心律	T波改变
+104285.txt	62	FEMALE	窦性心律	T波改变
+104286.txt	22	MALE	窦性心动过缓	左心室高电压
+104287.txt	55	MALE	窦性心律	电轴左偏
+104288.txt	92	FEMALE	窦性心律	T波改变	左心室高电压	房性早搏	左心室肥大
+104289.txt	70	FEMALE	窦性心律	ST-T改变
+104290.txt		MALE	窦性心律	房性早搏
+104291.txt			窦性心动过速	临界ECG
+104292.txt	67	MALE	心房颤动	T波改变
+104293.txt	71	MALE	ST段改变	窦性心动过速
+104294.txt	50	MALE	窦性心动过缓
+104295.txt	27	MALE	窦性心律	电轴右偏
+104296.txt	52	MALE	窦性心律	左心室高电压
+104297.txt	77	FEMALE	窦性心动过速	QRS低电压
+104298.txt			窦性心律	T波改变
+104299.txt			窦性心律	左心室高电压	房性早搏	左心室肥大
+104300.txt	47	FEMALE	窦性心动过速
+104301.txt	64	MALE	窦性心律	电轴左偏
+104302.txt	41	MALE	窦性心动过缓
+104303.txt	71	MALE	窦性心律	T波改变
+104304.txt	17	FEMALE	窦性心律	临界ECG	电轴右偏
+104305.txt	70	MALE	心房颤动
+104306.txt	76	FEMALE	窦性心动过缓	临界ECG
+104307.txt	77	FEMALE	窦性心律	ST段改变
+104308.txt	88	MALE	电轴左偏	心房颤动	左前分支传导阻滞	一度房室传导阻滞
+104309.txt			T波改变	窦性心动过速
+104310.txt	25	FEMALE	窦性心律	ST-T改变
+104311.txt	51	MALE	窦性心律	T波改变
+104312.txt	37	MALE	窦性心律	电轴右偏	临界ECG
+104313.txt	31	FEMALE	窦性心律	QRS低电压
+104314.txt	36	MALE	窦性心律	正常ECG
+104315.txt	67	FEMALE	窦性心律	房性早搏
+104316.txt	23	FEMALE	窦性心律	T波改变
+104317.txt			窦性心律	T波改变
+104318.txt			窦性心律	T波改变
+104319.txt	69	FEMALE	窦性心律	T波改变
+104320.txt	36	MALE	窦性心律	正常ECG
+104321.txt	81	MALE	ST-T改变	窦性心动过速
+104322.txt	32	FEMALE	窦性心律	T波改变	QRS低电压
+104323.txt	79	MALE	窦性心律	房性早搏
+104324.txt	29	FEMALE	窦性心动过速
+104325.txt	70	FEMALE	窦性心律	室性早搏
+104326.txt			窦性心动过缓
+104327.txt	4	FEMALE	窦性心律	临界ECG	电轴右偏
+104328.txt	47	FEMALE	窦性心律	QRS低电压
+104329.txt	23	FEMALE	窦性心律	临界ECG	电轴右偏
+104330.txt	73	MALE	窦性心律	ST-T改变
+104331.txt	27	MALE	窦性心律	正常ECG
+104332.txt	33	MALE	窦性心动过缓
+104333.txt	58	FEMALE	窦性心律	T波改变
+104334.txt	25	FEMALE	窦性心律	QRS低电压
+104335.txt	66	MALE	心房颤动
+104336.txt	55	MALE	窦性心律	T波改变
+104337.txt	54	MALE	窦性心律	T波改变
+104338.txt	30	FEMALE	窦性心动过缓	临界ECG
+104339.txt	55	MALE	窦性心律	T波改变
+104340.txt	24	MALE	窦性心律	正常ECG
+104341.txt	42	FEMALE	窦性心律	ST-T改变	窦性心动过速
+104342.txt	82	FEMALE	窦性心律	ST-T改变	左心室肥大
+104343.txt	76	FEMALE	窦性心律	ST-T改变
+104344.txt	35	FEMALE	窦性心动过速
+104345.txt			窦性心律	QRS低电压
+104346.txt	51	MALE	窦性心律	电轴左偏
+104347.txt	22	FEMALE	窦性心动过速	ST段改变
+104348.txt	45	FEMALE	窦性心律	T波改变
+104349.txt	83	MALE	窦性心律	完全性右束支传导阻滞
+104350.txt	22	MALE	窦性心律	完全性右束支传导阻滞
+104351.txt	79	FEMALE	窦性心律	T波改变
+104352.txt	78	MALE	窦性心律	临界ECG	QRS低电压	室性早搏
+104353.txt	25	FEMALE	窦性心律	T波改变
+104354.txt	72	FEMALE	窦性心律	T波改变
+104355.txt	26	MALE	窦性心律	电轴右偏
+104356.txt	78	FEMALE	心房颤动	快心室率
+104357.txt	49	FEMALE	窦性心律	QRS低电压
+104358.txt	58	MALE	心房颤动
+104359.txt	46	FEMALE	窦性心律	房性早搏
+104360.txt	24	MALE	窦性心律	T波改变
+104361.txt	48	FEMALE	窦性心动过缓	临界ECG
+104362.txt	65	MALE	窦性心律	正常ECG
+104363.txt	47	MALE	窦性心律	房性早搏
+104364.txt			窦性心律	电轴左偏
+104365.txt	41	MALE	窦性心律	T波改变
+104366.txt			窦性心律	ST-T改变
+104367.txt	50	FEMALE	窦性心动过缓
+104368.txt	45	FEMALE	窦性心律	室性早搏
+104369.txt	26	MALE	窦性心律	正常ECG
+104370.txt	79	MALE	T波改变	心房颤动	快心室率	快室率心房颤动
+104371.txt	26	FEMALE	窦性心律	电轴右偏
+104372.txt			窦性心动过速
+104373.txt	37	FEMALE	窦性心律	电轴左偏	异常ECG
+104374.txt	62	MALE	窦性心律	正常ECG
+104375.txt	60	MALE	窦性心律	QRS低电压
+104376.txt	73	MALE	窦性心律	左心室高电压
+104377.txt			窦性心律	ST段改变
+104378.txt	28	FEMALE	窦性心动过速
+104379.txt	36	FEMALE	窦性心动过缓
+104380.txt	26	FEMALE	窦性心动过速	电轴右偏
+104381.txt	3	MALE	窦性心动过速
+104382.txt			窦性心律	T波改变
+104383.txt	65	FEMALE	窦性心律	电轴左偏
+104384.txt	52	FEMALE	窦性心律	ST-T改变
+104385.txt			窦性心律	电轴右偏	正常ECG
+104386.txt	19	FEMALE	窦性心律	正常ECG
+104387.txt	28	MALE	窦性心律	正常ECG
+104388.txt	37	MALE	窦性心律	电轴右偏
+104389.txt	27	MALE	窦性心律	正常ECG	临界ECG
+104390.txt	37	FEMALE	窦性心律	电轴左偏
+104391.txt	44	FEMALE	窦性心律	QRS低电压
+104392.txt			窦性心律	T波改变	ST-T改变
+104393.txt	84	FEMALE	窦性心律	左心室高电压
+104394.txt	83	MALE	心房颤动
+104395.txt			窦性心律	ST-T改变
+104396.txt	24	MALE	窦性心律	临界ECG	电轴右偏
+104397.txt	53	MALE	窦性心律	左心室高电压
+104398.txt	85	FEMALE	ST-T改变	心房颤动	完全性右束支传导阻滞	左心室肥大	快心室率
+104399.txt	23	FEMALE	窦性心动过速	窦性心律
+104400.txt			窦性心动过缓	临界ECG
+104401.txt	62	MALE	窦性心律	T波改变
+104402.txt	59	MALE	窦性心律	正常ECG
+104403.txt	44	FEMALE	窦性心动过速
+104404.txt	53	MALE	窦性心律	正常ECG
+104405.txt	39	MALE	窦性心律	正常ECG
+104406.txt			窦性心动过缓	电轴右偏
+104407.txt	28	MALE	窦性心动过缓	临界ECG	电轴右偏
+104408.txt	64	MALE	窦性心动过缓	临界ECG
+104409.txt			窦性心律	T波改变
+104410.txt	24	MALE	窦性心律	正常ECG
+104411.txt			窦性心律	临界ECG	QRS低电压
+104412.txt	59	MALE	窦性心律	正常ECG
+104413.txt	66	MALE	窦性心律	电轴左偏
+104414.txt	64	MALE	T波改变	心房颤动	ST-T改变
+104415.txt	83	FEMALE	窦性心律	房性早搏
+104416.txt	36	MALE	窦性心律	正常ECG
+104417.txt	55	FEMALE	窦性心律	ST-T改变
+104418.txt	35	FEMALE	窦性心律	ST段改变
+104419.txt	27	FEMALE	窦性心律	QRS低电压
+104420.txt	25	MALE	窦性心动过缓	临界ECG
+104421.txt	70	FEMALE	窦性心律	ST-T改变	左心室肥大
+104422.txt	54	FEMALE	窦性心律	ST-T改变
+104423.txt	76	MALE	窦性心律	完全性右束支传导阻滞
+104424.txt	69	MALE	窦性心律	房性早搏
+104425.txt	52	FEMALE	窦性心动过缓	临界ECG
+104426.txt	34	MALE	窦性心律	正常ECG
+104427.txt	32	MALE	窦性心律	T波改变
+104428.txt	23	MALE	窦性心动过缓
+104429.txt	71	FEMALE	窦性心律	T波改变
+104430.txt	36	MALE	窦性心律	正常ECG
+104431.txt	77	MALE	心房颤动	ST段改变
+104432.txt	37	FEMALE	窦性心律	T波改变
+104433.txt	74	FEMALE	窦性心律	房性早搏
+104434.txt	79	FEMALE	窦性心动过缓
+104435.txt	50	FEMALE	窦性心动过缓	ST-T改变	QRS低电压
+104436.txt	69	FEMALE	窦性心律	T波改变
+104437.txt	38	MALE	窦性心动过速	临界ECG
+104438.txt	48	MALE	窦性心动过缓
+104439.txt	47	FEMALE	窦性心动过速
+104440.txt	26	MALE	心房颤动
+104441.txt	59	FEMALE	窦性心律	T波改变
+104442.txt	53	MALE	窦性心律	T波改变	左心室高电压
+104443.txt	29	MALE	窦性心律	电轴右偏	电轴左偏
+104444.txt	70	FEMALE	心房颤动	完全性右束支传导阻滞	快心室率
+104445.txt	42	FEMALE	窦性心律	ST-T改变
+104446.txt	59	FEMALE	窦性心律	ST段改变
+104447.txt	90	MALE	窦性心律	完全性右束支传导阻滞
+104448.txt	30	FEMALE	窦性心律	窦性心动过速
+104449.txt	36	MALE	窦性心动过缓
+104450.txt	34	FEMALE	窦性心律	QRS低电压
+104451.txt			窦性心律	临界ECG	电轴右偏
+104452.txt	86	MALE	窦性心律	完全性右束支传导阻滞	左前分支传导阻滞
+104453.txt	17	MALE	窦性心动过缓
+104454.txt	63	FEMALE	窦性心律	T波改变
+104455.txt	27	FEMALE	窦性心律	T波改变	ST段改变
+104456.txt	41	MALE	窦性心动过缓	电轴右偏
+104457.txt	28	MALE	窦性心动过缓	临界ECG
+104458.txt			窦性心动过速	电轴右偏
+104459.txt	77	FEMALE	窦性心律	ST-T改变	窦性心动过速	室性早搏
+104460.txt		FEMALE	窦性心律	房性早搏
+104461.txt	70	MALE	窦性心动过缓	临界ECG
+104462.txt	54	MALE	窦性心律	正常ECG
+104463.txt	50	MALE	窦性心律	正常ECG
+104464.txt	84	MALE	窦性心律	室性早搏	ST-T改变
+104465.txt	47	FEMALE	窦性心律	临界ECG	房性早搏
+104466.txt	48	FEMALE	窦性心律	ST段改变
+104467.txt	6	FEMALE	窦性心动过速
+104468.txt	44	FEMALE	窦性心律	室性早搏
+104469.txt	20	MALE	窦性心律	正常ECG
+104470.txt	51	FEMALE	窦性心律	T波改变
+104471.txt	41	FEMALE	窦性心律	电轴右偏
+104472.txt	62	FEMALE	窦性心律	左心室高电压	ST-T改变
+104473.txt	28	FEMALE	窦性心律	QRS低电压
+104474.txt	51	MALE	窦性心律	ST-T改变
+104475.txt	56	FEMALE	窦性心律	ST-T改变
+104476.txt	39	MALE	窦性心动过缓
+104477.txt			窦性心律	电轴右偏
+104478.txt	60	MALE	窦性心律	完全性右束支传导阻滞
+104479.txt	24	FEMALE	窦性心律	T波改变
+104480.txt	24	FEMALE	窦性心动过速	电轴右偏
+104481.txt	17	FEMALE	窦性心动过速
+104482.txt	46	FEMALE	窦性心律	QRS低电压	临界ECG
+104483.txt	20	FEMALE	窦性心律	电轴右偏	临界ECG
+104484.txt	57	FEMALE	T波改变	窦性心动过缓
+104485.txt	36	FEMALE	窦性心律	T波改变
+104486.txt	36	MALE	窦性心动过速
+104487.txt	2	MALE	窦性心动过速
+104488.txt	52	MALE	窦性心律	T波改变	ST-T改变
+104489.txt	28	MALE	窦性心动过速	临界ECG
+104490.txt	48	MALE	左心室高电压	窦性心动过缓
+104491.txt	61	MALE	窦性心律	电轴左偏
+104492.txt	33	MALE	窦性心动过缓
+104493.txt	44	MALE	窦性心动过缓	临界ECG
+104494.txt	28	FEMALE	窦性心动过速	临界ECG
+104495.txt	36	FEMALE	窦性心律	QRS低电压
+104496.txt	34	FEMALE	窦性心律	电轴右偏
+104497.txt			窦性心律	T波改变	ST-T改变
+104498.txt	63	FEMALE	窦性心律	电轴左偏
+104499.txt			窦性心律	电轴左偏	室性早搏
+104500.txt	27	FEMALE	窦性心律	电轴右偏	临界ECG
+104501.txt	34	FEMALE	窦性心律	T波改变	电轴左偏
+104502.txt	61	FEMALE	窦性心动过缓
+104503.txt	66	MALE	T波改变	心房颤动
+104504.txt	61	FEMALE	窦性心动过缓
+104505.txt	47	FEMALE	窦性心动过缓	临界ECG
+104506.txt	90	MALE	T波改变	QRS低电压	心房颤动
+104507.txt	45	FEMALE	窦性心律
+104508.txt	20	FEMALE	窦性心律	临界ECG	电轴右偏
+104509.txt	31	MALE	窦性心动过缓	左心室高电压
+104510.txt	47	FEMALE	窦性心律	QRS低电压
+104511.txt	75	FEMALE	心房颤动
+104512.txt	24	FEMALE	窦性心动过速	电轴左偏
+104513.txt	46	MALE	窦性心律	正常ECG
+104514.txt	36	FEMALE	窦性心律	T波改变
+104515.txt	81	FEMALE	窦性心律	房性早搏
+104516.txt	81	MALE	窦性心律	T波改变	电轴左偏
+104517.txt			窦性心律	临界ECG	电轴右偏
+104518.txt	54	FEMALE	窦性心律	T波改变	ST-T改变
+104519.txt	58	FEMALE	窦性心律	ST-T改变
+104520.txt	42	FEMALE	窦性心律	T波改变	电轴右偏
+104521.txt	44	FEMALE	窦性心律	ST-T改变
+104522.txt	59	MALE	窦性心律	正常ECG
+104523.txt	43	FEMALE	T波改变	窦性心动过缓
+104524.txt	37	FEMALE	窦性心律	QRS低电压
+104525.txt	53	FEMALE	T波改变	窦性心动过速
+104526.txt	45	MALE	窦性心律	电轴右偏
+104527.txt	39	FEMALE	窦性心律	室性早搏
+104528.txt	53	MALE	窦性心律	电轴左偏
+104529.txt	67	MALE	窦性心律	完全性右束支传导阻滞
+104530.txt	30	MALE	窦性心律	电轴右偏
+104531.txt	26	FEMALE	窦性心动过速	临界ECG	电轴右偏
+104532.txt	16	MALE	窦性心动过速	临界ECG	电轴右偏
+104533.txt	24	FEMALE	窦性心律	T波改变
+104534.txt	61	FEMALE	窦性心律	电轴左偏
+104535.txt	29	MALE	窦性心动过缓	左心室高电压
+104536.txt			窦性心动过缓
+104537.txt	27	FEMALE	窦性心动过速	临界ECG
+104538.txt	23	FEMALE	窦性心律	QRS低电压	临界ECG
+104539.txt			窦性心动过速
+104540.txt	62	FEMALE	窦性心律	T波改变
+104541.txt	70	FEMALE	窦性心动过速
+104542.txt	54	MALE	窦性心律	正常ECG
+104543.txt	93	MALE	窦性心律	QRS低电压	完全性右束支传导阻滞	不完全性右束支传导阻滞
+104544.txt	36	FEMALE	窦性心动过速	临界ECG
+104545.txt	75	MALE	窦性心律	室性早搏
+104546.txt	22	FEMALE	窦性心律	T波改变
+104547.txt	23	FEMALE	窦性心动过速	临界ECG
+104548.txt	45	FEMALE	窦性心律	T波改变
+104549.txt	48	MALE	窦性心动过缓
+104550.txt	27	FEMALE	窦性心动过速
+104551.txt			窦性心律	临界ECG	电轴右偏
+104552.txt			窦性心动过速
+104553.txt	55	FEMALE	窦性心律	T波改变	房性早搏
+104554.txt	30	FEMALE	窦性心律	电轴左偏
+104555.txt	37	FEMALE	窦性心律	T波改变
+104556.txt	24	FEMALE	窦性心动过速	ST段改变
+104557.txt	42	MALE	窦性心动过缓	临界ECG
+104558.txt	39	MALE	窦性心律	电轴右偏
+104559.txt	34	MALE	窦性心律	T波改变
+104560.txt	24	FEMALE	窦性心律	临界ECG	电轴右偏
+104561.txt	38	MALE	窦性心律	T波改变
+104562.txt	43	FEMALE	窦性心律	T波改变
+104563.txt	80	MALE	窦性心律	ST-T改变
+104564.txt	53	MALE	窦性心律	T波改变	左心室高电压	不完全性右束支传导阻滞
+104565.txt	59	MALE	窦性心律	左心室高电压
+104566.txt	35	MALE	窦性心律	电轴右偏
+104567.txt	27	FEMALE	窦性心律	ST段改变
+104568.txt	31	FEMALE	窦性心律	QRS低电压
+104569.txt	37	MALE	窦性心动过缓
+104570.txt	49	MALE	窦性心律	电轴左偏	异常ECG
+104571.txt	48	MALE	窦性心动过缓
+104572.txt	24	MALE	窦性心动过缓
+104573.txt			窦性心动过速
+104574.txt	49	MALE	窦性心律	ST-T改变
+104575.txt	20	MALE	窦性心律	正常ECG
+104576.txt	27	FEMALE	窦性心律	QRS低电压	窦性心动过速
+104577.txt	45	MALE	窦性心律	房性早搏
+104578.txt	54	FEMALE	窦性心律	ST段改变
+104579.txt	44	FEMALE	窦性心律	QRS低电压
+104580.txt	82	FEMALE	电轴左偏	心房颤动
+104581.txt		MALE	窦性心律	临界ECG	室性早搏
+104582.txt	35	FEMALE	窦性心动过缓	临界ECG
+104583.txt	43	MALE	窦性心动过缓
+104584.txt	43	MALE	窦性心律	正常ECG
+104585.txt	58	MALE	窦性心动过缓	完全性右束支传导阻滞
+104586.txt	56	MALE	窦性心律	临界ECG	室性早搏
+104587.txt	53	FEMALE	窦性心动过缓
+104588.txt			窦性心律	正常ECG
+104589.txt	45	FEMALE	窦性心动过缓
+104590.txt	50	MALE	窦性心律	T波改变
+104591.txt	20	FEMALE	窦性心律	ST段改变
+104592.txt	58	MALE	窦性心动过缓	临界ECG
+104593.txt	50	MALE	窦性心律	T波改变
+104594.txt			窦性心律	电轴左偏
+104595.txt			窦性心动过缓
+104596.txt	33	MALE	窦性心律	电轴右偏
+104597.txt	71	FEMALE	临界ECG	房性早搏
+104598.txt	76	MALE	窦性心律	电轴左偏
+104599.txt	61	FEMALE	窦性心律	T波改变	房性早搏	室性早搏
+104600.txt			T波改变	窦性心动过缓
+104601.txt	31	MALE	窦性心律	正常ECG
+104602.txt	53	FEMALE	窦性心律	ST-T改变
+104603.txt			窦性心律	T波改变
+104604.txt	20	MALE	窦性心律	电轴右偏	正常ECG
+104605.txt	24	MALE	窦性心律	正常ECG
+104606.txt	22	FEMALE	窦性心律
+104607.txt	50	MALE	窦性心律	正常ECG
+104608.txt			窦性心律	电轴左偏	左束支传导阻滞
+104609.txt	65	FEMALE	窦性心律	T波改变
+104610.txt	78	FEMALE	窦性心律	T波改变
+104611.txt	76	MALE	窦性心律	房性早搏
+104612.txt	37	FEMALE	窦性心动过速	电轴右偏	右心室肥大
+104613.txt	44	MALE	窦性心律	电轴右偏	临界ECG
+104614.txt			窦性心律	T波改变
+104615.txt	33	MALE	窦性心动过缓
+104616.txt	29	MALE	窦性心律	正常ECG
+104617.txt	31	FEMALE	窦性心律	正常ECG	ST段改变
+104618.txt	79	MALE	窦性心律	临界ECG	电轴右偏
+104619.txt	85	FEMALE	窦性心律	QRS低电压
+104620.txt	56	MALE	T波改变	窦性心动过速
+104621.txt	48	FEMALE	窦性心律	电轴右偏	临界ECG
+104622.txt			窦性心动过缓
+104623.txt	68	FEMALE	窦性心律	T波改变
+104624.txt			窦性心动过速
+104625.txt	58	FEMALE	窦性心动过缓
+104626.txt	43	MALE	窦性心动过速
+104627.txt	70	FEMALE	窦性心律	ST-T改变
+104628.txt			窦性心律	T波改变
+104629.txt			窦性心律	T波改变
+104630.txt	69	MALE	窦性心动过缓	临界ECG
+104631.txt	41	MALE	窦性心动过缓
+104632.txt	49	MALE	窦性心动过缓
+104633.txt			窦性心动过缓	临界ECG
+104634.txt			窦性心律	T波改变
+104635.txt	50	MALE	窦性心律	左心室高电压
+104636.txt	76	FEMALE	心房颤动
+104637.txt	61	FEMALE	窦性心律	T波改变	QRS低电压
+104638.txt	71	MALE	左心室高电压	心房颤动	室性早搏	完全性右束支传导阻滞
+104639.txt	33	FEMALE	T波改变	窦性心动过速
+104640.txt	30	FEMALE	窦性心动过速	临界ECG
+104641.txt	71	FEMALE	窦性心律	ST-T改变
+104642.txt	59	FEMALE	窦性心律	ST-T改变
+104643.txt	66	MALE	QRS低电压	心房颤动	室性早搏
+104644.txt	54	FEMALE	窦性心动过缓	临界ECG
+104645.txt	19	FEMALE	窦性心律	电轴右偏
+104646.txt	54	MALE	窦性心律
+104647.txt	68	FEMALE	窦性心动过缓	临界ECG
+104648.txt	43	MALE	窦性心动过缓	左心室高电压
+104649.txt	76	MALE	窦性心律	QRS低电压
+104650.txt	49	MALE	窦性心律	正常ECG
+104651.txt	31	MALE	窦性心律	电轴右偏
+104652.txt	53	MALE	窦性心律	T波改变	左心室高电压
+104653.txt		FEMALE	窦性心动过缓	临界ECG
+104654.txt	91	MALE	T波改变	窦性心动过缓	非特异性T波异常
+104655.txt	59	MALE	窦性心动过缓
+104656.txt			T波改变	窦性心动过速
+104657.txt	28	MALE	窦性心动过速
+104658.txt		FEMALE	窦性心动过速	临界ECG
+104659.txt	35	FEMALE	窦性心律	临界ECG	QRS低电压
+104660.txt	58	MALE	窦性心动过缓	QRS低电压	临界ECG
+104661.txt			窦性心律	电轴左偏
+104662.txt	57	FEMALE	窦性心动过缓	临界ECG
+104663.txt	56	FEMALE	窦性心律	房性早搏
+104664.txt			窦性心律	T波改变
+104665.txt	29	FEMALE	窦性心律	T波改变
+104666.txt	29	FEMALE	窦性心律	临界ECG	室性早搏
+104667.txt	75	MALE	窦性心律	正常ECG
+104668.txt	36	FEMALE	窦性心律	QRS低电压	临界ECG
+104669.txt	25	MALE	窦性心动过速
+104670.txt	25	FEMALE	窦性心律	ST-T改变
+104671.txt	20	FEMALE	窦性心律	QRS低电压	临界ECG
+104672.txt	56	MALE	窦性心动过缓	临界ECG
+104673.txt	76	FEMALE	窦性心律	T波改变
+104674.txt	77	MALE	T波改变	窦性心动过缓	心房颤动
+104675.txt	48	FEMALE	窦性心律	ST-T改变
+104676.txt	35	MALE	窦性心律
+104677.txt	33	FEMALE	窦性心律	T波改变	QRS低电压
+104678.txt	38	FEMALE	窦性心律	QRS低电压
+104679.txt	43	MALE	T波改变	窦性心动过缓
+104680.txt	28	FEMALE	窦性心动过缓	临界ECG
+104681.txt	50	FEMALE	T波改变	窦性心动过速	QRS低电压
+104682.txt	41	FEMALE	窦性心动过缓	临界ECG
+104683.txt	83	FEMALE	窦性心律	ST段改变
+104684.txt			窦性心律	ST-T改变
+104685.txt	86	FEMALE	窦性心律	QRS低电压
+104686.txt	73	FEMALE	窦性心律	T波改变	左心室高电压
+104687.txt	43	FEMALE	窦性心律	T波改变
+104688.txt	23	MALE	窦性心动过缓
+104689.txt	82	MALE	窦性心律	完全性右束支传导阻滞
+104690.txt	33	FEMALE	窦性心律	T波改变
+104691.txt	45	FEMALE	窦性心律	T波改变
+104692.txt	76	FEMALE	窦性心律	房性早搏
+104693.txt	50	FEMALE	T波改变	窦性心动过速	QRS低电压
+104694.txt	49	MALE	窦性心律	正常ECG
+104695.txt	23	FEMALE	窦性心律	T波改变
+104696.txt	18	FEMALE	窦性心律	电轴右偏
+104697.txt	37	FEMALE	窦性心律	临界ECG	电轴右偏
+104698.txt			窦性心律	QRS低电压
+104699.txt	21	MALE	窦性心动过缓	临界ECG
+104700.txt	22	FEMALE	窦性心律	T波改变	QRS低电压	电轴右偏
+104701.txt	24	MALE	窦性心律	电轴右偏	临界ECG
+104702.txt	35	FEMALE	窦性心律	电轴右偏
+104703.txt	28	FEMALE	窦性心律	T波改变
+104704.txt			窦性心律	电轴左偏
+104705.txt	64	MALE	窦性心律	房性早搏	室性早搏
+104706.txt	81	MALE	窦性心律	QRS低电压
+104707.txt	59	FEMALE	窦性心动过缓	临界ECG
+104708.txt			窦性心律	正常ECG	QRS低电压
+104709.txt	34	MALE	窦性心动过缓
+104710.txt	22	FEMALE	窦性心律	QRS低电压	临界ECG
+104711.txt	20	FEMALE	窦性心动过速	临界ECG
+104712.txt	69	FEMALE	窦性心动过缓
+104713.txt	35	FEMALE	窦性心律	QRS低电压
+104714.txt	69	FEMALE	窦性心律	ST-T改变
+104715.txt			窦性心动过缓	临界ECG
+104716.txt	35	MALE	窦性心动过缓
+104717.txt	21	FEMALE	窦性心动过速
+104718.txt	46	FEMALE	窦性心动过缓
+104719.txt			窦性心动过缓	临界ECG
+104720.txt	23	FEMALE	窦性心律	临界ECG	QRS低电压
+104721.txt	78	FEMALE	窦性心律	ST-T改变
+104722.txt	28	MALE	窦性心律	正常ECG
+104723.txt			窦性心动过缓
+104724.txt	21	FEMALE	窦性心动过速
+104725.txt	31	FEMALE	窦性心动过速
+104726.txt	55	FEMALE	T波改变	窦性心动过缓
+104727.txt	67	FEMALE	窦性心律	T波改变	一度房室传导阻滞
+104728.txt	67	FEMALE	窦性心律	T波改变
+104729.txt	59	MALE	窦性心律	QRS低电压
+104730.txt	52	MALE	窦性心律	ST-T改变
+104731.txt			窦性心动过速	临界ECG
+104732.txt	65	FEMALE	窦性心律	ST段改变
+104733.txt	24	FEMALE	T波改变	窦性心动过速
+104734.txt	33	FEMALE	窦性心律	电轴右偏	临界ECG
+104735.txt			窦性心律
+104736.txt	19	FEMALE	窦性心律	QRS低电压
+104737.txt	26	FEMALE	窦性心律	电轴右偏
+104738.txt	44	MALE	窦性心律	电轴左偏
+104739.txt	25	FEMALE	窦性心律	电轴右偏
+104740.txt	50	MALE	窦性心律	异常ECG	完全性右束支传导阻滞	右束支传导阻滞
+104741.txt			窦性心动过缓	临界ECG
+104742.txt	75	FEMALE	窦性心律	QRS低电压
+104743.txt	92	MALE	完全性右束支传导阻滞	ST-T改变	心房颤动
+104744.txt	68	MALE	窦性心动过缓
+104745.txt	34	MALE	窦性心动过缓
+104746.txt	82	MALE	窦性心律	房性早搏	完全性右束支传导阻滞	右束支传导阻滞	左前分支传导阻滞
+104747.txt			ST段改变	窦性心动过速
+104748.txt	49	FEMALE	窦性心律	ST-T改变
+104749.txt	44	FEMALE	窦性心律	ST-T改变
+104750.txt	27	FEMALE	窦性心律	电轴右偏	正常ECG
+104751.txt			窦性心动过速
+104752.txt	20	MALE	窦性心动过缓	左心室高电压
+104753.txt	67	FEMALE	窦性心律	T波改变
+104754.txt	51	MALE	窦性心律	正常ECG
+104755.txt	24	FEMALE	窦性心动过速
+104756.txt	59	FEMALE	ST-T改变	窦性心动过速
+104757.txt	50	MALE	窦性心律	T波改变	左心室高电压
+104758.txt	30	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+104759.txt	30	FEMALE	窦性心律	T波改变
+104760.txt	73	FEMALE	窦性心律	T波改变	电轴左偏	ST-T改变
+104761.txt	76	FEMALE	窦性心律	T波改变	电轴左偏
+104762.txt	74	MALE	窦性心律	完全性右束支传导阻滞
+104763.txt	86	MALE	ST-T改变	心房颤动	左心室肥大
+104764.txt	51	MALE	窦性心动过速	电轴右偏
+104765.txt	30	MALE	窦性心律	T波改变
+104766.txt			窦性心动过速
+104767.txt	26	FEMALE	窦性心动过缓
+104768.txt	54	MALE	窦性心律	正常ECG
+104769.txt	37	FEMALE	窦性心律	QRS低电压
+104770.txt	60	MALE	窦性心动过缓
+104771.txt	27	MALE	窦性心动过缓	临界ECG
+104772.txt			窦性心律	T波改变
+104773.txt	38	FEMALE	ST-T改变	窦性心动过速
+104774.txt	31	MALE	窦性心律	正常ECG
+104775.txt	59	FEMALE	临界ECG	房性早搏
+104776.txt			窦性心律	T波改变
+104777.txt			窦性心律	T波改变
+104778.txt	27	MALE	窦性心律	正常ECG
+104779.txt	45	FEMALE	窦性心律	QRS低电压
+104780.txt	72	MALE	心房颤动	快心室率
+104781.txt	39	MALE	窦性心律	电轴左偏
+104782.txt	41	FEMALE	窦性心律	QRS低电压
+104783.txt	84	MALE	窦性心律	异常ECG	完全性右束支传导阻滞	右束支传导阻滞	一度房室传导阻滞
+104784.txt	59	MALE	心房颤动
+104785.txt	43	FEMALE	窦性心律	电轴左偏
+104786.txt	55	MALE	窦性心动过缓
+104787.txt	59	MALE	窦性心动过缓
+104788.txt	33	FEMALE	窦性心动过速
+104789.txt	40	MALE	窦性心律	正常ECG
+104790.txt	4	FEMALE	窦性心律	临界ECG	室性早搏
+104791.txt	67	MALE	窦性心律	完全性右束支传导阻滞
+104792.txt	86	FEMALE	窦性心律	房性早搏
+104793.txt	24	FEMALE	窦性心动过速	临界ECG	电轴右偏
+104794.txt	31	MALE	窦性心律	电轴右偏
+104795.txt	50	FEMALE	窦性心动过缓	临界ECG
+104796.txt	70	FEMALE	窦性心律	ST-T改变
+104797.txt	93	MALE	窦性心律	房性早搏	电轴左偏	异常ECG	室性早搏
+104798.txt	72	FEMALE	心房颤动	室性早搏
+104799.txt	33	FEMALE	窦性心动过速	QRS低电压	心房颤动	室性早搏
+104800.txt	63	MALE	窦性心律	T波改变	电轴左偏
+104801.txt			窦性心律	室性早搏
+104802.txt	47	MALE	窦性心动过缓
+104803.txt	50	MALE	窦性心律	电轴左偏
+104804.txt	32	MALE	窦性心律	T波改变
+104805.txt	23	MALE	窦性心动过速	电轴右偏
+104806.txt			窦性心律	T波改变
+104807.txt	26	FEMALE	窦性心律	QRS低电压
+104808.txt	49	FEMALE	窦性心律	T波改变
+104809.txt	64	MALE	窦性心律	完全性右束支传导阻滞
+104810.txt	37	FEMALE	窦性心律	T波改变
+104811.txt	85	MALE	窦性心律	正常ECG
+104812.txt	79	MALE	心房颤动
+104813.txt	59	FEMALE	窦性心律	T波改变	ST-T改变
+104814.txt			窦性心动过缓
+104815.txt	62	MALE	窦性心律	左心室高电压	房性早搏
+104816.txt			窦性心律	T波改变	室性早搏
+104817.txt			窦性心动过缓	临界ECG
+104818.txt	44	MALE	窦性心动过缓
+104819.txt	53	MALE	T波改变	ST-T改变	窦性心动过速
+104820.txt	51	FEMALE	窦性心律	ST-T改变
+104821.txt	65	MALE	T波改变	窦性心动过缓
+104822.txt	28	FEMALE	窦性心律	QRS低电压
+104823.txt	31	MALE	窦性心动过缓
+104824.txt	51	FEMALE	窦性心动过速
+104825.txt	49	MALE	窦性心律	正常ECG
+104826.txt	69	FEMALE	窦性心律	ST-T改变
+104827.txt	21	MALE	窦性心律	正常ECG
+104828.txt	37	MALE	窦性心律	电轴左偏
+104829.txt	61	FEMALE	窦性心律	T波改变	QRS低电压
+104830.txt	66	FEMALE	窦性心律	ST-T改变
+104831.txt	44	FEMALE	窦性心律	QRS低电压
+104832.txt	53	FEMALE	T波改变	ST-T改变	窦性心动过速
+104833.txt	72	FEMALE	窦性心律	完全性右束支传导阻滞
+104834.txt	70	MALE	左心室高电压	心房颤动	室性早搏
+104835.txt	58	FEMALE	窦性心律	T波改变	ST-T改变
+104836.txt	28	MALE	窦性心动过缓	电轴左偏
+104837.txt	77	FEMALE	窦性心律	心房颤动
+104838.txt	28	FEMALE	窦性心律	T波改变
+104839.txt			窦性心动过缓
+104840.txt	61	MALE	窦性心动过缓	临界ECG
+104841.txt	58	MALE	窦性心动过缓	完全性右束支传导阻滞
+104842.txt	43	FEMALE	窦性心律	室性早搏
+104843.txt	68	MALE	窦性心律	完全性右束支传导阻滞
+104844.txt	66	MALE	窦性心律	电轴左偏
+104845.txt	84	FEMALE	窦性心律	ST-T改变
+104846.txt			窦性心律	临界ECG	房性早搏	室性早搏
+104847.txt	63	FEMALE	窦性心律	电轴左偏	异常ECG	左束支传导阻滞
+104848.txt	52	MALE	窦性心律	T波改变
+104849.txt	69	FEMALE	窦性心律	QRS低电压
+104850.txt	25	MALE	窦性心律	正常ECG
+104851.txt			窦性心律	电轴右偏
+104852.txt			窦性心律	电轴右偏
+104853.txt	30	FEMALE	T波改变	窦性心动过缓
+104854.txt	31	FEMALE	窦性心动过缓
+104855.txt			窦性心律	临界ECG	QRS低电压
+104856.txt	49	MALE	窦性心律	正常ECG
+104857.txt	78	FEMALE	窦性心律	T波改变
+104858.txt	27	FEMALE	窦性心动过速	电轴右偏
+104859.txt	78	MALE	T波改变	心房颤动	快心室率
+104860.txt	79	MALE	窦性心律	ST-T改变	左心室肥大	左心室高电压
+104861.txt	55	MALE	窦性心动过缓
+104862.txt	58	MALE	窦性心律	心房颤动
+104863.txt			窦性心律	电轴右偏
+104864.txt			窦性心律	ST-T改变	左心室肥大
+104865.txt	43	FEMALE	窦性心动过缓	临界ECG
+104866.txt	47	MALE	窦性心动过缓
+104867.txt	58	FEMALE	窦性心律	T波改变	正常ECG
+104868.txt	41	MALE	窦性心律	窦性心动过速	电轴左偏	异常ECG
+104869.txt	64	FEMALE	窦性心动过缓
+104870.txt	37	MALE	窦性心动过缓
+104871.txt	47	FEMALE	窦性心律	T波改变
+104872.txt	24	FEMALE	窦性心动过速
+104873.txt	68	MALE	窦性心律	完全性右束支传导阻滞
+104874.txt	36	FEMALE	窦性心律	T波改变
+104875.txt	50	MALE	窦性心律	完全性右束支传导阻滞
+104876.txt	68	MALE	心房颤动
+104877.txt	25	FEMALE	窦性心动过速	临界ECG
+104878.txt	24	MALE	窦性心律	正常ECG
+104879.txt	54	FEMALE	窦性心律	QRS低电压
+104880.txt	28	FEMALE	窦性心律	T波改变
+104881.txt			窦性心律	电轴左偏
+104882.txt	83	MALE	窦性心律	完全性右束支传导阻滞
+104883.txt	33	FEMALE	窦性心律	电轴左偏	异常ECG
+104884.txt	74	FEMALE	窦性心动过缓	临界ECG
+104885.txt	43	MALE	窦性心律	T波改变	左心室高电压
+104886.txt			窦性心动过缓	左心室高电压
+104887.txt	54	FEMALE	窦性心律	T波改变
+104888.txt	85	MALE	窦性心律	临界ECG	房性早搏
+104889.txt	25	MALE	窦性心律	电轴右偏
+104890.txt	33	MALE	窦性心律	正常ECG
+104891.txt	24	FEMALE	窦性心动过缓
+104892.txt			窦性心律
+104893.txt	28	FEMALE	窦性心律	T波改变
+104894.txt	45	FEMALE	窦性心律	T波改变
+104895.txt	36	MALE	窦性心律	T波改变
+104896.txt	24	FEMALE	窦性心律	ST-T改变
+104897.txt	39	FEMALE	房性早搏	窦性心律
+104898.txt	66	MALE	窦性心动过缓	ST-T改变	左心室肥大
+104899.txt	21	FEMALE	窦性心律	电轴右偏
+104900.txt	22	MALE	窦性心动过缓
+104901.txt	62	MALE	窦性心动过缓	临界ECG
+104902.txt	47	MALE	窦性心动过缓
+104903.txt	20	FEMALE	窦性心律	T波改变
+104904.txt	33	MALE	窦性心动过缓	电轴右偏
+104905.txt	83	MALE	心房颤动	快心室率
+104906.txt	31	MALE	窦性心律	正常ECG
+104907.txt	46	FEMALE	窦性心律	T波改变
+104908.txt	26	FEMALE	窦性心律	QRS低电压
+104909.txt	23	FEMALE	窦性心律	QRS低电压
+104910.txt	52	MALE	窦性心律	T波改变
+104911.txt			窦性心动过缓	临界ECG
+104912.txt	45	MALE	窦性心律	正常ECG
+104913.txt	86	MALE	心房颤动	完全性右束支传导阻滞
+104914.txt	53	FEMALE	窦性心律	T波改变
+104915.txt	49	FEMALE	窦性心动过缓
+104916.txt	33	FEMALE	窦性心律	T波改变
+104917.txt	51	MALE	窦性心律	正常ECG
+104918.txt	52	FEMALE	窦性心律	ST-T改变
+104919.txt	81	FEMALE	窦性心律	ST-T改变
+104920.txt	55	FEMALE	窦性心律	ST-T改变
+104921.txt	24	FEMALE	窦性心律	临界ECG	QRS低电压
+104922.txt	47	MALE	窦性心动过缓	临界ECG
+104923.txt	38	FEMALE	窦性心律	临界ECG	QRS低电压
+104924.txt	26	FEMALE	窦性心动过速	临界ECG
+104925.txt	45	FEMALE	窦性心律	T波改变
+104926.txt	24	MALE	窦性心动过速
+104927.txt			窦性心动过缓	临界ECG	一度房室传导阻滞
+104928.txt	22	MALE	窦性心动过速	左心室高电压
+104929.txt	71	FEMALE	窦性心律	ST-T改变	房性早搏
+104930.txt	46	MALE	窦性心律	T波改变	ST-T改变
+104931.txt	38	MALE	窦性心律	ST-T改变
+104932.txt	51	MALE	窦性心律	T波改变	ST-T改变	室性早搏	窦性心动过缓
+104933.txt	76	FEMALE	窦性心律	T波改变
+104934.txt	62	MALE	窦性心律	QRS低电压
+104935.txt	30	FEMALE	窦性心律	T波改变
+104936.txt	56	MALE	窦性心律	T波改变	左心室高电压
+104937.txt	27	MALE	窦性心律	正常ECG
+104938.txt	78	MALE	心房颤动
+104939.txt	47	FEMALE	窦性心动过缓
+104940.txt			窦性心动过缓
+104941.txt	27	MALE	窦性心律	正常ECG
+104942.txt	77	MALE	心房颤动
+104943.txt	81	FEMALE	窦性心律	QRS低电压	房性早搏
+104944.txt	39	MALE	窦性心律	ST-T改变
+104945.txt	29	MALE	窦性心律	电轴右偏
+104946.txt	78	FEMALE	ST-T改变	心房颤动	左心室肥大
+104947.txt	34	FEMALE	窦性心律	QRS低电压
+104948.txt	42	FEMALE	窦性心律	QRS低电压
+104949.txt	46	FEMALE	窦性心律	QRS低电压
+104950.txt	49	MALE	窦性心律	正常ECG
+104951.txt	36	FEMALE	窦性心律	临界ECG	房性早搏
+104952.txt	81	FEMALE	ST-T改变	心房颤动	快心室率
+104953.txt	55	FEMALE	窦性心律	T波改变
+104954.txt	66	MALE	心房颤动
+104955.txt	63	FEMALE	窦性心律	QRS低电压
+104956.txt	78	MALE	窦性心律	电轴左偏
+104957.txt			窦性心动过速
+104958.txt	31	FEMALE	窦性心律	QRS低电压	电轴左偏
+104959.txt	73	MALE	窦性心律	ST-T改变	左心室肥大
+104960.txt	36	MALE	窦性心动过缓
+104961.txt	51	MALE	T波改变	心房颤动
+104962.txt	58	MALE	窦性心律	T波改变
+104963.txt	27	MALE	窦性心动过缓	临界ECG
+104964.txt			窦性心律	T波改变
+104965.txt	65	MALE	窦性心动过缓	临界ECG	QRS低电压
+104966.txt	40	FEMALE	心房颤动	慢心室率
+104967.txt	66	MALE	窦性心律	T波改变	ST-T改变	电轴左偏
+104968.txt	28	FEMALE	窦性心动过缓
+104969.txt	35	FEMALE	窦性心律	临界ECG	QRS低电压	房性早搏
+104970.txt	82	FEMALE	窦性心律	T波改变	左心室高电压
+104971.txt	35	MALE	窦性心律
+104972.txt	61	FEMALE	窦性心律	T波改变	QRS低电压	电轴左偏
+104973.txt	83	FEMALE	窦性心动过速	QRS低电压
+104974.txt	38	FEMALE	窦性心律	QRS低电压	临界ECG
+104975.txt	21	FEMALE	ST段改变	窦性心动过速
+104976.txt	45	FEMALE	窦性心律	临界ECG	电轴右偏
+104977.txt	56	MALE	窦性心律	正常ECG
+104978.txt	55	MALE	窦性心律	T波改变
+104979.txt	52	FEMALE	窦性心律	ST-T改变
+104980.txt	9	FEMALE	窦性心律
+104981.txt	21	FEMALE	窦性心律	ST段改变	ST-T改变
+104982.txt	58	MALE	窦性心律	正常ECG
+104983.txt	79	FEMALE	窦性心律	ST-T改变	完全性右束支传导阻滞	左心室肥大
+104984.txt	43	FEMALE	窦性心律	T波改变
+104985.txt	57	FEMALE	窦性心动过速	QRS低电压
+104986.txt	33	MALE	窦性心律	室性早搏
+104987.txt	30	MALE	窦性心动过速
+104988.txt	57	MALE	窦性心律	电轴右偏
+104989.txt	95	MALE	窦性心律	电轴左偏
+104990.txt	30	FEMALE	ST-T改变	窦性心动过速
+104991.txt	80	FEMALE	窦性心律	T波改变	房性早搏	室性早搏
+104992.txt	42	FEMALE	窦性心律	QRS低电压
+104993.txt			窦性心律	T波改变
+104994.txt	60	FEMALE	窦性心律	室性早搏
+104995.txt			窦性心律	T波改变	正常ECG
+104996.txt	54	FEMALE	T波改变	窦性心动过缓	ST-T改变
+104997.txt	79	FEMALE	窦性心律	T波改变
+104998.txt			窦性心律	电轴右偏
+104999.txt	25	FEMALE	窦性心律	ST-T改变
+105000.txt	27	MALE	窦性心律	临界ECG	电轴右偏
+105001.txt	30	FEMALE	窦性心律	T波改变
+105002.txt	39	FEMALE	窦性心律	T波改变
+105003.txt	33	FEMALE	窦性心律	QRS低电压
+105004.txt	56	MALE	窦性心动过缓
+105005.txt	30	FEMALE	窦性心律	T波改变
+105006.txt		MALE	窦性心律	正常ECG
+105007.txt	54	FEMALE	窦性心律	QRS低电压
+105008.txt	21	MALE	窦性心动过速
+105009.txt	69	MALE	窦性心动过速
+105010.txt	69	FEMALE	窦性心律	T波改变
+105011.txt	21	FEMALE	窦性心动过缓
+105012.txt	56	MALE	窦性心律	QRS低电压
+105013.txt	49	FEMALE	窦性心动过缓	临界ECG
+105014.txt	47	MALE	窦性心律	临界ECG	电轴右偏
+105015.txt	49	MALE	窦性心律	完全性右束支传导阻滞
+105016.txt	62	MALE	窦性心动过缓
+105017.txt	41	MALE	窦性心律	正常ECG
+105018.txt	53	FEMALE	窦性心律	室性早搏	临界ECG
+105019.txt	53	MALE	窦性心律	T波改变
+105020.txt	28	FEMALE	窦性心律	T波改变
+105021.txt	37	FEMALE	窦性心律	QRS低电压
+105022.txt	22	MALE	窦性心动过缓	左心室高电压
+105023.txt	57	MALE	窦性心律	T波改变	ST-T改变
+105024.txt	83	MALE	窦性心动过速	房性早搏	异常ECG
+105025.txt	62	FEMALE	窦性心律	窦性心动过缓	临界ECG
+105026.txt	46	MALE	窦性心律	T波改变	房性早搏
+105027.txt	37	MALE	窦性心律	正常ECG
+105028.txt	81	MALE	窦性心律	QRS低电压
+105029.txt	22	MALE	窦性心律	T波改变	窦性心动过速
+105030.txt			窦性心律	T波改变
+105031.txt	27	MALE	窦性心律	ST-T改变
+105032.txt	51	FEMALE	窦性心动过缓	ST段改变
+105033.txt	83	FEMALE	窦性心律	QRS低电压
+105034.txt			窦性心动过缓	电轴右偏
+105035.txt	24	MALE	窦性心律	正常ECG
+105036.txt	49	MALE	窦性心律	ST-T改变
+105037.txt	53	MALE	窦性心律	正常ECG
+105038.txt	50	MALE	窦性心律	正常ECG
+105039.txt	37	FEMALE	窦性心律	QRS低电压
+105040.txt	22	MALE	窦性心动过缓
+105041.txt	26	FEMALE	窦性心动过速	临界ECG	QRS低电压
+105042.txt	36	FEMALE	窦性心律	电轴右偏	临界ECG
+105043.txt	22	MALE	窦性心动过缓
+105044.txt	81	FEMALE	窦性心律	T波改变	ST-T改变
+105045.txt			窦性心动过速	临界ECG
+105046.txt	76	MALE	窦性心律	T波改变
+105047.txt	60	FEMALE	窦性心律	T波改变	窦性心动过缓
+105048.txt	23	FEMALE	窦性心律	ST段改变
+105049.txt	53	MALE	窦性心律	ST-T改变
+105050.txt	57	FEMALE	窦性心律	ST-T改变	QRS低电压
+105051.txt			窦性心动过缓	临界ECG
+105052.txt	82	MALE	心房颤动	快心室率
+105053.txt	52	MALE	窦性心动过缓
+105054.txt	84	MALE	窦性心律	T波改变	房性早搏
+105055.txt	78	MALE	窦性心动过缓
+105056.txt	47	FEMALE	窦性心律	电轴左偏
+105057.txt	78	MALE	窦性心动过速	QRS低电压
+105058.txt	28	MALE	窦性心动过缓
+105059.txt			窦性心动过缓	临界ECG
+105060.txt	46	FEMALE	窦性心律	ST-T改变
+105061.txt	61	FEMALE	窦性心动过缓	ST-T改变	左心室肥大
+105062.txt	66	FEMALE	窦性心动过缓
+105063.txt	35	FEMALE	窦性心动过缓	临界ECG
+105064.txt	73	MALE	窦性心动过速	异常ECG	房性早搏	电轴左偏
+105065.txt	69	MALE	窦性心律	T波改变
+105066.txt	29	MALE	窦性心律	正常ECG
+105067.txt	44	FEMALE	窦性心动过缓
+105068.txt	35	FEMALE	窦性心动过缓
+105069.txt	67	FEMALE	窦性心律	ST-T改变	一度房室传导阻滞
+105070.txt	81	MALE	窦性心律	T波改变	左心室高电压	ST-T改变
+105071.txt	18	MALE	窦性心动过速
+105072.txt	41	MALE	窦性心动过缓	临界ECG
+105073.txt	57	MALE	ST-T改变	窦性心动过速
+105074.txt	50	MALE	窦性心律	正常ECG
+105075.txt	49	MALE	窦性心律	T波改变
+105076.txt	54	MALE	窦性心律	T波改变
+105077.txt	66	FEMALE	窦性心律	T波改变	ST-T改变	一度房室传导阻滞	窦性心动过缓
+105078.txt	81	FEMALE	窦性心律	T波改变	ST-T改变
+105079.txt	34	FEMALE	窦性心律	T波改变
+105080.txt	25	MALE	窦性心动过缓	左心室高电压
+105081.txt	28	FEMALE	窦性心律	T波改变
+105082.txt	43	MALE	窦性心律	完全性右束支传导阻滞
+105083.txt	61	MALE	窦性心动过速	QRS低电压
+105084.txt	19	MALE	窦性心律	正常ECG
+105085.txt	24	FEMALE	窦性心律	ST-T改变
+105086.txt	46	FEMALE	窦性心律	室性早搏
+105087.txt	18	MALE	窦性心律	临界ECG	电轴右偏
+105088.txt	46	MALE	窦性心律	T波改变
+105089.txt	54	MALE	窦性心律	T波改变	ST-T改变
+105090.txt	58	MALE	窦性心律	正常ECG
+105091.txt	69	FEMALE	窦性心律	ST-T改变
+105092.txt	83	MALE	窦性心律	完全性右束支传导阻滞
+105093.txt	61	FEMALE	窦性心律	ST-T改变
+105094.txt	59	FEMALE	窦性心律	ST-T改变
+105095.txt	56	FEMALE	窦性心律	ST-T改变
+105096.txt	63	MALE	窦性心动过缓	临界ECG
+105097.txt	27	FEMALE	窦性心动过缓	临界ECG
+105098.txt	50	FEMALE	ST-T改变	窦性心动过速
+105099.txt	34	FEMALE	窦性心动过缓
+105100.txt	26	MALE	窦性心律	临界ECG	电轴右偏
+105101.txt	26	FEMALE	窦性心动过速	临界ECG	QRS低电压
+105102.txt	90	FEMALE	窦性心动过缓
+105103.txt	57	MALE	窦性心动过缓
+105104.txt	34	MALE	窦性心律
+105105.txt			窦性心律	电轴右偏
+105106.txt	71	MALE	T波改变	窦性心动过缓
+105107.txt	28	FEMALE	窦性心动过速
+105108.txt	66	MALE	窦性心律	QRS低电压
+105109.txt	70	FEMALE	窦性心律	T波改变
+105110.txt	31	MALE	窦性心律
+105111.txt			窦性心动过速
+105112.txt	55	FEMALE	窦性心律	ST段改变
+105113.txt	46	FEMALE	窦性心动过缓
+105114.txt	51	MALE	窦性心动过速	电轴左偏	异常ECG
+105115.txt			T波改变	窦性心动过缓
+105116.txt	79	MALE	窦性心动过速	QRS低电压
+105117.txt	38	FEMALE	窦性心动过缓	临界ECG
+105118.txt			窦性心律	电轴左偏
+105119.txt	25	FEMALE	窦性心动过速
+105120.txt	28	MALE	窦性心律	T波改变
+105121.txt	48	FEMALE	窦性心律	T波改变
+105122.txt	53	FEMALE	窦性心律	ST段改变
+105123.txt	56	MALE	窦性心律
+105124.txt	33	FEMALE	窦性心律	T波改变
+105125.txt	28	MALE	窦性心律	正常ECG
+105126.txt	30	FEMALE	窦性心律	QRS低电压	临界ECG
+105127.txt	40	FEMALE	窦性心律	电轴右偏
+105128.txt	48	FEMALE	窦性心律	T波改变
+105129.txt			窦性心律	T波改变	左心室高电压
+105130.txt	64	FEMALE	窦性心律	T波改变	电轴右偏
+105131.txt			窦性心律	电轴左偏
+105132.txt		MALE	窦性心动过速	临界ECG
+105133.txt			窦性心律	电轴左偏
+105134.txt	61	FEMALE	窦性心动过缓	临界ECG	QRS低电压
+105135.txt	56	MALE	窦性心律	电轴左偏
+105136.txt	37	FEMALE	窦性心律	ST段改变
+105137.txt	34	FEMALE	窦性心律	QRS低电压	电轴左偏
+105138.txt	35	MALE	窦性心动过缓
+105139.txt	25	FEMALE	窦性心律	临界ECG	电轴右偏
+105140.txt	70	FEMALE	窦性心律	电轴左偏
+105141.txt	71	FEMALE	ST-T改变
+105142.txt	77	FEMALE	窦性心律	T波改变
+105143.txt	20	FEMALE	窦性心律	临界ECG	电轴右偏
+105144.txt	22	FEMALE	窦性心律	ST-T改变
+105145.txt	46	MALE	窦性心动过缓
+105146.txt	56	FEMALE	ST段改变	窦性心动过速	窦性心律
+105147.txt	50	MALE	窦性心律	QRS低电压
+105148.txt	28	FEMALE	窦性心律	QRS低电压
+105149.txt	33	MALE	T波改变	窦性心动过缓
+105150.txt	54	MALE	窦性心动过缓
+105151.txt	45	MALE	窦性心动过缓
+105152.txt	29	FEMALE	窦性心律	T波改变
+105153.txt	50	FEMALE	窦性心律	T波改变	ST-T改变
+105154.txt	27	FEMALE	窦性心律	ST段改变	房性早搏
+105155.txt	49	MALE	窦性心动过缓	临界ECG
+105156.txt	72	MALE	窦性心动过缓
+105157.txt	85	FEMALE	窦性心律	ST-T改变	左心室肥大
+105158.txt	26	FEMALE	窦性心律	T波改变
+105159.txt	53	MALE	窦性心动过缓	临界ECG
+105160.txt	26	MALE	窦性心动过缓
+105161.txt	76		窦性心律	ST-T改变
+105162.txt	28	FEMALE	窦性心律	房性早搏
+105163.txt			窦性心律	T波改变
+105164.txt	56	MALE	窦性心律	正常ECG
+105165.txt	58	MALE	窦性心动过速	临界ECG	房性早搏
+105166.txt	63	MALE	窦性心律	室性早搏	临界ECG
+105167.txt	33	FEMALE	窦性心动过缓
+105168.txt	51	MALE	窦性心律	T波改变
+105169.txt			窦性心律	电轴右偏
+105170.txt	89	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+105171.txt	49	MALE	窦性心动过缓	临界ECG
+105172.txt	23	FEMALE	窦性心动过缓
+105173.txt	39	FEMALE	窦性心律
+105174.txt	47	FEMALE	窦性心律	ST段改变
+105175.txt	41	MALE	窦性心律	正常ECG
+105176.txt	86	MALE	ST-T改变	心房颤动	室性早搏	起搏心律
+105177.txt	50	MALE	左心室高电压	心房颤动
+105178.txt	36	MALE	窦性心律	正常ECG
+105179.txt			窦性心律	电轴右偏
+105180.txt	39	FEMALE	ST段改变	窦性心动过速
+105181.txt	78	MALE	窦性心律	完全性右束支传导阻滞	房性早搏
+105182.txt	11	MALE	窦性心动过速
+105183.txt	44	MALE	窦性心律	T波改变
+105184.txt	86	MALE	心房颤动	快心室率
+105185.txt	32	FEMALE	窦性心律	QRS低电压
+105186.txt	27	FEMALE	窦性心律	T波改变
+105187.txt	68	MALE	心房颤动
+105188.txt	79	MALE	窦性心动过缓
+105189.txt	59	MALE	窦性心动过缓
+105190.txt	59	FEMALE	窦性心律	T波改变
+105191.txt	44	MALE	窦性心动过缓
+105192.txt	83	FEMALE	窦性心律	房性早搏	T波改变
+105193.txt	46	MALE	窦性心动过缓
+105194.txt			窦性心动过缓	临界ECG
+105195.txt	26	MALE	窦性心动过缓
+105196.txt	60	FEMALE	窦性心律	T波改变
+105197.txt	55	FEMALE	窦性心动过缓
+105198.txt	49	MALE	窦性心律	T波改变
+105199.txt			窦性心律	ST-T改变	左心室肥大
+105200.txt	78	MALE	心房颤动
+105201.txt	56	FEMALE	窦性心律	T波改变
+105202.txt	49	MALE	窦性心动过缓	临界ECG
+105203.txt	35	MALE	窦性心律	T波改变	室性早搏
+105204.txt	28	FEMALE	ST段改变	窦性心动过速
+105205.txt	43	FEMALE	窦性心律	ST段改变	ST-T改变
+105206.txt	32	MALE	窦性心动过缓
+105207.txt	51	MALE	窦性心律	正常ECG
+105208.txt			窦性心动过缓	临界ECG
+105209.txt	65	FEMALE	窦性心律	T波改变	左心室高电压	房性早搏
+105210.txt	16	MALE	窦性心律	电轴右偏
+105211.txt	51	FEMALE	窦性心律	T波改变	QRS低电压
+105212.txt			窦性心律	T波改变
+105213.txt	36	FEMALE	窦性心动过缓
+105214.txt	82	MALE	T波改变	心房颤动
+105215.txt	33	FEMALE	窦性心动过速	临界ECG
+105216.txt	19	FEMALE	窦性心律	临界ECG	QRS低电压
+105217.txt	69	MALE	心房颤动
+105218.txt	84	FEMALE	窦性心律	QRS低电压
+105219.txt	28	FEMALE	ST-T改变	窦性心动过速
+105220.txt	53	FEMALE	窦性心律	T波改变
+105221.txt	53	MALE	窦性心动过缓	ST-T改变
+105222.txt	67	MALE	窦性心律	T波改变
+105223.txt	65	FEMALE	T波改变	窦性心动过速
+105224.txt	52	MALE	窦性心律	正常ECG
+105225.txt	27	MALE	ST-T改变	窦性心动过速
+105226.txt	27	FEMALE	窦性心律	T波改变
+105227.txt			窦性心动过速
+105228.txt	31	FEMALE	窦性心律	T波改变	QRS低电压
+105229.txt	42	FEMALE	窦性心律	ST-T改变	ST段改变
+105230.txt	44	FEMALE	窦性心动过缓	临界ECG
+105231.txt	33	MALE	窦性心动过缓	左心室高电压
+105232.txt	68	FEMALE	窦性心动过缓
+105233.txt	50	FEMALE	窦性心动过缓
+105234.txt			窦性心律	电轴左偏
+105235.txt	60	MALE	窦性心律	T波改变
+105236.txt	31	FEMALE	窦性心律	ST-T改变	电轴右偏
+105237.txt	76	FEMALE	心房颤动
+105238.txt	59	FEMALE	窦性心律	T波改变
+105239.txt	43	MALE	窦性心律	QRS低电压
+105240.txt			窦性心动过缓
+105241.txt			窦性心动过缓	临界ECG
+105242.txt	49	FEMALE	窦性心律	ST-T改变
+105243.txt	40	MALE	窦性心律	QRS低电压
+105244.txt	47	FEMALE	窦性心律	ST-T改变
+105245.txt	25	FEMALE	窦性心律	电轴右偏
+105246.txt	58	MALE	窦性心动过缓	临界ECG
+105247.txt	84	FEMALE	T波改变	心房颤动	快心室率
+105248.txt	61	FEMALE	窦性心律	ST-T改变	左心室肥大
+105249.txt	83	MALE	ST-T改变	心房颤动
+105250.txt	21	MALE	窦性心动过速
+105251.txt	28	MALE	窦性心律	电轴右偏	室性早搏
+105252.txt	41	FEMALE	窦性心律	QRS低电压
+105253.txt	48	MALE	窦性心动过缓	临界ECG
+105254.txt	29	MALE	窦性心律	电轴右偏
+105255.txt	45	MALE	窦性心动过缓
+105256.txt	31	MALE	窦性心动过缓
+105257.txt	64	MALE	窦性心律	T波改变	左心室高电压	ST-T改变	左心室肥大
+105258.txt	33	FEMALE	窦性心律	T波改变
+105259.txt	39	FEMALE	窦性心动过速
+105260.txt	73	MALE	心房颤动	左心室高电压
+105261.txt	26	FEMALE	窦性心律	QRS低电压	临界ECG
+105262.txt	68	FEMALE	窦性心律
+105263.txt	49	MALE	窦性心动过缓	临界ECG
+105264.txt			窦性心律	T波改变
+105265.txt	25	FEMALE	窦性心动过速
+105266.txt	66	MALE	心房颤动
+105267.txt	30	MALE	窦性心动过缓
+105268.txt	36	FEMALE	窦性心律	ST段改变
+105269.txt	47	MALE	窦性心律	正常ECG
+105270.txt	64	FEMALE	窦性心律	T波改变
+105271.txt	60	MALE	窦性心律	电轴左偏
+105272.txt	27	MALE	窦性心律	正常ECG
+105273.txt	47	FEMALE	窦性心律	ST段改变
+105274.txt	39	FEMALE	窦性心律	电轴右偏
+105275.txt	3	FEMALE	窦性心动过速
+105276.txt	53	FEMALE	窦性心律	窦性心动过速	临界ECG	室性早搏
+105277.txt	35	MALE	窦性心动过速
+105278.txt	42	MALE	窦性心动过缓
+105279.txt			窦性心律	T波改变
+105280.txt	23	FEMALE	窦性心律	电轴左偏
+105281.txt	39	FEMALE	窦性心律	电轴右偏	临界ECG
+105282.txt	81	FEMALE	窦性心律	T波改变
+105283.txt	85	MALE	窦性心动过缓	完全性右束支传导阻滞
+105284.txt	56	FEMALE	窦性心律	T波改变
+105285.txt			窦性心动过缓
+105286.txt	9	FEMALE	窦性心律
+105287.txt	25	FEMALE	窦性心律	ST段改变
+105288.txt	16	FEMALE	窦性心动过速
+105289.txt	66	FEMALE	窦性心律	ST-T改变
+105290.txt	48	MALE	窦性心律	电轴左偏
+105291.txt			窦性心律	室性早搏	临界ECG	QRS低电压
+105292.txt	30	MALE	窦性心律	T波改变	正常ECG
+105293.txt	65	FEMALE	窦性心律	ST-T改变	房性早搏
+105294.txt	44	FEMALE	窦性心律	ST段改变	室性早搏
+105295.txt	56	MALE	窦性心动过缓
+105296.txt	54	FEMALE	窦性心律	ST-T改变
+105297.txt	35	MALE	窦性心律	正常ECG
+105298.txt	50	MALE	窦性心律	T波改变
+105299.txt	59	MALE	窦性心律	ST段改变
+105300.txt	63	MALE	窦性心律	电轴左偏
+105301.txt	55	MALE	窦性心律	电轴左偏
+105302.txt	66	MALE	窦性心律	T波改变
+105303.txt	47	MALE	窦性心律	正常ECG
+105304.txt	37	MALE	窦性心律	T波改变
+105305.txt	41	MALE	窦性心动过缓
+105306.txt	78	MALE	窦性心律	异常ECG	完全性右束支传导阻滞	右束支传导阻滞	房性早搏
+105307.txt	50	MALE	窦性心律	电轴左偏
+105308.txt	28	FEMALE	窦性心律	T波改变	QRS低电压
+105309.txt	39	MALE	窦性心动过速	电轴右偏
+105310.txt	38	FEMALE	T波改变	窦性心动过缓
+105311.txt	43	FEMALE	窦性心律	T波改变
+105312.txt			窦性心律	QRS低电压
+105313.txt	28	FEMALE	窦性心动过速	临界ECG
+105314.txt			窦性心律	左心室高电压
+105315.txt	30	FEMALE	窦性心律	QRS低电压
+105316.txt	43	FEMALE	窦性心律	电轴左偏
+105317.txt	28	FEMALE	窦性心律	T波改变
+105318.txt	27	FEMALE	窦性心动过速
+105319.txt	22	MALE	窦性心动过缓
+105320.txt	70	MALE	窦性心律	完全性右束支传导阻滞
+105321.txt			窦性心律	电轴右偏
+105322.txt	29	MALE	窦性心律	正常ECG
+105323.txt	34	FEMALE	窦性心律	正常ECG
+105324.txt	55	FEMALE	窦性心律	T波改变
+105325.txt	47	MALE	临界ECG	房性早搏
+105326.txt	72	MALE	心房颤动
+105327.txt	24	MALE	窦性心律	ST-T改变
+105328.txt	61	FEMALE	窦性心律	QRS低电压
+105329.txt			窦性心律	电轴右偏
+105330.txt	54	MALE	窦性心律	电轴左偏
+105331.txt	23	FEMALE	窦性心律	QRS低电压
+105332.txt	8	MALE	窦性心律	临界ECG	室性早搏
+105333.txt	73	FEMALE	窦性心律	室性早搏
+105334.txt	32	FEMALE	窦性心律	T波改变
+105335.txt	25	FEMALE	窦性心律	T波改变
+105336.txt	48	MALE	窦性心律	电轴右偏	临界ECG
+105337.txt	61	MALE	窦性心律	QRS低电压
+105338.txt	24	MALE	窦性心动过缓
+105339.txt	36	MALE	窦性心律	T波改变	电轴左偏
+105340.txt			窦性心律	临界ECG	房性早搏
+105341.txt			窦性心动过缓	电轴右偏
+105342.txt			窦性心动过速
+105343.txt	86	MALE	窦性心律	电轴左偏	一度房室传导阻滞	左前分支传导阻滞
+105344.txt	46	MALE	窦性心动过缓	临界ECG
+105345.txt	47	MALE	窦性心动过缓
+105346.txt			窦性心动过缓
+105347.txt	62	MALE	窦性心动过缓
+105348.txt	29	MALE	窦性心律	电轴右偏
+105349.txt	75	FEMALE	窦性心律	T波改变	QRS低电压
+105350.txt	48	FEMALE	窦性心律	T波改变
+105351.txt	48	MALE	ST-T改变	窦性心动过速
+105352.txt	49	MALE	窦性心律	电轴左偏
+105353.txt	51	MALE	窦性心律	正常ECG
+105354.txt	52	MALE	窦性心律	左心室高电压
+105355.txt	76	FEMALE	窦性心律	ST-T改变
+105356.txt	66	FEMALE	窦性心动过缓
+105357.txt	33	FEMALE	窦性心律	ST-T改变	ST段改变
+105358.txt	26	MALE	窦性心律	正常ECG
+105359.txt	76	MALE	窦性心律	完全性右束支传导阻滞
+105360.txt	23	FEMALE	窦性心律	T波改变
+105361.txt	32	MALE	窦性心律	ST-T改变
+105362.txt	21	FEMALE	ST段改变	窦性心动过速
+105363.txt	49	MALE	窦性心律	正常ECG
+105364.txt			窦性心动过缓	临界ECG
+105365.txt	27	FEMALE	窦性心律	临界ECG	室性早搏
+105366.txt	51	MALE	窦性心动过缓	临界ECG
+105367.txt	57	MALE	窦性心律	ST-T改变	左心室肥大
+105368.txt	36	MALE	窦性心律	电轴左偏
+105369.txt	32	MALE	窦性心律	T波改变
+105370.txt	50	MALE	窦性心动过缓
+105371.txt	44	MALE	窦性心律	正常ECG
+105372.txt	80	MALE	窦性心律	完全性右束支传导阻滞	右束支传导阻滞
+105373.txt	61	FEMALE	窦性心律	T波改变
+105374.txt	29	MALE	窦性心律	T波改变	左心室高电压
+105375.txt	84	MALE	窦性心律	完全性右束支传导阻滞
+105376.txt	50	MALE	窦性心律	T波改变	正常ECG
+105377.txt			窦性心律	电轴左偏
+105378.txt	73	MALE	窦性心律	ST-T改变
+105379.txt	60	MALE	窦性心动过速
+105380.txt	61	MALE	窦性心律	电轴右偏
+105381.txt	35	FEMALE	窦性心动过缓
+105382.txt	31	FEMALE	窦性心律	ST-T改变
+105383.txt	31	MALE	窦性心动过缓	电轴右偏
+105384.txt	52	FEMALE	窦性心律	ST-T改变	左心室肥大
+105385.txt	45	MALE	窦性心动过速
+105386.txt	78	MALE	窦性心律	完全性右束支传导阻滞
+105387.txt	4	FEMALE	窦性心动过速
+105388.txt	37	MALE	窦性心律	T波改变	正常ECG
+105389.txt	43	FEMALE	窦性心动过缓	临界ECG
+105390.txt			窦性心律	左心室高电压
+105391.txt	48	MALE	窦性心律	正常ECG
+105392.txt	35	FEMALE	窦性心律	临界ECG	电轴右偏
+105393.txt	57	MALE	T波改变	窦性心动过缓	不完全性右束支传导阻滞
+105394.txt	62	FEMALE	窦性心律	ST-T改变	T波改变
+105395.txt	59	FEMALE	窦性心律	QRS低电压
+105396.txt	37	FEMALE	窦性心律	临界ECG	QRS低电压
+105397.txt	46	MALE	窦性心动过缓
+105398.txt	78	MALE	窦性心律	T波改变
+105399.txt	68	MALE	窦性心律	正常ECG
+105400.txt			窦性心动过缓
+105401.txt	36	FEMALE	窦性心律	电轴右偏
+105402.txt	57	MALE	T波改变	窦性心动过缓	非特异性T波异常
+105403.txt	45	FEMALE	窦性心动过缓	QRS低电压
+105404.txt	81	FEMALE	窦性心动过缓
+105405.txt	64	MALE	窦性心律	QRS低电压
+105406.txt	42	MALE	T波改变	窦性心动过缓	左心室高电压
+105407.txt			窦性心动过缓	临界ECG
+105408.txt	46	MALE	窦性心动过缓
+105409.txt	45	FEMALE	窦性心动过缓
+105410.txt	53	FEMALE	窦性心律	ST-T改变
+105411.txt	76	FEMALE	T波改变	窦性心动过速
+105412.txt			窦性心律	临界ECG	电轴右偏
+105413.txt	63	FEMALE	窦性心律	ST-T改变
+105414.txt	43	FEMALE	窦性心律	ST-T改变
+105415.txt	52	MALE	窦性心律	T波改变
+105416.txt	35	MALE	窦性心动过缓	左心室高电压
+105417.txt			窦性心动过速
+105418.txt	18	FEMALE	窦性心动过速	临界ECG
+105419.txt	38	MALE	窦性心律	ST-T改变
+105420.txt	24	MALE	窦性心律	电轴右偏
+105421.txt	27	FEMALE	窦性心动过缓
+105422.txt	56	FEMALE	ST-T改变	窦性心动过速
+105423.txt	36	MALE	窦性心动过缓
+105424.txt	68	MALE	窦性心律	ST-T改变	左心室肥大
+105425.txt	82	MALE	窦性心律	ST-T改变	房性早搏	完全性右束支传导阻滞
+105426.txt	20	FEMALE	窦性心律	正常ECG
+105427.txt	51	FEMALE	窦性心律	T波改变
+105428.txt	38	MALE	窦性心律	电轴右偏
+105429.txt			窦性心动过缓
+105430.txt	54	MALE	窦性心律	电轴左偏
+105431.txt	73	FEMALE	T波改变	窦性心动过缓
+105432.txt	45	MALE	窦性心动过缓
+105433.txt	61	FEMALE	窦性心动过缓	临界ECG
+105434.txt	46	FEMALE	窦性心动过缓
+105435.txt	23	FEMALE	窦性心动过缓
