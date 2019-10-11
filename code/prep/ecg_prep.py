@@ -1,16 +1,7 @@
 import os
-import zipfile
 import pandas as pd
 
 from tqdm import tqdm
-
-
-def unzip(zip_file, extract_to):
-
-    zip_ref = zipfile.ZipFile(zip_file, 'r')
-    zip_ref.extractall(extract_to)
-    zip_ref.close()
-    return
 
 
 def label2csv(input_file, output_file, labels_file):
@@ -113,32 +104,23 @@ def main(args):
     print('Preprocessing on train and testA')
     print('-' * 100)
 
-    # -1- Unzip data into ../user_data
-    print('-1- Unzip data into ../user_data')
-    unzip(args.train_zip, args.output_dir)
-    unzip(args.testA_zip, args.output_dir)
-    unzip(args.testB_zip, args.output_dir)
-
-    train_dir = os.path.join(args.output_dir, 'train')
-    testA_dir = os.path.join(args.output_dir, 'testA')
-
-    # -2- Convert labels of train and testA to csv
-    print('-2- Convert labels of train and testA to csv')
+    # -1- Convert labels of train and testA to csv
+    print('-1- Convert labels of train and testA to csv')
     train_csv = os.path.join(args.output_dir, 'train.csv')
     label2csv(args.train_txt, train_csv, args.arrythmia_txt)
 
     testA_csv = os.path.join(args.output_dir, 'testA.csv')
     label2csv(args.testA_txt, testA_csv, args.arrythmia_txt)
 
-    # -3- Merge labels of train and testA
-    print('-3- Merge labels of train and testA')
+    # -2- Merge labels of train and testA
+    print('-2- Merge labels of train and testA')
     train_testA_csv = os.path.join(args.output_dir, 'train_test.csv')
     merge_train_testA(
-        train_csv, train_dir, testA_csv, testA_dir, train_testA_csv
+        train_csv, args.train_dir, testA_csv, args.testA_dir, train_testA_csv
     )
 
-    # -4- Remove duplicates in train and testA
-    print('-4- Remove duplicates in train and testA')
+    # -3- Remove duplicates in train and testA
+    print('-3- Remove duplicates in train and testA')
     train_testA_noDup_csv = os.path.join(args.output_dir, 'train_testA_noDup.csv')
     remove_duplicates(train_testA_csv, train_testA_noDup_csv)
 
@@ -152,7 +134,7 @@ if __name__ == '__main__':
 
     warnings.filterwarnings('ignore')
     parser = argparse.ArgumentParser(
-        description='HF ECG Competition - Round 1 - Preprocessing Pipeline'
+        description='HFECG Competition -Round 1- Preprocessing Pipeline'
     )
 
     parser.add_argument('--arrythmia-txt', '-a', type=str,
@@ -164,15 +146,12 @@ if __name__ == '__main__':
     parser.add_argument('--testA-txt', '-at', type=str,
                         action='store', dest='testA_txt',
                         help='Labels of testA set')
-    parser.add_argument('--train-zip', '-tz', type=str,
-                        action='store', dest='train_zip',
-                        help='Zip file of training set')
-    parser.add_argument('--testA-zip', '-az', type=str,
-                        action='store', dest='testA_zip',
-                        help='Zip file of testA set')
-    parser.add_argument('--testB-zip', '-bz', type=str,
-                        action='store', dest='testB_zip',
-                        help='Zip file of testB set')
+    parser.add_argument('--train-dir', '-td', type=str,
+                        action='store', dest='train_dir',
+                        help='Directory of training set')
+    parser.add_argument('--testA-dir', '-ad', type=str,
+                        action='store', dest='testA_dir',
+                        help='Directory of testA set')
     parser.add_argument('--output-dir', '-o', type=str,
                         action='store', dest='output_dir',
                         help='Directory to save preprocessed data')

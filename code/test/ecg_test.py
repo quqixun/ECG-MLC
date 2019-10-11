@@ -8,6 +8,7 @@ from ecg_model import DenseNet
 from torch.autograd import Variable
 
 
+# Mean and Std of train set
 ECG_MEAN = np.array(
     [0.618, 0.974, 0.080, 1.172, 1.415, 1.419,
      1.187, 0.954, 0.356, -0.796, 0.131, 0.665]
@@ -22,7 +23,7 @@ class ECGPredictor(object):
 
     def __init__(self, model_path, threshold, labels):
         self.model = DenseNet(
-            num_classes=55, block_config=(3, 6, 12, 8)
+            num_classes=55, block_config=(6, 12, 24, 16)
         )
         self.model.load_state_dict(
             torch.load(model_path, map_location='cpu')
@@ -169,7 +170,7 @@ if __name__ == '__main__':
 
     warnings.filterwarnings('ignore')
     parser = argparse.ArgumentParser(
-        description='HF ECG Competition - Round 1 - Predict Test Samples'
+        description='HFECG Competition -Round 1- Predicting Pipeline'
     )
 
     parser.add_argument('--signal-dir', '-s', type=str,

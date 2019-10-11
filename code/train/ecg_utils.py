@@ -7,6 +7,8 @@ from sklearn.metrics import f1_score
 from scipy.optimize import basinhopping
 
 
+# Class weights computed using train set
+# log2(number of data of all classes / number of data in one class)
 CLASSES_WEIGHTS = np.log2([
     1.425, 7.046, 7.149, 8.125, 5.77,
     5.572, 11.419, 11.993, 12.614, 15.623,

@@ -16,7 +16,7 @@ class ECGTrainer(object):
 
     def __init__(self):
         torch.set_num_threads(6)
-        self.n_epochs = 100
+        self.n_epochs = 60
         self.batch_size = 128
         self.scheduler = None
         self.cuda = torch.cuda.is_available()
@@ -29,7 +29,7 @@ class ECGTrainer(object):
 
     def __build_model(self):
         self.model = DenseNet(
-            num_classes=55, block_config=(3, 6, 12, 8)
+            num_classes=55, block_config=(6, 12, 24, 16)
         )
         if self.cuda:
             self.model.cuda()
@@ -37,7 +37,7 @@ class ECGTrainer(object):
 
     def __build_criterion(self):
         self.criterion = ComboLoss(
-            losses=['mlsml', 'f1', 'focal'], weights=[1, 1, 1]
+            losses=['mlsml', 'f1', 'focal'], weights=[1, 1, 3]
         )
         return
 
@@ -61,7 +61,7 @@ class ECGTrainer(object):
 
         dataloader = {
             'train': ECGLoader(trainset, self.batch_size, True).build(),
-            'valid': ECGLoader(validset, self.batch_size, False).build()
+            'valid': ECGLoader(validset, 64, False).build()
         }
 
         best_metric, best_preds = None, None
@@ -135,7 +135,7 @@ class ECGTrainer(object):
                 best_loss_metrics[0], best_loss_metrics[1],
                 best_loss_metrics[2], best_f1) \
             + '[BEST THRESHOLD:\n{}]\n'.format(best_th) \
-            + '=' * 70 + '\n'
+            + '=' * 100 + '\n'
         print(res_message)
         return
 
@@ -192,7 +192,7 @@ if __name__ == '__main__':
 
     warnings.filterwarnings('ignore')
     parser = argparse.ArgumentParser(
-        description='HF ECG Competition - Round 1 - Training Pipeline'
+        description='HFECG Competition -Round 1- Training Pipeline'
     )
 
     parser.add_argument('--labels-csv', '-l', type=str,
