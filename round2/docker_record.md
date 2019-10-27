@@ -9,7 +9,7 @@ sudo docker login --username=quqixun@gmail.com registry.cn-shanghai.aliyuncs.com
 sudo docker push registry.cn-shanghai.aliyuncs.com/hf_ecg/hf_ecg_submit:[镜像版本]
 ```
 
-|文件夹|镜像版本|镜像地址|模型|预训练|其他|
-|---------|-----------|------------|-----|---------|------|
-|docker1|0.0.6| registry.cn-shanghai.aliyuncs.com/hf_ecg/hf_ecg_submit:0.0.3|small|无|无|
-|docker2|0.0.7| registry.cn-shanghai.aliyuncs.com/hf_ecg/hf_ecg_submit:0.0.4|small|有|无|
+|文件夹|镜像版本|镜像地址|模型|预训练|数据集|其他|TestA|TestB|
+|---------|-----------|---- |-----|------|---|-----|-----|
+|docker1|0.0.6| registry.cn-shanghai.aliyuncs.com/hf_ecg/hf_ecg_submit:0.0.6|small|无|round2|无|0.9104|-|
+|docker2|0.0.7| registry.cn-shanghai.aliyuncs.com/hf_ecg/hf_ecg_submit:0.0.7|small|有|round2|无|0.9075|-|
