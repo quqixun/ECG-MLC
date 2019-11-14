@@ -1,6 +1,7 @@
 # ECG Multi-Label Classfication
 
-This repo is to archive a competition that is about multi-label classfication on 8-leads ECGs.  
+This repo is to archive code of a competition I attented.
+The competition is about multi-label classfication of 8-leads ECGs.  
 This repo does not provide a top solution, but for backup.
 
 
@@ -24,6 +25,7 @@ Access to ```Round 1 Train```, ```Round 1 TestA``` and ```Round2 Train``` should
 |:---:|:--:|:-----:|:-----:|:-----:|:--:|
 |Round 1|[[Link]](./round1)|55|0.8201|0.8424|28/2353|
 |Round 2|[[Link]](./round2)|34|0.9251|0.9225|35/2353|
+
 \* F1-score
 
 
