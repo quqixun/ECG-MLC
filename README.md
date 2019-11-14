@@ -2,7 +2,7 @@
 
 This repo is to archive code of a competition I attented.  
 The competition is about multi-label classfication of 8-leads ECGs.  
-This repo does not provide a top solution, but for backup.
+This repo does not provide a top solution, but for backup and sharing.
 
 
 ## 1. Dataset
