@@ -1,6 +1,6 @@
 # ECG Multi-Label Classfication
 
-This repo is to archive code of a competition I attented.
+This repo is to archive code of a competition I attented.  
 The competition is about multi-label classfication of 8-leads ECGs.  
 This repo does not provide a top solution, but for backup.
 
@@ -9,10 +9,13 @@ This repo does not provide a top solution, but for backup.
 
 Page: ["合肥高新杯"心电人机智能大赛](https://tianchi.aliyun.com/competition/entrance/231754/introduction?spm=5176.12281915.0.0.35216dc9Wdmtzg)
 
-|Round|Classes|Train|TestA|TestB|
+|Round|Classes|Train\*|TestA\*|TestB\*|
 |:---:|:-----:|:---:|:---:|:---:|
 |Round 1|55|24106|8036|5435|
 |Round 2|34|20036|9918|12622|
+
+\* Number of samples
+
 
 ```Round 2 TestA``` and ```Round 2 TestB``` are not available for downloading.  
 ```Round 1 TestB``` does not have labels.  
