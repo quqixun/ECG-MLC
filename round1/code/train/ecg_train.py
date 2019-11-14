@@ -14,12 +14,18 @@ from skmultilearn.model_selection import IterativeStratification
 
 class ECGTrainer(object):
 
-    def __init__(self):
-        torch.set_num_threads(6)
+    def __init__(self, block_config='small', num_threads=2):
+        torch.set_num_threads(num_threads)
         self.n_epochs = 60
         self.batch_size = 128
         self.scheduler = None
+        self.num_threads = num_threads
         self.cuda = torch.cuda.is_available()
+
+        if block_config == 'small':
+            self.block_config = (3, 6, 12, 8)
+        else:
+            self.block_config = (6, 12, 24, 16)
 
         self.__build_model()
         self.__build_criterion()
@@ -29,7 +35,7 @@ class ECGTrainer(object):
 
     def __build_model(self):
         self.model = DenseNet(
-            num_classes=55, block_config=(6, 12, 24, 16)
+            num_classes=55, block_config=self.block_config
         )
         if self.cuda:
             self.model.cuda()
@@ -42,7 +48,6 @@ class ECGTrainer(object):
         return
 
     def __build_optimizer(self):
-        # https://github.com/Luolc/AdaBound
         opt_params = {'lr': 1e-3, 'weight_decay': 0.0,
                       'params': self.model.parameters()}
         self.optimizer = AdaBound(amsbound=True, **opt_params)
@@ -60,8 +65,8 @@ class ECGTrainer(object):
         thresh_path = os.path.join(model_dir, 'threshold.npy')
 
         dataloader = {
-            'train': ECGLoader(trainset, self.batch_size, True).build(),
-            'valid': ECGLoader(validset, 64, False).build()
+            'train': ECGLoader(trainset, self.batch_size, True, self.num_threads).build(),
+            'valid': ECGLoader(validset, 64, False, self.num_threads).build()
         }
 
         best_metric, best_preds = None, None
@@ -142,9 +147,11 @@ class ECGTrainer(object):
 
 class ECGTrain(object):
 
-    def __init__(self, cv=5):
+    def __init__(self, cv=5, block_config='small', num_threads=2):
 
         self.cv = cv
+        self.num_threads = num_threads
+        self.block_config = block_config
         return
 
     def __model_dir(self, models_dir, i):
@@ -154,7 +161,7 @@ class ECGTrain(object):
         return model_dir
 
     def __train(self, trainset, validset, model_dir):
-        trainer = ECGTrainer()
+        trainer = ECGTrainer(self.block_config, self.num_threads)
         trainer.run(trainset, validset, model_dir)
         return
 
@@ -180,7 +187,9 @@ class ECGTrain(object):
 
 
 def main(args):
-    pipeline = ECGTrain(cv=args.cv)
+    pipeline = ECGTrain(cv=args.cv,
+                        block_config=args.block_config,
+                        num_threads=args.num_threads)
     pipeline.run(labels_csv=args.labels_csv,
                  models_dir=args.models_dir)
     return
@@ -201,6 +210,12 @@ if __name__ == '__main__':
     parser.add_argument('--models-dir', '-m', type=str,
                         action='store', dest='models_dir',
                         help='Directory of output models')
+    parser.add_argument('--block-config', '-b', type=str,
+                        action='store', dest='block_config',
+                        help='Configuration of number of blocks')
+    parser.add_argument('--num-threads', '-nt', type=int, default=2,
+                        action='store', dest='num_threads',
+                        help='Number of cross validation')
     parser.add_argument('--cv', '-c', type=int,
                         action='store', dest='cv',
                         help='Number of cross validation')

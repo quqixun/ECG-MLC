@@ -72,16 +72,18 @@ class ECGDataset(Dataset):
 
 class ECGLoader():
 
-    def __init__(self, dataset, batch_size, is_train):
+    def __init__(self, dataset, batch_size, is_train, num_threads=2):
         self.dataset = dataset
         self.is_train = is_train
         self.batch_size = batch_size
+        self.num_threads = num_threads
         return
 
     def build(self):
         ecg_dataset = ECGDataset(self.dataset, self.is_train)
-        dataloader = DataLoader(ecg_dataset,
-                                batch_size=self.batch_size,
-                                shuffle=True, num_workers=6,
-                                pin_memory=False)
+        dataloader = DataLoader(
+            ecg_dataset, batch_size=self.batch_size,
+            shuffle=True, num_workers=self.num_threads,
+            pin_memory=False
+        )
         return dataloader

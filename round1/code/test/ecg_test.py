@@ -21,9 +21,14 @@ ECG_STD = np.array(
 
 class ECGPredictor(object):
 
-    def __init__(self, model_path, threshold, labels):
+    def __init__(self, model_path, block_config, threshold, labels):
+        if block_config == 'small':
+            self.block_config = (3, 6, 12, 8)
+        else:
+            self.block_config = (6, 12, 24, 16)
+
         self.model = DenseNet(
-            num_classes=55, block_config=(6, 12, 24, 16)
+            num_classes=55, block_config=self.block_config
         )
         self.model.load_state_dict(
             torch.load(model_path, map_location='cpu')
@@ -133,7 +138,7 @@ def main(args):
         print('Model:', model_path)
         model_dir = '/'.join(str(model_path).split('/')[:-1])
         threshold = np.load(os.path.join(model_dir, 'threshold.npy'))
-        predictor = ECGPredictor(model_path, threshold, labels)
+        predictor = ECGPredictor(model_path, args.block_config, threshold, labels)
         model_results = []
         for sample in tqdm(submit_samples, ncols=75):
             sample_strip = sample.strip('\n')
@@ -188,6 +193,9 @@ if __name__ == '__main__':
     parser.add_argument('--output-dir', '-o', type=str,
                         action='store', dest='output_dir',
                         help='Directory to save results')
+    parser.add_argument('--block-config', '-b', type=str,
+                        action='store', dest='block_config',
+                        help='Configuration of number of blocks')
     parser.add_argument('--gpu', '-g', type=str,
                         action='store', dest='gpu',
                         help='Devoce NO. of GPU')
